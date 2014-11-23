@@ -13,11 +13,12 @@ Comment: Meeting: T 9:00 - 10:50 am
 
 #### Course Bio: ####
 >What is the violence of a line drawn upon a map? or on a terrain? How are people produced by such mapping? What anxieties drive the imperial cartographic impulse? What pressures does *terra nullis* exert *in situ*? What do the bodies produced in mapped territories look like? What bodies exist in unmapped terrains? What is the relationship between wonder, amazement, and control, annihilation? Where do we locate ourselves as scholars reading these maps? What maps are visible when we visit the landscape? How are narratives produced against maps? How are histories made visible in terrain?
+
 >These questions will guide us as we traverse a theoretical terrain of writings on space and territory, and situate ourselves in specific historical moments of imperial mastery over space. We will cover a lot of ground temporally (focusing largely on mid-17th and mid-18th c) but our geographic focus will be continental America and sub-continental India. 
 >As part of the exercise to think spatially about power and violence, the seminar will have a Geographic Informational Science (G.I.S.) Lab attached to it. We will learn the techniques and tools of making maps, and our exercises will allow us to create our own arguments about thinking spatially. No prior technical skills are needed for this course - except for the skill of close-reading. 
 
 ####Assessment:####
-* 20% - Blog/Postings/Participation
+* 20% - Blog/Postings/Participation - on Piazza
 * 20% - Leading discussion in Class
 * 10% - Paired-Response Papers 
 * 30% - GIS Project
@@ -30,55 +31,60 @@ Comment: Meeting: T 9:00 - 10:50 am
 >Order to be shuffled/Week Assignments to be Assigned. 
 
 ####Films:
-1. Stage Coach (1939). dir John Ford
-2. The Fall (2006). dir Tarsem
+1. *Stage Coach* (1939). dir John Ford
+2. *The Fall* (2006). dir Tarsem
 
 #### Photographs ####
-1. Wilfred Thesiger (1910-2003) Photo Collection at Pitt River Museum
+1. Wilfred Thesiger (1910-2003) Photo Collection at Pitt River Museum (online).
 
 
 ###Texts
+
 ####(Theory)
 1. Henri Lefebvre, *The Production of Space* (London: Wiley, 1992)
-2. Febvre, Lucien. “Frontière: The Word and the Concept” *A New Kind of History and Other Essays*. ed. Peter Burke. (NY: Harper & Row, 1973: 208-218).  3. Michel Foucault, “Of Other Spaces: Utopias and Heterotopias” *Architecture /Mouvement/ Continuité* (October, 1984).
+2. Febvre, Lucien. “Frontière: The Word and the Concept” *A New Kind of History and Other Essays*. ed. Peter Burke. (NY: Harper & Row, 1973: 208-218).
+3. Michel Foucault, “Of Other Spaces: Utopias and Heterotopias” *Architecture /Mouvement/ Continuité* (October, 1984).
 4. Michel Foucault, “Questions on Geography,” *Power/Knowledge: Selected Interviews and Other Writings, 1972–1977*. (NY: Pantheon, 63–77).
 5. Jeremy Adelman and Stephen Aron, "From Borderlands to Borders: Empires, Nation-States, and the Peoples in Between in North American History," *American Historical Review* 104:3 (June 1999), 814-841. 
 6. Doreen Massey, “Spatialising the history of modernity” *For Space* (NY: Sage Publication, 2005)
 
-####(Early-Modern & Medieval)
-28. Colin Heywood, "The Frontier in Ottoman History: Old Ideas and New Myths," in Daniel Power and Naomi Standen, *Frontiers in Question: Eurasian Borderlands, 700-1700* (London, 1999), 228-250. 
-29. Shawkat M. Toorawa, “Waq al-Waq: Fabulous, Fabular, Indian Ocean (?) Island(s) …" *Emergences* v. 10, no 2, 2000.
-30. Travis Zadeh. *Mapping Frontiers Across Medieval Islam: Geography, Translation, and the ‘Abbasid Empire*  (Berlin: Tauris, 2011): Selections
+####(Case Study/Theory)
+1. Matthew H. Edney, *Mapping an Empire* (Chicago: University of Chicago Press, 1989)
+2. James C. Scott, *The Art of Not Being Governed* (New Haven: Yale University Press, 2010)
+3. Manan Ahmed, "Adam's Mirror" *EPW* 
+4. Frederick Jackson Turner, “The Significance of the Frontier in American History” (1893)
+5. Michael Baud and Willem Van Schendel, “Toward a Comparative History of Borderlands,” *Journal of World History* 8:2 (Fall 1997): 211-242
 
 
-####(Imperial Britain)
-26. George Nathaniel Curzon, *Frontiers: [lecture] delivered in the Sheldonian Theatre,* Oxford, November 2, 1907 (Westport, CT: Greenwood Press, 1976) 1-58. 
-27. Issac, Benjamin (1988). "The Meaning of the Terms Limes and Limitanei ." *Journal of Roman Studies* 78:125-147
+####(Case Study/Imperial Britain)
+1. George Nathaniel Curzon, *Frontiers: [lecture] delivered in the Sheldonian Theatre,* Oxford, November 2, 1907 (Westport, CT: Greenwood Press, 1976) 1-58. 
+2. Issac, Benjamin (1988). "The Meaning of the Terms Limes and Limitanei ." *Journal of Roman Studies* 78:125-147
 
-####(Theory/Case Study)
-7. Matthew H. Edney, *Mapping an Empire* (Chicago: University of Chicago Press, 1989)
-8. James C. Scott, *The Art of Not Being Governed* (New Haven: Yale University Press, 2010)
-9. Manan Ahmed, "Adam's Mirror" *EPW* 
-10. Frederick Jackson Turner, “The Significance of the Frontier in American History” (1893)
-11. Michael Baud and Willem Van Schendel, “Toward a Comparative History of Borderlands,” *Journal of World History* 8:2 (Fall 1997): 211-242
+
+####(Case Study/Early-Modern & Medieval Islam)
+1. Ali Anooshahr. *The Ghazi Sultans and the Frontiers of Islam: A Comparative Study of the Late Medieval and Early Modern Periods* (New York: Routledge, 2009)
+2. Ralph W. Brauer. *Boundaries and Frontiers in Medieval Muslim Geography*, (Philadelphia: American Philosophical Society, 1995)
+3. Colin Heywood, "The Frontier in Ottoman History: Old Ideas and New Myths," in Daniel Power and Naomi Standen, *Frontiers in Question: Eurasian Borderlands, 700-1700* (London, 1999), 228-250. 
+4. Shawkat M. Toorawa, “Waq al-Waq: Fabulous, Fabular, Indian Ocean (?) Island(s) …" *Emergences* v. 10, no 2, 2000.
+5. Travis Zadeh. *Mapping Frontiers Across Medieval Islam: Geography, Translation, and the ‘Abbasid Empire*  (Berlin: Tauris, 2011): Selections
 
 
 ####(Case Study/America)
-12. Brian DeLay, *War of a Thousand Deserts* (New Haven: Yale University Press, 2009)
-13. Martha Schoolman, *Abolitionist Geographies* (Minneapolis: University of Minnesota Press, 2014)
-14. Sheila McManus, *The Line Which Separates* (University of Nebraska Press, 2005)
-15. Pekka Hämäläinen and Samuel Truett, “On Borderlands,” *Journal of American History* 98:2 (Sept 2011): 338-361
-16. Karl Jacoby, “The Broad Platform of Extermination” *Journal of Genocide Research* 10:2 (June 2008): 249-67
-17. Evelyn Hu-DeHart, “Chinatowns and Borderlands: Inter-Asian Encounters in the Diaspora,” *Modern Asian Studies* 46:2 (March 2012): 425-51
-18. Daniel D. Arreola, “Chiricahua Apache Homeland in the Borderland Southwest,” *Geographical Review* 102:1 (January 2012): 111-31
+1. Brian DeLay, *War of a Thousand Deserts* (New Haven: Yale University Press, 2009)
+2. Martha Schoolman, *Abolitionist Geographies* (Minneapolis: University of Minnesota Press, 2014)
+3. Sheila McManus, *The Line Which Separates* (University of Nebraska Press, 2005)
+4. Pekka Hämäläinen and Samuel Truett, “On Borderlands,” *Journal of American History* 98:2 (Sept 2011): 338-361
+5. Karl Jacoby, “The Broad Platform of Extermination” *Journal of Genocide Research* 10:2 (June 2008): 249-67
+6. Evelyn Hu-DeHart, “Chinatowns and Borderlands: Inter-Asian Encounters in the Diaspora,” *Modern Asian Studies* 46:2 (March 2012): 425-51
+7. Daniel D. Arreola, “Chiricahua Apache Homeland in the Borderland Southwest,” *Geographical Review* 102:1 (January 2012): 111-31
 
 ####(Case Study/India)
-19. Chitralekha Zutshi, *Kashmir’s Contested Pasts* (New York: Oxford University Press, 2014)
-20. Sana Haroon, *Frontier of Faith* (Hurst, 2011)
-21. Sanghamitra Misra, *Becoming a Borderland: The Politics of Space and Identity in Colonial Northeastern India* (Routledge, 2014)
-22. Bodhisattva Kar, ""Heads in the Naga Hills”, in Partha Chatterjee, Tapati Guha-Thakurta and Bodhisattva Kar (eds.), *New Cultural Histories of India: Materiality and Practices* (New Delhi: Oxford University Press, 2013)
-23. Joya Chatterji, “The Fashioning of a Frontier: The Radcliffe Line and Bengal’s Border Landscape, 1947-1952,” *Modern Asian Studies* 33:1 (Jan 1999): 185-242. 
-24. Ainslie T. Embree, "Frontiers into Boundaries: From the Traditional to the Modern State," in *Realm and Region in Traditional India*, ed. Richard G. Fox (Durham, N.C.: Duke UP, 1977): 255-280. 
+1. Chitralekha Zutshi, *Kashmir’s Contested Pasts* (New York: Oxford University Press, 2014)
+2. Sana Haroon, *Frontier of Faith* (Hurst, 2011)
+3. Sanghamitra Misra, *Becoming a Borderland: The Politics of Space and Identity in Colonial Northeastern India* (Routledge, 2014)
+4. Bodhisattva Kar, ""Heads in the Naga Hills”, in Partha Chatterjee, Tapati Guha-Thakurta and Bodhisattva Kar (eds.), *New Cultural Histories of India: Materiality and Practices* (New Delhi: Oxford University Press, 2013)
+5. Joya Chatterji, “The Fashioning of a Frontier: The Radcliffe Line and Bengal’s Border Landscape, 1947-1952,” *Modern Asian Studies* 33:1 (Jan 1999): 185-242. 
+6. Ainslie T. Embree, "Frontiers into Boundaries: From the Traditional to the Modern State," in *Realm and Region in Traditional India*, ed. Richard G. Fox (Durham, N.C.: Duke UP, 1977): 255-280. 
 
 ### Bibliography ###
 
