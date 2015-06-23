@@ -27,6 +27,15 @@ Comment: Meeting: T 9:00 - 10:50 am
 
 >We aim to focus on digital humanities and cooperative work in this seminar, and our assessment will reflect that. The majority of written work will be done in a forum/discussion space where you will be writing for your peers. The effort here will be to write quickly; to write clearly; and to write with the intention of illuminating the discussed text. You will also co-write and co-present to give you a sense of how cooperative work can integrate intellectual property as well as collective clarity. Our digital work will also be collective, though, we will produce individual *argumentative* maps.
 
+###GIS Begins
+
+* Google Earth (http://earth.google.com) (both PC and Mac; note that this will take a while to install because it's a big file.). Start with this [lesson](http://programminghistorian.org/lessons/googlemaps-googleearth)
+
+* [QGIS](http://qgis.org) (both PC and Mac). Start with this [instructions page](http://programminghistorian.org/lessons/qgis-layers) at Programming Historian. For QGIS, you need to have some plug-ins installed as well. Coordinate, Georeferencer, OpenLayers, and Points2One.
+ 
+* [Grass GIS](http://grass.osgeo.org) & [video tutorials](https://www.youtube.com/user/GRASSGISNEWS/videos?view=0)
+ 
+
 ### Assigned Readings and Viewings ###
 >Order to be shuffled/Week Assignments to be Assigned. 
 
