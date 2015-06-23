@@ -1,6 +1,5 @@
 Title: Graduate Colloquium on Borderlands
 Author: Ahmed  (<ma3179@columbia.edu>) 
-Comment: Meeting: T 9:00 - 10:50 am
 
 
 ## Borderlands: Towards a Spatial History of Empire 
