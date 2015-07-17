@@ -68,3 +68,21 @@ Primary Sources –
 * Jacques Lacan, “Of the Gaze as Objet petit a” *The Four Fundamental Concepts of Psychoanalysis * 
 * Gaston Bachelard,* Poetics of Space  *
 * Edward Soja, *Thirdspace. Journeys to Los Angeles and Other Real-and-Imagined Places*
+
+
+### Walks in NYC
+
+**Walk # 1**
+
+[Map of the Walk](https://www.google.com/maps/d/edit?mid=zs6KOaeSfSdE.knkxMvFBQ7MI&usp=sharing)
+
+Our first walk will carry the theme of "pilgrimage" to go along with the reading of Benjamin of Tudela *Itinerary*. Similarly we will carry out a pilgrimage of our own, with three sacred sites as our visitations. You can also read about medieval pilgrimage of [Price](http://www.bl.uk/onlinegallery/sacredtexts/mparis.html). Our first stop will be Grant's [Tomb at 125th](http://www.nyc-architecture.com/HAR/HAR008.htm). We will then continue up Broadway to Audobon Hall where Malcolm X was [assassinated](http://maap.columbia.edu/place/240). We will continue further Broadway (which was originally the Wickquasgeck Trail) until we reach the Inwood Hill Park. The site there is the last vestiges of the Lenape people in Manhattan and their [memory](http://myinwood.net/the-indian-caves-of-inwood-hill-park/) is only available through [colonial memories](http://myinwood.net/inwoods-indian-life-reservation/). There is a fourth stop (right before the subway) that I will let you discover. 
+
+
+**Walk # 2**
+
+[Map of the Walk](https://www.google.com/maps/d/edit?mid=zs6KOaeSfSdE.kPq8MdRZWIuc&usp=sharing)
+
+The theme of the second walk is the merchant empire of Manhattan and its connection to the knowledge-making enterprise of nineteenth century 'exploration'. We will start with John Jacob Astor-- the first "Millionaire American", financier of Lewis-Clarke Expedition as well as the founder of the NYPL. We will start at Astor Place in Village and go down to Battery Park via Mott Street. Check out the folder Chinatown-Opium in Files & Resources and also read about the [1849 Astor Riots](https://en.wikipedia.org/wiki/Astor_Place_Riot) and about John Jacob Astor's [trade](http://www.historynet.com/john-jacob-astor-wealthy-merchant-and-fur-trader.htm) and [practices](http://www.washingtonpost.com/entertainment/books/astoria--john-jacob-astor-and-thomas-jeffersons-lost-pacific-empire-by-peter-stark/2014/03/21/61c53796-a2dd-11e3-a5fa-55f0c77bf39c_story.html)-- as well as his foundation of the [NYPL](http://www.nypl.org/help/about-nypl/history)
+
+
