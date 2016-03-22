@@ -1,21 +1,16 @@
-## India and Europe: Walking & Colonialism, 17th to the 19th century
+## Walking & Colonialism, 17th to the 19th century
 Manan Ahmed
-History
-Fayerweather 502
-ma3179@columbia.edu
 
  
 ### Course Description
 
 This course examines the ways in which knowledge of a particular space was constructed over time and for a particular effort. The relationship of cartography, ethnography and the construction of colonial edifices and artifacts of power and violence will be the background to our studies. Our aim is to examine two central issues: the production of knowledge and historical memory about the colonial world, and the agency of those engaged in such productions.
 
-As Michel de Certeau notes in The Practice of Everyday Life “the story begins on ground level, with footsteps,” so too we will begin to look at the “experiential history” of walkers in the Orient. There is a rich literature, starting with Walter Benjamin, to Francois Augoyard and Tim Ingold on the politics and sociality of walking in the urban milieu. Similarly, there is a long tradition of thinking through travel narratives as constructions of ‘outsider gaze’ onto the Orient. What the course attempts to do is to highlight the phenomenological connection between walking and knowledge about the Orient in the colonial context. This links the landscape, the space, the walker, and the reader of the account in a unique relationship of intimacy – the walker to the landscape and the reader to the experience – between the colonial agent and the colonized space. The question of power – who gets to walk where – is never more acute than when walkers enacted knowledge production step-by-step.
+As Michel de Certeau notes in *The Practice of Everyday Life*, “the story begins on ground level, with footsteps,” so too we will begin to look at the “experiential history” of walkers in the Orient. There is a rich literature, starting with Walter Benjamin, to François Augoyard and Tim Ingold on the politics and sociality of walking in the urban milieu. Similarly, there is a long tradition of thinking through travel narratives as constructions of ‘outsider gaze’ onto the Orient. What the course attempts to do is to highlight the phenomenological connection between walking and knowledge about the Orient in the colonial context. This links the landscape, the space, the walker, and the reader of the account in a unique relationship of intimacy-– the walker to the landscape and the reader to the experience-– between the colonial agent and the colonized space. The question of power-– who gets to walk where-– is never more acute than when walkers enacted knowledge production step-by-step.
 
 We will look at a series of figures of “walked” over Orient and Occident and we will see the ways in which the created/shaped forms of knowledge and the means to which their words served. We will also conduct walks in New York.
 
-The course will begin with a theoretical survey of the production of various knowledges about the self and other within imperial and colonial contexts – we will read selections from Edward Said, Rebecca Solnit, Tim Ingold, Walter Benjamin, Michel de Certeau, and Timothy Mitchell. We will then focus on specific individuals – such as Thomas Coryat (1577-1617), Henry Blount (1602-1682), William Moorcroft (1767-1825), Richard F. Burton (1821-1890), Wilfred Thesiger (1910-2003) and Rory Stewart (1973 -).
-
-We will walk and talk for some time.
+The course will begin with a theoretical survey of the production of experiential knowledges about the self and other within imperial and colonial contexts-– we will read selections from Virginia Woolf, Edward Said, Rebecca Solnit, Tim Ingold, Walter Benjamin, Michel de Certeau, and Timothy Mitchell. We will then focus on specific historical figures-– such as Thomas Coryat (1577-1617), Henry Blount (1602-1682), William Moorcroft (1767-1825), Richard F. Burton (1821-1890), Wilfred Thesiger (1910-2003) and Rory Stewart (1973 -).
 
 
 ### Assessment
