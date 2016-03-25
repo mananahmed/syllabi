@@ -33,10 +33,6 @@ Timeline:
 * June 20 (Shahjahanama, Selections 1 & 2)
 * June 22 (Film: *Mughal-e Azam*)
 * June 27 (Film: *Jodhaa-Akbar*)
-
- 
-
-June 29
-Wrap up
+* June 29 (Wrap up)
 
 
