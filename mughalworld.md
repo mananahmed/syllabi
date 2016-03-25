@@ -1,7 +1,3 @@
-Title: Worlds of Mughal India
-Author: Manan Ahmed  (<ma3179@columbia.edu>) 
-
-
 ## Worlds of Mughal India 
 ####MANAN AHMED
 ####SUMMER 2016
