@@ -6,7 +6,7 @@ Author: Manan Ahmed  (<ma3179@columbia.edu>)
 ####MANAN AHMED
 ####SUMMER 2016
 
- ![Mughal Worlds](https://github.com/mananahmed/syllabi/images/mw.jpg "poster")
+ ![Mughal Worlds](https://github.com/mananahmed/syllabi/blob/master/images/mw.png "poster")
 
 
 The early sixteenth century rise of the Mughal authority in North India coincided with the arrival of the Portuguese in South India, the emergence of Safavid empire, and the dominance of the Ottoman empire. Within the first hundred years, even more claimants to imperial power in India – the British, the French, the Rajput, the Maratha – were engaged in political negotiations, resistance and accommodation with the Mughal. We will follow the course of the development of Mughal political thought, economic and environmental impact and courtly culture through to their official demise in 1857.
