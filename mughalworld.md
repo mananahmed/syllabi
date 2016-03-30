@@ -30,5 +30,11 @@ Timeline:
 * June 22 (Film: *Mughal-e Azam*)
 * June 27 (Film: *Jodhaa-Akbar*)
 * June 29 (Wrap up)
+* 
+####Assessment
 
+* 20% Attendance and Participation
+* 40% Response to Readings - 250-500 wds (2/week)
+* 30% Visual Essay (Media Thread)
+* 10% Mughal-e Azam essay
 
