@@ -4,7 +4,7 @@ author:  Professor Manan Ahmed
 Date: January 20, 2015
 
 ---
-Spring 2015^[This syllabus is subject to change -- the only true copy is the one on Courseworks.]
+Spring 2015
 
 Section 46
 
