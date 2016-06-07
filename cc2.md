@@ -17,7 +17,7 @@ Email: ma3179@columbia.edu
 #Colonial and Anti-Colonial Epistemologies#
 
 
-![An "illustrated key" to Aliquot Heroun tattoos in *Admiranda narratio fida tamen, de commodis et incolarvm ritibvs Virginiæ* (1590) by Theodor de Bry (1528-1598)/ Thomas Harriot (1560-1621)/](/Users/manan/cc.jpg)
+![An "illustrated key" to Aliquot Heroun tattoos in *Admiranda narratio fida tamen, de commodis et incolarvm ritibvs Virginiæ* (1590) by Theodor de Bry (1528-1598)/ Thomas Harriot (1560-1621)/](/images/cc.png)
 
 ###Course Rationale###
 
