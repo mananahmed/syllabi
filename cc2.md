@@ -46,7 +46,7 @@ We want to build a community of readers and thinkers in this class - who are abl
 * 5 points for Discussion on Piazza: For your comment/discussions on the Piazza posts of your colleagues after the class.  
 * 30 points for Final Paper on Film - 3000 words. 
 
-### Participation ##
+### Participation ###
 
 Attendance and participation is required. Class participation requires your active participation. Some basic rules: come to class on time, do not disrupt the class, put your phones on silent, turn off all computing devices. As a discussion seminar, this course survives only if you come to every class, and participate by doing the readings, listening and commenting in class, turning in the assignment and seeing me during my office hours. Discussion means attentive and respectful listening, short and timely speaking, and creating a cordial and warm atmosphere wherein all are invited to test their ideas and impressions. Please read everything before class. Take notes in the margins of the text; underline key sentences and paragraphs, annotate; write out what feels extraordinary, questionable, pleasant, or remarkable (and remark it out loud in class).
 
