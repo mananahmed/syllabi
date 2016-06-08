@@ -2,19 +2,12 @@
 title: Introduction to Contemporary Civilizations in the West, II
 author:  Professor Manan Ahmed
 Date: January 20, 2015
-
----
-Spring 2015
-
-Section 46
-
-Tu-Thr 14:10 - 16:00
-
-Claremont 80 C01
-
 Email: ma3179@columbia.edu
 
-#Colonial and Anti-Colonial Epistemologies#
+---
+
+
+##Colonial and Anti-Colonial Epistemologies#
 
 
 ![An "illustrated key" to Aliquot Heroun tattoos in *Admiranda narratio fida tamen, de commodis et incolarvm ritibvs Virginiæ* (1590) by Theodor de Bry (1528-1598)/ Thomas Harriot (1560-1621)/](/images/cc.png)
