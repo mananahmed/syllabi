@@ -70,7 +70,7 @@ The following required course books are available at the Columbia Bookstore and 
 * Nizam ul Mulk, Book of Government (online)
 * Luther "Vom Kriege wider die Türken (On war against the Turks), 1528 (online)
 * Al-Farabi (c. 870-950), Philosophy of Plato and Aristotle (online)
-* Al-Farabi, On the Perfect State (online)
+* Ibn Khaldun, Muqaddimah (Princeton)
 
 Visit to the Rare Manuscripts Collection at Butler U (6th Flr) to examine 20 Qur'an manuscripts from 7th-19th Century.
 
