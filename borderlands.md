@@ -1,5 +1,8 @@
+---
 Title: Graduate Colloquium on Borderlands
-Author: Ahmed  (<ma3179@columbia.edu>) 
+Author: Manan Ahmed
+Email: 
+---
 
 
 ## Borderlands: Towards a Spatial History of Empire 
