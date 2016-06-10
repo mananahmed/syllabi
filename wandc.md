@@ -1,7 +1,7 @@
 ## Walking & Colonialism, 17th to the 19th century
 Manan Ahmed
 
- ![Walking](/images/walkingandcolonialism2015.jpg "poster")
+ ![Walking](/images/walkingcolonialism2015.jpg "poster")
  
 ### Course Description
 
