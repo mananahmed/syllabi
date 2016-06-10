@@ -8,7 +8,7 @@ Author: Ahmed  (<ma3179@columbia.edu>)
 ###9AM TO 10:50 AM 
 ###SPRING 2015
 
-
+ ![Borderlands](/images/Borderlands2015.jpg "poster")
 
 #### Course Bio: ####
 >What is the violence of a line drawn upon a map? or on a terrain? How are people produced by such mapping? What anxieties drive the imperial cartographic impulse? What pressures does *terra nullis* exert *in situ*? What do the bodies produced in mapped territories look like? What bodies exist in unmapped terrains? What is the relationship between wonder, amazement, and control, annihilation? Where do we locate ourselves as scholars reading these maps? What maps are visible when we visit the landscape? How are narratives produced against maps? How are histories made visible in terrain?
