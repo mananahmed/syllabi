@@ -107,7 +107,7 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 * Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Chp 25-33/
 
 ### Mar 12 ###
-* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887): Preface, First Essay ('Good and Evil', 'Good and Bad') and Third Essay ('What do ascetic ideals mean?'), and
+* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887): First Essay ('Good and Evil', 'Good and Bad') and Third Essay ('What do ascetic ideals mean?'), and "On the Uses and Disadvantages of History for Life" (From Untimely Meditations, 1874)
 
 ### Mar 24 ###
 * Michel Foucault, "Nietzsche, Genealogy, History" and Gayatri Spivak, "Can the Subaltern Speak?".
