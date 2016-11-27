@@ -6,7 +6,7 @@ Email: ma3179@columbia.edu
 ---
 ##Knowing Worlds#
 
-![Relief from a 14th century manuscript of Alexander romance, from Trapezus/Trebizond, in the Istituto Ellenico (Greek Institute) of Venice./](/images/iskandernama.jpg)
+![Relief from a 14th century manuscript of Alexander romance, from Trapezus/Trebizond, in the Istituto Ellenico (Greek Institute) of Venice.](/images/iskandernama.jpg)
 
 Our central concern this semester will be confront the "canon" as an epistemological category. Over this year, you are asked to think about political thought and moral philosophy through the rubric of “the Great Books”? Who or what makes them “Great” and for whom and for what purpose? How do we interpret this "canon”? What is the relationship between the “canon” and its own historical context? Most importantly, what is the relationship between our social, cultural and intellectual presents to our interpretation of this canon? These questions will inform our approach to the many texts we will encounter in CC. 
 
