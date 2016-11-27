@@ -3,7 +3,9 @@ Title: Theory of Pedagogy
 Author: Manan Ahmed 
 ---
 
-**Shape Your Syllabus**: My courses have a distinct argument framing my intellectual concern, question or argument. I am very explicit and detailed about the Assessments-- I believe in doing micro-assessments throughout the course and releasing the grades immediately. Transparency in grading and assessment is key to creating a sustainable and productive relationship. 
+##Theory of Pedagogy##
+
+**Shape The syllabus**: My courses have a distinct argument framing my intellectual concern, question or argument. I am very explicit and detailed about the Assessments-- I believe in doing micro-assessments throughout the course and releasing the grades immediately. Transparency in grading and assessment is key to creating a sustainable and productive relationship. 
 
 **Frame the frame**: I am eager to discuss historiography alongside history, including critically, my own scholarly tradition. Similarly, I began every class’s discussion by asking students to re-call and re-assess their previous encounter in the last class. What stuck with them, and why? It helps to be meta about the class to make clear power and learning. 
 
