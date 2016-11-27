@@ -1,8 +1,7 @@
---
-title: Theories of Pedagogy
-author: Manan Ahmed
-date: August 31, 2016
---
+---
+Title: Theory of Pedagogy
+Author: Manan Ahmed 
+---
 
 **Shape Your Syllabus**: My courses have a distinct argument framing my intellectual concern, question or argument. I am very explicit and detailed about the Assessments-- I believe in doing micro-assessments throughout the course and releasing the grades immediately. Transparency in grading and assessment is key to creating a sustainable and productive relationship. 
 
