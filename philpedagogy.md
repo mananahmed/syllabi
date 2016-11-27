@@ -1,13 +1,13 @@
 ---
-Title: Theory of Pedagogy
+Title: Shorthands to Pedagogy
 Author: Manan Ahmed 
 ---
 
-##Theory of Pedagogy##
+##Shorthand Guide to my Pedagogy##
 
-**Shape the syllabus**: My courses have a distinct argument framing my intellectual concern, question or argument. I am very explicit and detailed about the Assessments-- I believe in doing micro-assessments throughout the course and releasing the grades immediately. Transparency in grading and assessment is key to creating a sustainable and productive relationship. 
+**Shape the syllabus**: My courses have a distinct argument framing my intellectual concern, question or field of inquiry. I am very explicit and detailed about the Assessments-- I believe in doing micro-assessments throughout the course and releasing the grades immediately. Transparency in grading and assessment is key to creating a sustainable and productive relationship. 
 
-**Frame the frame**: I am eager to discuss historiography alongside history, including critically, my own scholarly tradition. Similarly, I began every class’s discussion by asking students to re-call and re-assess their previous encounter in the last class. What stuck with them, and why? It helps to be meta about the class to make clear power and learning. 
+**Frame the frame**: I am eager to discuss historiography alongside history, including critically, my own scholarly tradition. Similarly, I began every class’s discussion by asking students to re-call and re-assess their previous experience from the last class. What stuck with them, and why? I also bring in insights on power, race, gender and class insofar as they intersect with questions of learning. It helps to be meta about the instruction as well as the class to make improve the student's learning. 
 
 **Space**: I believe in spatial pedagogy. As much as possible, I move students around: by organizing in a circle, taking the class outside, small group work. I also use my body in different ways– sitting or standing in different corners. It keeps the classroom discussion fluid.
 
