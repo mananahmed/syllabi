@@ -7,13 +7,13 @@
 
 The early sixteenth century rise of the Mughal authority in North India coincided with the arrival of the Portuguese in South India, the emergence of Safavid empire, and the dominance of the Ottoman empire. Within the first hundred years, even more claimants to imperial power in India – the British, the French, the Rajput, the Maratha – were engaged in political negotiations, resistance and accommodation with the Mughal. We will follow the course of the development of Mughal political thought, economic and environmental impact and courtly culture through to their official demise in 1857.
 
-This seminar class will focus entirely on primary, original sources. 
+This seminar class will focus entirely on primary, original sources (in translation). 
 
 The first four emperors of Mughal India left various accounts for us. Babur (r. 1525–1530), the founder of the dynasty, wrote an autobiography. Memoirs of the second, Humayun (r. 1530–1556), were written by his sister, and others in his army. The third, Akbar (r. 1556–1605) was the subject of the amazing regnal history-- written by his minister and aide Abu'l Fazl. His son Jahangir (r. 1605–1627), recorded his daily activities and thoughts in his own journal that was also assembled by him. To this written corpus, we add the visual material and material culture produced at the Mughal courts, to constitute self-articulated "Worlds" of Mughal India for our task of thinking historically about early modern South Asia.
 
-To best engage with this complex scriptal universe, we will use the semantic vocabulary of ‘seeing’ within the texts and visual. This course will delve into how Mughal emperors saw their world and how they narrated it. This course is almost exclusively focused on primary readings. We will read large portions of the texts written by the Mughal elite. We will read them to examine their treatment of sacral landscape, nature and environment, gender, social networks, power and violence, agency and interiority, performativity, usage of history and memory. 
+To best engage with this complex scriptal universe, we will use the semantic vocabulary of ‘seeing’ within the texts and visual analysis outside. That is, this course will delve into how Mughal emperors saw their worlds and how they narrated it.  We will read their accounts to examine the treatment of sacral landscape, nature and environment, gender, social networks, power and violence, agency and interiority, performativity, usage of history and memory. We will trace materialities in the text, material culture outside, and histories of the books themselves as context for the sources.
 
-We will also use digital essays for the assessments to best explore the multi-functional, multi-faceted nature of our primary materials. 
+For the assessments, to best explore the multi-functional, multi-faceted nature of our primary materials, we will create Digital Essays. 
 
 ####Textbooks
 
