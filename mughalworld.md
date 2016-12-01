@@ -17,7 +17,7 @@ We will also use digital essays for the assessments to best explore the multi-fu
 
 ####Textbooks
 
-* 9780375761379	*The Baburnama:memoirs of Babur, prince and emperor",	translated, edited, and annotated by Wheeler M. Thackston; introduction by Salman Rushdie. New York :Modern Library,	2002.	$20.00
+* 9780375761379	*The Baburnama:memoirs of Babur, prince and emperor*,	translated, edited, and annotated by Wheeler M. Thackston; introduction by Salman Rushdie. New York :Modern Library,	2002.	$20.00
 
 Timeline:
 
