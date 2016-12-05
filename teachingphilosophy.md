@@ -3,7 +3,7 @@ Title: Shorthand Teaching Philosophy
 Author: Manan Ahmed 
 ---
 
-##Shorthand Guide to my Pedagogy##
+##Shorthand Teaching Philosophy##
 
 **Shape the syllabus**: My courses have a distinct argument framing my intellectual concern, question or field of inquiry. Shaping the syllabus as an intellectual argument helps me give temporal coherence as well as guide me in choosing the right reading.
 
