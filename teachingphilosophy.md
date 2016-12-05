@@ -1,5 +1,5 @@
 ---
-Title: Shorthands to Pedagogy
+Title: Shorthand Teaching Philosophy
 Author: Manan Ahmed 
 ---
 
