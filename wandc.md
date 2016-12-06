@@ -33,9 +33,9 @@ The course will begin with a theoretical survey of the production of experientia
 * Edward Said, *Orientalism* (New York: Vintage, 1979): Chapter 1, 2 & 4.
 * Edward Said, *Culture and Imperialism*  (1994): Selections
 * Karen O'Rourke. *Walking and Mapping: Artists as Cartographers* (MIT Press, 2013)
-* Ingold, T. & Vergunst, J. (eds) *Ways of Walking: Ethnography and Practice on Foot *(London: Ashgate, 2008)
+* Ingold, T. & Vergunst, J. (eds) *Ways of Walking: Ethnography and Practice on Foot*(London: Ashgate, 2008)
 * Dane Kennedy *The Highly Civilized Man: Richard Burton and the Victorian World* (Cambridge: Harvard University Press, 2007)
-* Henri Lefebvre, *The Production of Space *(Blackwell, 1991)
+* Henri Lefebvre, *The Production of Space* (Blackwell, 1991)
 * Yi-Fu Tuan. *Space and Place: The Perspective of Experience* (University of Minnesota Press, 1977)
 
 Primary Sources –
@@ -43,7 +43,7 @@ Primary Sources –
 * Benjamin of Tudela, *Itinerary* (1169-71)
 * Henry Blount, *Voyage into the Levant* (1636)
 * Richard F. Burton, *Personal Narrative of Pilgrimage to Meccah and al-Medinah* (1855)
-* Thomas Coryat,* Coryat’s Crudities; reprinted from the edition of 1611 to which are now added his letters from India, &c and relating to him various authors being a more particular account of his travels (mostly by foot) in different parts of the globe, than any other hitherto published*, 3 vols. (London: for W. Cater, J. Wilkie and E. Easton. 1776). 20 cm.
+* Thomas Coryat, *Coryat’s Crudities; reprinted from the edition of 1611 to which are now added his letters from India, &c and relating to him various authors being a more particular account of his travels (mostly by foot) in different parts of the globe, than any other hitherto published*, 3 vols. (London: for W. Cater, J. Wilkie and E. Easton. 1776). 20 cm.
 * William Moorcroft, *Travels in the Himalayan Provinces of Hindustan and the Panjab* (1819-1825)
 * Rory Stewart, *The Places in Between* (London: Mariner Books, 2006)
 * Wilfred Thesiger, *Arabian Sands* (London: Penguin Classics, 2008)
@@ -57,12 +57,12 @@ Primary Sources –
 
 * *Walking the Camino: Six Ways to Santiago* (2013, dir. Lydia Smith)
 
-​**Additional Readings on Space/Gaze ** 
+**Additional Readings on Space/Gaze **
 
-* Ernst Cassirer, *Mythic, Aesthetic and Theoretical Space * 
-* Michel Foucault, *Of Other Spaces  *
-* Jacques Lacan, “Of the Gaze as Objet petit a” *The Four Fundamental Concepts of Psychoanalysis * 
-* Gaston Bachelard,* Poetics of Space  *
+* Ernst Cassirer, *Mythic, Aesthetic and Theoretical Space*
+* Michel Foucault, *Of Other Spaces*
+* Jacques Lacan, “Of the Gaze as Objet petit a” *The Four Fundamental Concepts of Psychoanalysis*
+* Gaston Bachelard, *Poetics of Space*
 * Edward Soja, *Thirdspace. Journeys to Los Angeles and Other Real-and-Imagined Places*
 
 
