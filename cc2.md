@@ -74,10 +74,10 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 * Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): pp. 1-53, 599-638, 675-693, 1025-28.
 
 ### Feb 3 ###
-* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1775–1776* (CW)
+* Immanuel Kant, *Groundwork of the Metaphysics of Morals* (Preface, First Section), *Of the Different Human Races*
 
 ### Feb 5 ###
-* Immanuel Kant, *cc.jpg: Lecture of the Winter Semester 1781-82* (CW)
+* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82*
 
 ### Feb 10 ###
 * Edmund Burke, *Articles of Charge of High Crimes and Misdemeanors against Warren Hastings* (1786)  and *Reflections on the Revolution in France and on the Proceedings in Certain Societies in London Relative to that Event* (1790): pp. 3-22, 50-65, 105-129, 193-204, 248-50. and Mary Wollstonecraft, *A Vindication of the Rights of Men* (1790)
@@ -92,7 +92,8 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 * Thomas Babington Macaulay, *Government of India* (1833) and Jeremy Bentham, *Panopticon; or the Inspection-House: containing the Idea of a New Principle of Construction applicable to any sort of Establishment, in which Persons of any Description are to be kept under Inspection* (1838).
 
 ### Feb 24 ###
-* Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America) (1835-40): Vol 1: Chp 3-4; Vol 2: Part 1: Chp 1, 5, 7, 15, 20; Part 2, Chp 12; Part 3: Chp 8, 9, 10, 21; Part 4, Chp: 2, 3, 4
+* Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America) (1835-40): Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10. Vol 2: Part 1: Chp 1; Part 2, Chp 12; Part 4, Chp: 2, 3, 4. Beaumont & Tocqueville, *On the Penitentiary System in the United States* (Selections).
+ 
 
 ### Feb 26 ###
 * Charles Darwin, *Origins of Species*, Chapter IV, Letter to Walter Elliot (23 Jan 1856) <http://www.darwinproject.ac.uk/entry-1824>, Selections from *The Beagle Diary*
@@ -107,17 +108,17 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 * Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Chp 25-33/
 
 ### Mar 12 ###
-* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887): First Essay ('Good and Evil', 'Good and Bad') and Third Essay ('What do ascetic ideals mean?'), and "On the Uses and Disadvantages of History for Life" (From Untimely Meditations, 1874)
+* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887): First Essay ('Good and Evil', 'Good and Bad'), and "On the Uses and Disadvantages of History for Life" (From *Untimely Meditations*, 1874)
 
 ### Mar 24 ###
 * Michel Foucault, "Nietzsche, Genealogy, History" and Gayatri Spivak, "Can the Subaltern Speak?".
 
 
 ### Mar 26 ###
-* W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14.
+* W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14. *Souls of White Folk*
 
 ### Mar 31 ###
-* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906)
+* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906) & *Letters*
 
 ### Apr 2 ###
 * Hannah Arendt, *Race-Thinking Before Racism*, *The Decline of the Nation-State and the End of the Rights of Man* from *The Origins of Totalitarianism* (1958)
@@ -127,7 +128,7 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 * Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism) (1950).
 
 ### Apr 9 ###
-* Sigmund Freud, *Totem and Taboo* (1913) 
+* Simone de Beauvoir, *Second Sex* (1949): Part 1 "Destiny" and Part 4 "Toward Liberation"
 
 ### Apr 14 ###
 * Albert Memmi, *The Colonizer and the Colonized* (1957)
@@ -142,7 +143,7 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 * Franz Fanon, *Black Skin, White Masks*: Chapter 5, 6, 7 and Fanon, "Algeria Unveiled" *A Dying Colonialism*
 
 ### Apr 28 ###
-* Declaration on the Right to Insubordination in the War in Algeria* (The Manifesto of the 121, 1960) and Gillo Pontecorvo, *The Battle of Algiers* (1966)
+* Declaration on the Right to Insubordination in the War in Algeria* (The Manifesto of the 121, 1960) and Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part 3, chp 2, 3; part 4.
 
 ### Apr 30 ###
 * Conclusions
