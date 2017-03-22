@@ -19,7 +19,7 @@ Email:
 >These questions will guide us as we traverse a theoretical terrain of writings on space and territory, and situate ourselves in specific historical moments of imperial mastery over space. We will cover a lot of ground temporally (focusing largely on mid-17th and mid-18th c) but our geographic focus will be continental America and sub-continental India. 
 >As part of the exercise to think spatially about power and violence, the seminar will have a Geographic Informational Science (G.I.S.) Lab attached to it. We will learn the techniques and tools of making maps, and our exercises will allow us to create our own arguments about thinking spatially. No prior technical skills are needed for this course - except for the skill of close-reading. 
 
-####Assessment:####
+#### Assessment:
 * 20% - Blog/Postings/Participation - on Piazza
 * 20% - Leading discussion in Class
 * 10% - Paired-Response Papers 
@@ -29,7 +29,7 @@ Email:
 
 >We aim to focus on digital humanities and cooperative work in this seminar, and our assessment will reflect that. The majority of written work will be done in a forum/discussion space where you will be writing for your peers. The effort here will be to write quickly; to write clearly; and to write with the intention of illuminating the discussed text. You will also co-write and co-present to give you a sense of how cooperative work can integrate intellectual property as well as collective clarity. Our digital work will also be collective, though, we will produce individual *argumentative* maps.
 
-###GIS Lab
+### GIS Lab
 
 * Google Earth (http://earth.google.com) (both PC and Mac; note that this will take a while to install because it's a big file.). Start with this [lesson](http://programminghistorian.org/lessons/googlemaps-googleearth)
 
@@ -38,20 +38,21 @@ Email:
 * [Grass GIS](http://grass.osgeo.org) & [video tutorials](https://www.youtube.com/user/GRASSGISNEWS/videos?view=0)
  
 
-### Assigned Readings and Viewings ###
+### Assigned Readings and Viewings
 >Order to be shuffled/Week Assignments to be Assigned. 
 
-####Films:
+#### Films:
 1. *Stage Coach* (1939). dir John Ford
 2. *The Fall* (2006). dir Tarsem
 
-#### Photographs ####
+#### Photographs
 1. Wilfred Thesiger (1910-2003) Photo Collection at Pitt River Museum (online).
 
 
-###Texts
+### Texts
 
-####(Theory)
+#### (Theory)
+
 1. Henri Lefebvre, *The Production of Space* (London: Wiley, 1992)
 2. Febvre, Lucien. “Frontière: The Word and the Concept” *A New Kind of History and Other Essays*. ed. Peter Burke. (NY: Harper & Row, 1973: 208-218).
 3. Michel Foucault, “Of Other Spaces: Utopias and Heterotopias” *Architecture /Mouvement/ Continuité* (October, 1984).
@@ -59,7 +60,7 @@ Email:
 5. Jeremy Adelman and Stephen Aron, "From Borderlands to Borders: Empires, Nation-States, and the Peoples in Between in North American History," *American Historical Review* 104:3 (June 1999), 814-841. 
 6. Doreen Massey, “Spatialising the history of modernity” *For Space* (NY: Sage Publication, 2005)
 
-####(Case Study/Theory)
+#### (Case Study/Theory)
 1. Matthew H. Edney, *Mapping an Empire* (Chicago: University of Chicago Press, 1989)
 2. James C. Scott, *The Art of Not Being Governed* (New Haven: Yale University Press, 2010)
 3. Manan Ahmed, "Adam's Mirror" *EPW* 
@@ -67,12 +68,12 @@ Email:
 5. Michael Baud and Willem Van Schendel, “Toward a Comparative History of Borderlands,” *Journal of World History* 8:2 (Fall 1997): 211-242
 
 
-####(Case Study/Imperial Britain)
+#### (Case Study/Imperial Britain)
 1. George Nathaniel Curzon, *Frontiers: [lecture] delivered in the Sheldonian Theatre,* Oxford, November 2, 1907 (Westport, CT: Greenwood Press, 1976) 1-58. 
 2. Issac, Benjamin (1988). "The Meaning of the Terms Limes and Limitanei ." *Journal of Roman Studies* 78:125-147
 
 
-####(Case Study/Early-Modern & Medieval Islam)
+#### (Case Study/Early-Modern & Medieval Islam)
 1. Ali Anooshahr. *The Ghazi Sultans and the Frontiers of Islam: A Comparative Study of the Late Medieval and Early Modern Periods* (New York: Routledge, 2009)
 2. Ralph W. Brauer. *Boundaries and Frontiers in Medieval Muslim Geography*, (Philadelphia: American Philosophical Society, 1995)
 3. Colin Heywood, "The Frontier in Ottoman History: Old Ideas and New Myths," in Daniel Power and Naomi Standen, *Frontiers in Question: Eurasian Borderlands, 700-1700* (London, 1999), 228-250. 
@@ -80,7 +81,7 @@ Email:
 5. Travis Zadeh. *Mapping Frontiers Across Medieval Islam: Geography, Translation, and the ‘Abbasid Empire*  (Berlin: Tauris, 2011): Selections
 
 
-####(Case Study/America)
+#### (Case Study/America)
 1. Brian DeLay, *War of a Thousand Deserts* (New Haven: Yale University Press, 2009)
 2. Martha Schoolman, *Abolitionist Geographies* (Minneapolis: University of Minnesota Press, 2014)
 3. Sheila McManus, *The Line Which Separates* (University of Nebraska Press, 2005)
@@ -89,7 +90,7 @@ Email:
 6. Evelyn Hu-DeHart, “Chinatowns and Borderlands: Inter-Asian Encounters in the Diaspora,” *Modern Asian Studies* 46:2 (March 2012): 425-51
 7. Daniel D. Arreola, “Chiricahua Apache Homeland in the Borderland Southwest,” *Geographical Review* 102:1 (January 2012): 111-31
 
-####(Case Study/India)
+#### (Case Study/India)
 1. Chitralekha Zutshi, *Kashmir’s Contested Pasts* (New York: Oxford University Press, 2014)
 2. Sana Haroon, *Frontier of Faith* (Hurst, 2011)
 3. Sanghamitra Misra, *Becoming a Borderland: The Politics of Space and Identity in Colonial Northeastern India* (Routledge, 2014)
@@ -97,7 +98,7 @@ Email:
 5. Joya Chatterji, “The Fashioning of a Frontier: The Radcliffe Line and Bengal’s Border Landscape, 1947-1952,” *Modern Asian Studies* 33:1 (Jan 1999): 185-242. 
 6. Ainslie T. Embree, "Frontiers into Boundaries: From the Traditional to the Modern State," in *Realm and Region in Traditional India*, ed. Richard G. Fox (Durham, N.C.: Duke UP, 1977): 255-280. 
 
-### Bibliography ###
+### Bibliography
 
 The following works are not required readings, but you should refer to them as you see the need. Some are foundational texts, some are critical interventions, and some exquisite. 
 
