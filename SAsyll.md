@@ -6,7 +6,7 @@ office: Fayerweather Hall 502
 
 ---
 # History of South Asia I
-![poster](Ahmed_SAposter.jpg)
+![poster](images/Ahmed_SAposter.jpg)
 
 ## Course Objectives
 There are three broad objectives to the course: First, to gain a fuller comprehension of the political, social and cultural history of the sub-continent from  3 CE to 1400 CE. Second, to delve into primary source materials (epigraphic, monumental, textual ) pertaining to crucial themes and sites from this history, in order to gain an appreciation of the transculturation processes through which varied communities organized themselves. Third, to familiarize oneself with dominant historiographical trends in the study of South Asia– particularly reflecting on ways in which early and medieval periods are understood. This is a history class, and our effort will be to act and acquaint ourselves as a historian-- the focus will be to engage productively with primary sources, historiography, and produce analytical pieces of writings.
