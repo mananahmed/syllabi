@@ -6,11 +6,10 @@ office: Fayerweather Hall 502
 
 ---
 # History of South Asia I
+![poster](Ahmed_SAposter.jpg)
 
 ## Course Objectives
->There are three broad objectives to the course: First, to gain a fuller comprehension of the political, social and cultural history of the sub-continent from  3 CE to 1400 CE. Second, to delve into primary source materials (epigraphic, monumental, textual ) pertaining to crucial themes and sites from this history, in order to gain an appreciation of the transculturation processes through which varied communities organized themselves. Third, to familiarize oneself with dominant historiographical trends in the study of South Asia– particularly reflecting on ways in which early and medieval periods are understood. 
-
->This is a history class, and our effort will be to act and acquaint ourselves as a historian-- the focus will be to engage productively with primary sources, historiography, and produce analytical pieces of writings.
+There are three broad objectives to the course: First, to gain a fuller comprehension of the political, social and cultural history of the sub-continent from  3 CE to 1400 CE. Second, to delve into primary source materials (epigraphic, monumental, textual ) pertaining to crucial themes and sites from this history, in order to gain an appreciation of the transculturation processes through which varied communities organized themselves. Third, to familiarize oneself with dominant historiographical trends in the study of South Asia– particularly reflecting on ways in which early and medieval periods are understood. This is a history class, and our effort will be to act and acquaint ourselves as a historian-- the focus will be to engage productively with primary sources, historiography, and produce analytical pieces of writings.
 
 ## Course Texts
 * Richard Eaton. *A Social History of the Deccan, 1300-1761: Eight Indian Lives*. Cambridge: Cambridge University Press, 2008 
@@ -69,7 +68,7 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 
 ### Secondary Scholarship
->[I want to acknowledge the stark gender disparity in the secondary readings which is a reflection of the status of the field. I have done my best as well to have you read scholars from the US, UK, and South Asian academies.]
+>I want to acknowledge the stark gender disparity in the secondary readings which is a reflection of the status of the field. I have done my best as well to have you read scholars from the US, UK, and South Asian academies.
 
 * Muzaffar Alam. *Languages of Political Islam: India 1200-1800* (London: Hurst & Co. 2004): 85-98, 115-122.
 * Daud Ali. *Courtly Culture and Political Life in Early Medieval India.* (Cambridge: Cambridge University Press, 2004): 1-32
