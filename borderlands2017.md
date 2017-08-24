@@ -4,7 +4,7 @@ author: Manan Ahmed & Karl Jacoby
 date: Fall 2017
 
 ---
-![Syllabus subject to change](borderlands.jpg)
+![Syllabus subject to change](images/borderlands.jpg)
 
 --------------------------------
 Borderlands History
