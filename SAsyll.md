@@ -5,6 +5,7 @@ instructor: Manan Ahmed
 office: Fayerweather Hall 502
 
 ---
+# History of South Asia I
 
 ## Course Objectives
 >There are three broad objectives to the course: First, to gain a fuller comprehension of the political, social and cultural history of the sub-continent from  3 CE to 1400 CE. Second, to delve into primary source materials (epigraphic, monumental, textual ) pertaining to crucial themes and sites from this history, in order to gain an appreciation of the transculturation processes through which varied communities organized themselves. Third, to familiarize oneself with dominant historiographical trends in the study of South Asia– particularly reflecting on ways in which early and medieval periods are understood. 
@@ -67,7 +68,8 @@ The course is arranged in six thematic sections-- within each section, we will c
 * Anand Patwardan, *Raam kay Naam* (20th c)
 
 
-### Secondary Scholarship^[ I want to acknowledge the stark gender disparity in the secondary readings which is a reflection of the status of the field. I have done my best as well to have you read scholars from the US, UK, and South Asian academies.]
+### Secondary Scholarship
+>[I want to acknowledge the stark gender disparity in the secondary readings which is a reflection of the status of the field. I have done my best as well to have you read scholars from the US, UK, and South Asian academies.]
 
 * Muzaffar Alam. *Languages of Political Islam: India 1200-1800* (London: Hurst & Co. 2004): 85-98, 115-122.
 * Daud Ali. *Courtly Culture and Political Life in Early Medieval India.* (Cambridge: Cambridge University Press, 2004): 1-32
