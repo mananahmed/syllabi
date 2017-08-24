@@ -7,12 +7,6 @@ date: Fall 2017
 ![Syllabus subject to change](images/borderlands.jpg)
 
 
-## Course Texts
-
-* Richard Eaton. *A Social History of the Deccan, 1300-1761: Eight Indian Lives*. Cambridge: Cambridge University Press, 2008 
-* Aditya Behl. *The Magic Doe: Qutban Suhravardi’s Mirigavati*. New York: Oxford University Press, 2011
-* Qurutalain Hyder, *River of Fire*. New Directions Publishing, 2003
-
 ## Course Description
 Although questions of national expansion and boundary creation were fundamental to the work of such leading nineteenth-century historians as Francis Parkman and Frederick Jackson Turner, only in recent years have these topics recaptured the historical imagination.  Scholars operating under the rubric of “borderlands history” have found the complex racial composition, forbidding yet fragile environment, wars of conquest, boom and bust development, and rapid urbanization of border regions around the world to be fertile terrain for a wide range of fresh approaches to the past.  No longer marginal regions relegated the periphery of historical analysis, the borderlands have instead emerged in this new literature as central to any effort to grapple with notions of empire and imperialism, the contingent nature of state building and of race, and with transnational and comparative units of historical analysis.  
 
