@@ -59,7 +59,7 @@ The course is arranged in six thematic sections-- within each section, we will c
 * Bhavabhūti (8th c), *Uttararāmacarita*
 * Nizam ul Mulk, *Siyasatnama* (10th c)
 * Beyhaqi, *Tari'kh* (11th c.)
-* Aal-Biruni, *Kitāb fī Taḥqīq mā lil-Hind* (11th c)
+* al-Biruni, *Kitāb fī Taḥqīq mā lil-Hind* (11th c)
 * *Vikramacholanula* (12th C.)
 * Lakhapadhati Documents (13th C)
 * Inscriptions from the “Staff of Firuz Shah” (14th c)
