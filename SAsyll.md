@@ -5,7 +5,7 @@ instructor: Manan Ahmed
 office: Fayerweather Hall 502
 
 ---
-# History of South Asia I
+
 ![poster](images/Ahmed_SAposter.jpg)
 
 ## Course Objectives
