@@ -6,11 +6,7 @@ date: Fall 2017
 ---
 ![Syllabus subject to change](images/borderlands.jpg)
 
---------------------------------
-Borderlands History
-Fall 2017
-Manan Ahmed & Karl Jacoby
----------------------------------
+
 ## Course Texts
 
 * Richard Eaton. *A Social History of the Deccan, 1300-1761: Eight Indian Lives*. Cambridge: Cambridge University Press, 2008 
@@ -19,20 +15,6 @@ Manan Ahmed & Karl Jacoby
 
 ## Course Description
 Although questions of national expansion and boundary creation were fundamental to the work of such leading nineteenth-century historians as Francis Parkman and Frederick Jackson Turner, only in recent years have these topics recaptured the historical imagination.  Scholars operating under the rubric of “borderlands history” have found the complex racial composition, forbidding yet fragile environment, wars of conquest, boom and bust development, and rapid urbanization of border regions around the world to be fertile terrain for a wide range of fresh approaches to the past.  No longer marginal regions relegated the periphery of historical analysis, the borderlands have instead emerged in this new literature as central to any effort to grapple with notions of empire and imperialism, the contingent nature of state building and of race, and with transnational and comparative units of historical analysis.  
-
-## Class Policy on Academic Integrity
-Cheating and plagiarism will not be tolerated under any circumstances.  Should students have any question as to what constitutes appropriate academic behavior, they are encouraged to consult with the professor and to revisit the Faculty Statement on Academic Integrity below: The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity.  As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity. Scholarship, by its very nature, is an iterative process, with ideas and insights building one upon the other.  Collaborative scholarship requires the study of other scholars’ work, the free discussion of such work, and the explicit acknowledgement of those ideas in any work that inform our own.  This exchange of ideas relies upon a mutual trust that sources, opinions, facts, and insights will be properly noted and carefully credited.
-In practical terms, this means that, as students, you must be responsible for the full citations of others’ ideas in all of your research papers and projects; you must be scrupulously honest when taking your examinations; you must always submit your own work and not that of another student, scholar, or internet agent. Any breach of this intellectual responsibility is a breach of faith with the rest of our academic community.  It undermines our shared intellectual culture, and it cannot be tolerated.  Students failing to meet these responsibilities should anticipate being asked to leave Columbia.
-
-
-## Class Expectations
-
-*The class is designed as a graduate-level discussion seminar, designed to explore the emerging field of borderlands history in North America and South Asia.  Over the semester, students will be expected to complete four assignments, two written and two oral. 
-* Write responses to the weekly readings on Piazza—due within 24 hours after class. These responses should cover the readings and aim to highlight theoretical and methodological themes that resonated with you from the classroom discussion. Feel free to comment and engage with your peers and their responses—especially where thematic overlaps emerge. 
-* Co-Lead, with a partner, classroom discussion and make a presentation of a historical map of a particular week’s set of readings. Post your discussion questions to Piazza a day before the class. The map should be contemporary to/of the same space as the reading. You can utilize the David Ramsey Collection or the NYPL Collection to find the map and present it to the class. Your reading of the map should 1) connect the map to the reading and 2) discuss the map’s own text. This presentation should be no longer than 20 minutes.
-* Co-Lead, with a partner, classroom discussion of a primary source collection.  As with the readings discussion, students are encouraged to meet with the professor ahead of class to discuss possible strategies for this assignment. This presentation should be no longer than 20 minutes.
-* Write a review essay comparing two of the books that we read this semester (around 3000 words).  This essay is due on or before Dec 2nd. 
-* It is expected that all students will conduct themselves with a spirit of lively yet tolerant exchange, in which disagreements are welcomed yet treated with respect.  Since discussion is central to the seminar format, it is essential that all students come to class having completed the assigned reading.  Prompt, regular attendance is expected of all class participants.  Please turn off laptops and cell phones for the duration of the class.
 
 
 ## Course Readings
@@ -43,6 +25,21 @@ In practical terms, this means that, as students, you must be responsible for th
 * Karl Jacoby, *The Strange Career of William Ellis: The Texas Slave Who Became a Mexican Millionaire* (New York: W. W. Norton & Company, 2016)
 * Erika Lee, *At America's Gates: Chinese Immigration during the Exclusion Era, 1882-1943* (Chapel Hill: UNC Press, 2005)
 * Andrés Reséndez, *Changing National Identities at the Frontier: Texas and New Mexico, 1800-1850* (Cambridge: Cambridge University Press, 2004)
+
+
+## Class Policy on Academic Integrity
+Cheating and plagiarism will not be tolerated under any circumstances.  Should students have any question as to what constitutes appropriate academic behavior, they are encouraged to consult with the professor and to revisit the Faculty Statement on Academic Integrity below: The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity. As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity. Scholarship, by its very nature, is an iterative process, with ideas and insights building one upon the other.  Collaborative scholarship requires the study of other scholars’ work, the free discussion of such work, and the explicit acknowledgement of those ideas in any work that inform our own.  This exchange of ideas relies upon a mutual trust that sources, opinions, facts, and insights will be properly noted and carefully credited. In practical terms, this means that, as students, you must be responsible for the full citations of others’ ideas in all of your research papers and projects; you must be scrupulously honest when taking your examinations; you must always submit your own work and not that of another student, scholar, or internet agent. Any breach of this intellectual responsibility is a breach of faith with the rest of our academic community.  It undermines our shared intellectual culture, and it cannot be tolerated.  Students failing to meet these responsibilities should anticipate being asked to leave Columbia.
+
+
+## Class Expectations
+
+* The class is designed as a graduate-level discussion seminar, designed to explore the emerging field of borderlands history in North America and South Asia.  Over the semester, students will be expected to complete four assignments, two written and two oral. 
+* Write responses to the weekly readings on Piazza—due within 24 hours after class. These responses should cover the readings and aim to highlight theoretical and methodological themes that resonated with you from the classroom discussion. Feel free to comment and engage with your peers and their responses—especially where thematic overlaps emerge. 
+* Co-Lead, with a partner, classroom discussion and make a presentation of a historical map of a particular week’s set of readings. Post your discussion questions to Piazza a day before the class. The map should be contemporary to/of the same space as the reading. You can utilize the David Ramsey Collection or the NYPL Collection to find the map and present it to the class. Your reading of the map should 1) connect the map to the reading and 2) discuss the map’s own text. This presentation should be no longer than 20 minutes.
+* Co-Lead, with a partner, classroom discussion of a primary source collection.  As with the readings discussion, students are encouraged to meet with the professor ahead of class to discuss possible strategies for this assignment. This presentation should be no longer than 20 minutes.
+* Write a review essay comparing two of the books that we read this semester (around 3000 words).  This essay is due on or before Dec 2nd. 
+* It is expected that all students will conduct themselves with a spirit of lively yet tolerant exchange, in which disagreements are welcomed yet treated with respect.  Since discussion is central to the seminar format, it is essential that all students come to class having completed the assigned reading.  Prompt, regular attendance is expected of all class participants.  Please turn off laptops and cell phones for the duration of the class.
+
 
 ## Class Schedule
 
