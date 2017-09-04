@@ -47,10 +47,17 @@ Cheating and plagiarism will not be tolerated under any circumstances.  Should s
 
 ### September 13
 * Andres Resendez, *Changing National Identities at the Frontier*, 1-123
+* Primary Source: Stephen F. Austin Papers: http://digitalaustinpapers.org/index 
+* Additional Recommended: Lucien Febvre, Frontière: Word and Concept (1928) [in Files]
+* Additional Recommended: Michel Foucault, Questions on Geography (1976) [in Files]
+ 
 
 ### September 20
 * Andres Resendez, *Changing National Identities at the Frontier*, 124-271
 * Ray Craib, “A Nationalist Metaphysics: State Fixations, National Maps, and the Geo-Historical Imagination in Nineteenth-Century Mexico,” *Hispanic American Historical Review* 82:1 (February 2002): 33-68.
+* Eric Beverley, "Frontier as Resource: Law, Crime, and Sovereignty on the Margins of
+Empire", Comparative Studies in Society and History 2013;55(2):241–272
+* Primary Source: Josiah Gregg, Commerce of the Prairies: https://books.google.com/books?id=vZZHx3B8iQAC&printsec=frontcover&dq=josiah+gregg's+commerce+of+the+prairies&hl=en&sa=X&ved=0ahUKEwjp_La7gvbVAhVE94MKHVuOBygQ6AEIMjAC#v=onepage&q=josiah%20gregg's%20commerce%20of%20the%20prairies&f=false 
 
 ### September 27
 * Engseng Ho, *Graves of Tarim*, 3-195
@@ -64,15 +71,20 @@ Cheating and plagiarism will not be tolerated under any circumstances.  Should s
 
 ### October 18
 * Erika Lee, At America’s Gates, 147-255
+* Primary Source: Annual Report of the Commissioner-General of Immigration for the Fiscal Year Ended June 30, 1907: https://www.uscis.gov/history-and-genealogy/historical-library/our-collection/general-collection)
 
 ### October 25
 * Vivek Bald, *Bengali Harlem*, 1-137
+* Michel Foucault and Jay Miskowiec, "Of Other Spaces", Diacritics, Vol. 16, No. 1 (Spring, 1986), pp. 22-27 [in Files]
+* Maurice Halbwachs, "Space and Collective Memory" (1950) [in Files]
+* Primary Source: Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana. https://www.loc.gov/item/sanborn03376_003/ 
 
 ### November 1
 * Vivek Bald, *Bengali Harlem*, 137-231
 
 ### November 8
 * Karl Jacoby,* Strange Career of William Ellis*, xv-204
+* Primary Source: Texas Runaway Slave Project: http://digital.sfasu.edu/cdm/newspapermap/collection/RSP (Links to an external site.
 
 ### November 15
 * Indrani Chatterjee, *Forgotten Friends*, 
@@ -83,3 +95,5 @@ Cheating and plagiarism will not be tolerated under any circumstances.  Should s
 ### December 6
 * Kelly Lytle Hernandez, *Migra!,* 1-234
 * Hannah Gurman, “A Collapsing Division: Border and Interior Enforcement in the U.S. Deportation System” *American Quarterly* 69:2 (June 2017): 371-395
+* Primary Source: Oral Histories at Border Patrol Museum: https://www.borderpatrolmuseum.com/interviews/ (Links to an external site.)
+* Primary Source: Strachwitz Frontera Collection of Mexican and Mexican American Recordings: http://frontera.library.ucla.edu (Links to an external site.)
