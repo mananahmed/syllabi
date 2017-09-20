@@ -25,13 +25,10 @@ This graduate seminar focuses on subject, objects and agents that catalyzed the 
 * Jonathan Eacott. *Selling Empire: India in the Making of Britain and America, 1600-1830* (Charlotte, NC: University of North Carolina Press, 2017) 
 
 
-## Class Policy on Academic Integrity
-Cheating and plagiarism will not be tolerated under any circumstances.  Should students have any question as to what constitutes appropriate academic behavior, they are encouraged to consult with the professor and to revisit the Faculty Statement on Academic Integrity below: The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity. As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity. Scholarship, by its very nature, is an iterative process, with ideas and insights building one upon the other.  Collaborative scholarship requires the study of other scholars’ work, the free discussion of such work, and the explicit acknowledgement of those ideas in any work that inform our own.  This exchange of ideas relies upon a mutual trust that sources, opinions, facts, and insights will be properly noted and carefully credited. In practical terms, this means that, as students, you must be responsible for the full citations of others’ ideas in all of your research papers and projects; you must be scrupulously honest when taking your examinations; you must always submit your own work and not that of another student, scholar, or internet agent. Any breach of this intellectual responsibility is a breach of faith with the rest of our academic community.  It undermines our shared intellectual culture, and it cannot be tolerated.  Students failing to meet these responsibilities should anticipate being asked to leave Columbia.
-
-
 ## Class Expectations
 
-> The class is designed as a graduate-level discussion seminar, designed to explore latest historiography on early modern South Asia.
+> The class is designed as a graduate-level discussion seminar, designed to explore latest historiography on early modern South Asia. Doing full and complete assigned reading plus any further research to understand the historiography or theory is an understood part of participation in the class. You are also expected to be participate as peers and colleagues and respect both the intellectual and social space of the seminar room.
+
 * Primary Source Lead Discussion & Essay: 25%
 * Monograph Lead Discussion & Essay: 25%
 * Piazza discussions: 25%
