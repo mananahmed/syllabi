@@ -8,6 +8,7 @@ date: Spring 2018
 
 ![Syllabus subject to change](images/gaganmahal.jpg)
 
+# Agent, Subject, Object: Early Modern South Asia
 
 ## Course Description
 This graduate seminar focuses on subject, objects and agents that catalyzed the material and political orders from 1500-1800 in South Asia. We pair primary, historical texts (in translation) with recent monographs which demonstrate the intersections between text, narrative and polity. Our guiding interests will be in understanding the intimate relationship between power and agency and objects within specific political spaces. Eschewing the center/periphery models, we will focus on specific sites of literary and political imagination- Bengal, Deccan, Punjab—and the turn to the global connections with America and Europe during this period. This seminar will assume broad familiarity with both Indian and European early modern politics and thought.
