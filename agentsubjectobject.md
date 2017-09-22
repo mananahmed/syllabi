@@ -29,8 +29,8 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 
 > The class is designed as a graduate-level discussion seminar, designed to explore latest historiography on early modern South Asia. Doing full and complete assigned reading plus any further research to understand the historiography or theory is an understood part of participation in the class. You are also expected to be participate as peers and colleagues and respect both the intellectual and social space of the seminar room.
 
-* Primary Source Lead Discussion & Essay: 25%
-* Monograph Lead Discussion & Essay: 25%
+* Primary Source Essay & In-class Presentation (2000 words) : 25%
+* Monograph Essay & In-class Presentation (2000 words): 25%
 * Piazza discussions: 25%
 * Visual Culture Essay [example](http://www.oarplatform.com/response/cartography-research-process-visual-essay/) or an Critical Annotated Bibliography: 25%
 
@@ -40,14 +40,14 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 * Wed Jan 17—Introductions & Overview of the Course. Readings TBA
 * Wed Jan 24--Chatterjee
 * Wed Jan 31—Chakravarti 
-* Wed Feb 7—Chatterjee & Chakravarti
+* Wed Feb 7—Chatterjee & Chakravarti (presentations)
 * Wed Feb 14-- Stoker
 * Wed Feb 21— Peddana
-* Wed Feb 28— Stoker & Peddana
+* Wed Feb 28— Stoker & Peddana  (presentations)
 * Wed Mar 7-- Dhavan
 * Wed Mar 21— McLeod
-* Wed Mar 28-- Dhavan & McLeod 
+* Wed Mar 28-- Dhavan & McLeod  (presentations)
 * Wed Apr 4-- Subhramanyam
-* Wed Apr 11-- Subhramanyam
-* Wed Apr 18-- Eacott
-* Wed Apr 25-- Eacott
+* Wed Apr 11-- Eacott  
+* Wed Apr 18-- Subrahmanyam & Eacott  (presentations)
+* Wed Apr 25-- Conclusions
