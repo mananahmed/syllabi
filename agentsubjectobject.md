@@ -32,7 +32,7 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 * Primary Source Essay & In-class Presentation (2000 words) : 25%
 * Monograph Essay & In-class Presentation (2000 words): 25%
 * Piazza discussions: 25%
-* Visual Culture Essay [example](http://www.oarplatform.com/response/cartography-research-process-visual-essay/) or an Critical Annotated Bibliography: 25%
+* Visual Culture Essay ([example](http://www.oarplatform.com/response/cartography-research-process-visual-essay/)) or an Critical Annotated Bibliography: 25%
 
 
 ## Class Schedule
