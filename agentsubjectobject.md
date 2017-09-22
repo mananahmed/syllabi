@@ -11,7 +11,7 @@ date: Spring 2018
 # Agent, Subject, Object: Early Modern South Asia
 
 ## Course Description
-This graduate seminar focuses on subject, objects and agents that catalyzed the material and political orders from 1500-1800 in South Asia. We pair primary, historical texts (in translation) with recent monographs which demonstrate the intersections between text, narrative and polity. Our guiding interests will be in understanding the intimate relationship between power and agency and objects within specific political spaces. Eschewing the center/periphery models, we will focus on specific sites of literary and political imagination- Bengal, Deccan, Punjab—and the turn to the global connections with America and Europe during this period. This seminar will assume broad familiarity with both Indian and European early modern politics and thought.
+This graduate seminar focuses on agents, subjects and objects that catalyzed the material and political orders from 1500-1800 in South Asia. We pair primary, historical texts (in translation) with recent monographs which demonstrate the intersections between narrative and polity within material and epistemic realms. Our guiding interests will be in understanding the intimate relationship between power, agency and materiality within specific political spaces. Eschewing the center/periphery models, we will focus on specific sites of literary and political imagination-- Bengal, Deccan, Punjab—- and then turn to the global connections with America and Europe during this period. This seminar will assume broad familiarity with European early modern politics and thought.
 
 
 ## Course Readings (in order of assignment)
@@ -32,7 +32,7 @@ This graduate seminar focuses on subject, objects and agents that catalyzed the 
 * Primary Source Lead Discussion & Essay: 25%
 * Monograph Lead Discussion & Essay: 25%
 * Piazza discussions: 25%
-* Visual Culture Essay: 25%
+* Visual Culture Essay [example](http://www.oarplatform.com/response/cartography-research-process-visual-essay/) or an Critical Annotated Bibliography: 25%
 
 
 ## Class Schedule
