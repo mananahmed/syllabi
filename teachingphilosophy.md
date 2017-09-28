@@ -7,7 +7,7 @@ Author: Manan Ahmed
 
 **Shape the syllabus**: My courses have a distinct argument framing my intellectual concern, question or field of inquiry. Shaping the syllabus as an intellectual argument helps me give temporal coherence as well as guide me in choosing the right reading.
 
-**Frame the frame**: I discuss historiography alongside history, including critically, my own scholarly tradition. Similarly, I begin every class’s discussion by asking students to re-call and re-assess the discussion from the last class. What stuck with them, and why? It helps to be meta about the instruction as well as the class to make improve the learning experience. 
+**Frame the frame**: I discuss historiography alongside history, including critically, my own scholarly tradition. Similarly, I begin every class’s discussion by asking students to re-call and re-assess the discussion from the last class. What stuck with them, and why? It helps to be meta about the instruction as well as the class to form the learning experience. 
 
 **Space**: I insist on spatial pedagogy. As much as possible, I move myself around and I move the students around: by organizing in a circle, taking the class outside, small group work. I position myself in different parts of the room and use the re-articulation of power as means of keeping classroom discussion fluid. More expansively, I conceive of the space of classroom extending beyond the physical meeting-room and engage with students in online fora and through walks and off-site group meetings.
 
