@@ -1,0 +1,8 @@
+title: Syllabi
+description: "This is the repository for my syllabi. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
