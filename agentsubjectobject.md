@@ -6,7 +6,7 @@ date: Spring 2018
 
 ---
 
-![Syllabus subject to change](images/ASO_seminar.jpg)
+![Syllabus subject to change](images/Ahmed_Spring2018.jpg)
 
 # Agent, Subject, Object: Early Modern South Asia
 
