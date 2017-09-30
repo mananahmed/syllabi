@@ -14,24 +14,22 @@ Email: ma3179@columbia.edu
 
 ### Course Rationale
 
-How do we understand the texts which produced, and were produced by, inequality, excess, violence and fear? When we speak of the canon of Enlightenment thinkers, those are not the most oft-used categories of understanding that we invoke. Yet, inequality – whether civilizational or theological or racial – and fear – whether of the “other” or of the “modern” – provide the background to the discursive traditions we are going to explore in the second part of CC. 
+How do we understand the texts which produced, and were produced by, inequality, excess, violence and fear? When we speak of the canon of Enlightenment thinkers, those are not the most oft-used categories of understanding that we invoke. Yet, inequality – whether civilizational or theological or racial – and fear – whether of the “other” or of the “modern” – provide the background to the discursive traditions we are going to explore from texts roughly placed 1700-2000 CE. 
 
-In the previous semester we saw that transmissions across geographies of ideas and peoples, make the notion of the "West" as a hermetically sealed unit untenable. This semester, the rise of mercantile and colonial corporation and the growth of African and Indigenous slave-labor as fuel for northern European economies is the necessary backdrop to the question of tradition and the emergence of the "New". The mobility of people, goods and ideas along networks of capital and the translations of concepts of being human and being free will be our main focus. 
+In the previous semester we saw that transmissions across geographies of ideas and peoples, make the notion of the "West" as a hermetically sealed unit untenable. This semester, the rise of mercantile and colonial corporation and the growth of African and Indigenous slave-labor as fuel for northern European economies is the necessary backdrop to the question of tradition and the emergence of the "New". 
 
-This semester will focus on the history of disciplinary thought. The texts we read this semester were often foundational in creating or enlarging academic disciplines (alongside political and social systems). We will look at the birth of Philology, History, Anthropology and Natural Sciences as disciplinary knowledges-- and the colonial imperative of such epistemologies. In the second half of the semester we will look at how these epistemologies were then resisted against by the colonized world.[^Watch this scene from Black Robe (1991) on  colonial epistemologies: https://www.youtube.com/watch?v=xoxUto7-sDI] 
+This semester will focus on the emergence of disciplinary thought. The texts we read this semester were often foundational in creating or enlarging academic disciplines (alongside political and social systems). We will look at the birth of Philology, History, Anthropology and Natural Sciences as disciplinary knowledges-- and the colonial imperative of such epistemologies. In the second half of the semester we will look at how these epistemologies were then resisted against by the colonized world.[^Watch this scene from Black Robe (1991) on  colonial epistemologies: https://www.youtube.com/watch?v=xoxUto7-sDI] 
 
-This semester, our section is participating in a pilot program which intends to promote cross-sectional conversation and dialogue. In a cluster of sections, we will share the same online platform where students and instructors can see the conversations happening in the other sections. Once a month, the sections will respond together to a single prompt
-online, and have a in-person party where we can all mingle together.  This monthly gathering (three total for the semester) will be a chance to extend the classroom, while enjoying a fun evening. Dialogue, discussion and public debate is a core part of CC texts - these activities are modulated in our real lives across various mediums and social settings. This program
-is our collective effort to model these texts and the diverse worlds we make with them.
 
 ### To Be Read during the Break
 Please read these two essays over the break; and post your response to them in Piazza. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
 
-* Arundhati Roy, "Capitalism: A Ghost Story" (2014)
-* Partha Chatterjee, "Five Hundred Years of Fear and Love" (1998)
+* Arundhati Roy, "Capitalism: A Ghost Story" (2014) 
+* Nancy Scheper-Hughes, "Ishi's Brain, Ishi's Ashes: Anthropology and Genocide" *Anthropology Today*, Vol. 17, No. 1 (Feb., 2001), pp. 12-18 (1998) and [UC Berkeley looks back on dark history, abuse of Yahi man 106 years later](http://www.dailycal.org/2017/09/01/uc-berkeley-looks-back-on-dark-history-abuse-of-yahi-man-106-years-later/).
 
 
 ### Assessments
+
 We want to build a community of readers and thinkers in this class - who are able to work collectively and collaboratively. I am setting my assessment goals on two paths: firstly, I want to make sure we are doing close-reading of the texts, and secondly, I want to ensure that we are critical and engaged writers. With those goals, I ask that you do two forms of regular writing in the class - short form and research oriented. There will be only one long form paper. 
 
 * 20 points for Participation: To get the full points, you will attend every single class, and be an active listener to your colleagues, and sometimes, a commenter and facilitator for their ideas and sometimes, a speaker of your own thoughts. 
