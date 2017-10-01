@@ -1,7 +1,7 @@
 ---
 title: Introduction to Contemporary Civilizations in the West, II
 author:  Professor Manan Ahmed
-Date: January 20, 2015
+Date: Spring 2018
 Email: ma3179@columbia.edu
 
 ---
@@ -37,7 +37,7 @@ We want to build a community of readers and thinkers in this class - who are abl
 * **15 points for Presentation on Text/Author**: Every class, one student will deliver a short-presentation on the Text/Author we are reading. The presentation will highlight their biography, their intellectual concerns and contributions, and some recent assessment of their thought in scholarly literature (JSTOR searches limited to past 5 years). This presentation will be posted on Piazza before the class begins. Expect to invest around 10 hours of research, writing and prepration for this presentation. The presentation cannot last more than 15 minutes.
 * **25 points for Presentations on Context/Time**: Every class, one student will deliver a short-presentation on the context for the Text/Author we are reading. This context will comprise of 10 headlines (only) selected from newspapers contemporary to the Text/Author. You can use the Historical Newspaper databases on Clio. This presentation will be posted on Piazza before the class begins. Expect to invest around 10 hours of research, writing and prepration for this presentation. The presentation cannot last more than 15 minutes.
 * **15 points for Discussion on Piazza**: For your comment/discussions on the Piazza posts of your colleagues after the class. 
-* **15 points for a final paper on Euclid's theorem**: All semester we have been talking about the history of the birth of the discipline. We are now undergoing the birth of a new discipline-- Data Science-- which rests on "Big Data", AI/Machine Learning. In your final paper, I ask that you bring the insights you have gathered from the rest of the course to write 1500 words on [Euclid's theorem](https://en.wikipedia.org/wiki/Euclidean_algorithm) and how it gave birth to this modern discipline. 
+* **15 points for a final paper on Euclid's theorem**: All semester we have been talking about the history of the birth of academic disciplines. We are now undergoing the birth of a new discipline-- Data Science-- which rests on "Big Data", AI/Machine Learning. In your final paper, I ask that you bring the insights you have gathered from the rest of the course to write 1500 words on [Euclid's theorem](https://en.wikipedia.org/wiki/Euclidean_algorithm) and how it gave birth to this particular discipline. 
   
 
 ### Participation
