@@ -62,91 +62,91 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 
 ## The Timeline with Readings
 
-### Jan 20
+### 1
 * Introductions + Essays
 
-### Jan 22
-*  David Hume, *An Enquiry Concerning the Principles of Morals* (1751): pp. 13-93.
+### 2
+* Hobbes, *Leviathan*, Introduction and Part 1 "Of Man"
+* John Locke, "Second Treatise of Government" Ch. 1-9
+* John Locke, "The Fundamental Constitutions of Carolina"
 
-### Jan 27
-* Jean-Jacques Rousseau, *Discours sur l'origine et les fondements de l'inégalité parmi les hommes* (Discourse on the Origin and Basis of Inequality Among Men) (1754) and *Du contrat social ou Principes du droit politique* (Of the Social Contract, Or Principles of Political Right), 1762: Book 1, Chapters 4 and 6.
+### 3
+* Jean-Jacques Rousseau, *Discours sur l'origine et les fondements de l'inégalité parmi les hommes* (Discourse on the Origin and Basis of Inequality Among Men) (1754) and *Du contrat social ou Principes du droit politique* (Of the Social Contract, Or Principles of Political Right), 1762: Book 1, Chapters 4 and 6; Book 2, Chapter 8; Book 4, Chapter 8 and 9.
 
-### Jan 29
-* Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): pp. 1-53, 599-638, 675-693, 1025-28.
+### 4
+* Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1 (Chapter 1-5), Book 4 (Chapter 7, 8) & Graeber selection (on Adam Smith)
 
-### Feb 3 
+### 5 
 * Immanuel Kant, *Groundwork of the Metaphysics of Morals* (Preface, First Section), *Of the Different Human Races*
 
-### Feb 5
-* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82*
+### 6
+* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82* & "Review of Herder's *Philosophy of History*
 
-### Feb 10
-* Edmund Burke, *Articles of Charge of High Crimes and Misdemeanors against Warren Hastings* (1786)  and *Reflections on the Revolution in France and on the Proceedings in Certain Societies in London Relative to that Event* (1790): pp. 3-22, 50-65, 105-129, 193-204, 248-50. and Mary Wollstonecraft, *A Vindication of the Rights of Men* (1790)
+### 7
+* Edmund Burke, *Articles of Charge of High Crimes and Misdemeanors against Warren Hastings* (1786) and *Selections*
 
-### Feb 12
+### 8
 * Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne* (Declaration of Rights of Women and the Female Citizen) (1791) and *Haitian Declaration of Independence* (1804)
 
-### Feb 17
+### 9
 * G. W. F. Hegel, *Vorlesungen über die Philosophie der Weltgeschichte* (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic Basis of History, Part I: The Oriental World (China, India, Persia), Part IV: The German World (Mohamatanism, Art and Science as Putting a Period to the Middle Ages, The Éclaircissement and Revolution)
 
-### Feb 19
+### 10
 * Thomas Babington Macaulay, *Government of India* (1833) and Jeremy Bentham, *Panopticon; or the Inspection-House: containing the Idea of a New Principle of Construction applicable to any sort of Establishment, in which Persons of any Description are to be kept under Inspection* (1838).
 
-### Feb 24
+### 11
 * Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America) (1835-40): Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10. Vol 2: Part 1: Chp 1; Part 2, Chp 12; Part 4, Chp: 2, 3, 4. Beaumont & Tocqueville, *On the Penitentiary System in the United States* (Selections).
  
-### Feb 26 
+### 12 
 * Charles Darwin, *Origins of Species*, Chapter IV, Letter to Walter Elliot (23 Jan 1856) <http://www.darwinproject.ac.uk/entry-1824>, Selections from *The Beagle Diary*
 
-### Mar 3
+### 13
 * John Stewart Mill, The Petition of the East India Company (1858) and *On Liberty* (1859)
 
-### Mar 5
-* Engels, *Condition of the Working Class in England* (1845): Chapter, The Great Towns. Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
+### 14
+* Herbert Spencer, *Social Organism* (1860) Engels, *Condition of the Working Class in England* (1845): Chapter, The Great Towns. 
 
-### Mar 10 
-* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Chp 25-33/
+### 15 
+* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6. "British Rule in India" and "Indian Question" (in CW)
 
-### Mar 12
+### 16
 * Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887): First Essay ('Good and Evil', 'Good and Bad'), and "On the Uses and Disadvantages of History for Life" (From *Untimely Meditations*, 1874)
 
-### Mar 24
-* Michel Foucault, "Nietzsche, Genealogy, History" and Gayatri Spivak, "Can the Subaltern Speak?".
+### 17
+* W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14 
+
+### 18
+* Du Bois, "Souls of White Folk" and Tagore "Sunset of the Century" (1899)
+
+### 19
+* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906) & *Letters*; 
+
+### 20
+* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17 and Lenin, *Imperialism* (1917)
+
+### 21
+* Simone de Beauvoir, *Second Sex* (1949): Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (in CW)
+
+### 22
+* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism) (1950)
+
+### 23
+* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): chapter 1 and Conclusion (1961),  and Declaration on the Right to Insubordination in the War in Algeria* (The Manifesto of the 121, 1960) (in CW)
+ 
+### 24
+* Fanon, "Algeria Unveiled" and "Medicine and Colonialism" chapters from *A Dying Colonialism* (in CW)
+
+### 25
+* Hannah Arendt, *Race-Thinking Before Racism*, *Race and Bureaucrcy* and *The Decline of the Nation-State and the End of the Rights of Man* from *Imperialism: Part Two of The Origins of Totalitarianism* (1958) 
+ 
+### 26
+*  Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part 3, chp 3; part 4, chp 3 (in CW)
+
+### 27 
 
 
-### Mar 26
-* W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14. *Souls of White Folk*
+### 28
 
-### Mar 31
-* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906) & *Letters*
-
-### Apr 2
-* Hannah Arendt, *Race-Thinking Before Racism*, *The Decline of the Nation-State and the End of the Rights of Man* from *The Origins of Totalitarianism* (1958)
-
-
-### Apr 7
-* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism) (1950).
-
-### Apr 9
-* Simone de Beauvoir, *Second Sex* (1949): Part 1 "Destiny" and Part 4 "Toward Liberation"
-
-### Apr 14
-* Albert Memmi, *The Colonizer and the Colonized* (1957)
-
-### Apr 16
-* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17.
-
-### Apr 21
-* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): chapter 5 (1961) and "Medicine and Colonialism" *A Dying Colonialism*
-
-### Apr 23
-* Franz Fanon, *Black Skin, White Masks*: Chapter 5, 6, 7 and Fanon, "Algeria Unveiled" *A Dying Colonialism*
-
-### Apr 28 
-* Declaration on the Right to Insubordination in the War in Algeria* (The Manifesto of the 121, 1960) and Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part 3, chp 2, 3; part 4.
-
-### Apr 30
-* Conclusions
 
 
 
