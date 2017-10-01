@@ -37,7 +37,7 @@ We want to build a community of readers and thinkers in this class - who are abl
 * **15 points for Presentation on Text/Author**: Every class, one student will deliver a short-presentation on the Text/Author we are reading. The presentation will highlight their biography, their intellectual concerns and contributions, and some recent assessment of their thought in scholarly literature (JSTOR searches limited to past 5 years). This presentation will be posted on Piazza before the class begins. Expect to invest around 10 hours of research, writing and prepration for this presentation. The presentation cannot last more than 15 minutes.
 * **25 points for Presentations on Context/Time**: Every class, one student will deliver a short-presentation on the context for the Text/Author we are reading. This context will comprise of 10 headlines (only) selected from newspapers contemporary to the Text/Author. You can use the Historical Newspaper databases on Clio. This presentation will be posted on Piazza before the class begins. Expect to invest around 10 hours of research, writing and prepration for this presentation. The presentation cannot last more than 15 minutes.
 * **15 points for Discussion on Piazza**: For your comment/discussions on the Piazza posts of your colleagues after the class. 
-* **15 points for a final paper on Euclid's theorem**: All semester we have been talking about the history of the birth of the discipline. We are now undergoing the birth of a new discipline-- Data Science-- which rests on "Big Data", AI/Machine Learning. In your final paper, I ask that you bring the insights you have gathered from the rest of the course to write 1000 words on [Euclid's theorem](https://en.wikipedia.org/wiki/Euclidean_algorithm) and how it gave birth to this modern discipline. 
+* **15 points for a final paper on Euclid's theorem**: All semester we have been talking about the history of the birth of the discipline. We are now undergoing the birth of a new discipline-- Data Science-- which rests on "Big Data", AI/Machine Learning. In your final paper, I ask that you bring the insights you have gathered from the rest of the course to write 1500 words on [Euclid's theorem](https://en.wikipedia.org/wiki/Euclidean_algorithm) and how it gave birth to this modern discipline. 
   
 
 ### Participation
@@ -54,11 +54,7 @@ Columbia College is dedicated to the highest ideals of integrity in academia. Th
 
 ### The Authors (available at Book Culture/Courseworks)
 
-David Hume (1711-1776), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790), Immanuel Kant (1724-1804), Edmund Burke (1729-1797), Mary Wollstonecraft (1759-1797), Olympe de Gouges (1748-1793), G. W. F. Hegel (1770-1831), Jeremy Bentham (1748-1832), Thomas Babington Macaulay (1800-1859), Charles Darwin (1809-1882) Alexis de Tocqueville (1805-1859), John Stewart Mill (1806-1873), Friedrich Engels (1820-1895), Karl Marx (1818-1883), Friedrich Nietzsche (1844-1900),  W. E. B. Du Bois (1868-1963), Rosa Luxemburg (1871-1919), Mohandas K. Gandhi (1869-1948), Sigmund Freud (1856-1939), Aimé Césaire (1913-2008), Frantz Fanon (1925-1961), Hannah Arendt (1906-1975), and Gillo Pontecorvo (1919-2006). Also: Michel Foucault (1926-1984), Marguerite Duras (1914-1996), Albert Memmi (b. 1920), Gayatri Spivak (b. 1942), Arundhati Roy (b. 1961) and Partha Chatterjee (b. 1947).
-
-### The Films (available at Butler)
-
-The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966), In the Heat of the Night (1967), Aguirre, the Wrath of God (1972), The Discreet Charm of the Bourgeoisie (1972), The Black Robe (1991), 
+Thomas Hobbes (1588-1679), John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790), Immanuel Kant (1724-1804), Edmund Burke (1729-1797), Olympe de Gouges (1748-1793), G. W. F. Hegel (1770-1831), Jeremy Bentham (1748-1832), Thomas Babington Macaulay (1800-1859), Alexis de Tocqueville (1805-1859), Charles Darwin (1809-1882), John Stewart Mill (1806-1873), Herbert Spencer (1820-1903), Friedrich Engels (1820-1895), Karl Marx (1818-1883), Friedrich Nietzsche (1844-1900),  W. E. B. Du Bois (1868-1963), Mohandas K. Gandhi (1869-1948), Vladimir Lenin (1870-1924), Rosa Luxemburg (1871-1919), Sigmund Freud (1856-1939), Simone de Beauvoir (1908-1986), Aimé Césaire (1913-2008), Frantz Fanon (1925-1961), Hannah Arendt (1906-1975), Michel Foucault (1926-1984). The gender and racial disparity is reflective of the Core's set syllabus and we will approach these authors and their works from feminist, deconstructive, and subaltern perspectives.
 
 ## The Timeline with Readings
 
@@ -66,7 +62,7 @@ The Searchers (1956), Hiroshima mon amour (1959),  The Battle of Algiers (1966),
 * Introductions + Essays
 
 ### 2
-* Hobbes, *Leviathan*, Introduction and Part 1 "Of Man"
+* Thomas Hobbes, *Leviathan*, Introduction and Part 1 "Of Man"
 * John Locke, "Second Treatise of Government" Ch. 1-9
 * John Locke, "The Fundamental Constitutions of Carolina"
 
