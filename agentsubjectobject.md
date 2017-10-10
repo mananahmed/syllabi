@@ -27,12 +27,12 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 
 ## Class Expectations
 
-> The class is designed as a graduate-level discussion seminar, designed to explore latest historiography on early modern South Asia. Doing full and complete assigned reading plus any further research to understand the historiography or theory is an understood part of participation in the class. You are also expected to be participate as peers and colleagues and respect both the intellectual and social space of the seminar room.
+> The class is designed as a graduate-level discussion seminar to explore latest historiography on early modern South Asia. Doing full and complete assigned readings, plus any further research to understand the historiography or theory, is necessary for full participation in the class. You are also expected to act respectfully and with an open disposition with your peers and colleagues. You should respect both the intellectual and social space of the seminar room.
 
 * Primary Source Essay & In-class Presentation (2000 words) : 25%
 * Monograph Essay & In-class Presentation (2000 words): 25%
 * Piazza discussions: 25%
-* Visual Culture Essay ([example](http://www.oarplatform.com/response/cartography-research-process-visual-essay/)) or an Critical Annotated Bibliography: 25%
+* Visual Culture Essay ([example](http://www.oarplatform.com/response/cartography-research-process-visual-essay/)): 25%
 
 
 ## Class Schedule
