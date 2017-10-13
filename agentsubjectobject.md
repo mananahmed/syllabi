@@ -15,7 +15,7 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 
 ## Required Pre-Seminar Readings on Agency, Subjectivity and Material Culture
 
-* Judith Butler. *Psychic Life of Power: Theories in Subjection*. Stanford: Stanford University Press, 1997, pp. 1-31, 132-167.
+* Judith Butler. *Psychic Life of Power: Theories in Subjection*. Stanford: Stanford University Press, 1997, pp. 1-31.
 * Jean Baudrillard, “The System of Collecting” (1968) in John Elsner and Roger Cardinal, eds., *The Cultures of Collecting* (Harvard University Press, 1994), pp. 7-24
 * Michel Foucault. *The Order of Things: An Archaeology of the Human Sciences* (1966; Vintage, 1994), chap. 5, 8, 10
 * Ronald Inden. *Human Agency in the Social Sciences* (London & Chicago: Criticalia, 2014)
