@@ -18,14 +18,14 @@ How do we understand the texts which produced, and were produced by, inequality,
 
 In the previous semester we saw that transmissions across geographies of ideas and peoples, make the notion of the "West" as a hermetically sealed unit untenable. This semester, the rise of mercantile and colonial corporation and the growth of African and Indigenous slave-labor as fuel for northern European economies is the necessary backdrop to the question of tradition and the emergence of the "New". 
 
-This semester will focus on the emergence of disciplinary thought. The texts we read this semester were often foundational in creating or enlarging academic disciplines (alongside political and social systems). We will look at the birth of Philology, History, Anthropology and Natural Sciences as disciplinary knowledges-- and the colonial imperative of such epistemologies. In the second half of the semester we will look at how these epistemologies were then resisted against by the colonized world. Watch this scene from [Black Robe (1991) on  colonial epistemologies](https://www.youtube.com/watch?v=xoxUto7-sDI). To understand the question of 'barbarism' at play there, recall Bartolomé de Las Casas, *Apologética Historia Sumaria* (c.1552). México: Universidad Autónoma de  México, 1967, vol. II, pp. 637–54.
+This semester will focus on the emergence of disciplinary thought. The texts we read this semester were often foundational in creating or enlarging academic disciplines (alongside political and social systems). We will look at the birth of Philology, History, Anthropology and Natural Sciences as disciplinary knowledges-- and the colonial imperative of such epistemologies. In the second half of the semester we will look at how these epistemologies were then resisted against by the colonized world. Watch this scene from [Black Robe (1991) on  colonial epistemologies](https://www.youtube.com/watch?v=xoxUto7-sDI). To understand the question of 'barbarism' at play there, recall Bartolomé de Las Casas, *Apologética Historia Sumaria* (c.1552). México: Universidad Autónoma de  México, 1967, vol. II, pp. 637–54.
 
 
 ### To Be Read during the Break
 Please read these two essays over the break; and post your response to them in Piazza. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
 
 * Arundhati Roy, "Capitalism: A Ghost Story" (2014) 
-* Nancy Scheper-Hughes, "Ishi's Brain, Ishi's Ashes: Anthropology and Genocide" *Anthropology Today*, Vol. 17, No. 1 (Feb., 2001), pp. 12-18 (1998) and [UC Berkeley looks back on dark history, abuse of Yahi man 106 years later](http://www.dailycal.org/2017/09/01/uc-berkeley-looks-back-on-dark-history-abuse-of-yahi-man-106-years-later/).
+* Nancy Scheper-Hughes, "Ishi's Brain, Ishi's Ashes: Anthropology and Genocide" *Anthropology Today*, Vol. 17, No. 1 (Feb., 2001), pp. 12-18 (1998) and [UC Berkeley looks back on dark history, abuse of Yahi man 106 years later](http://www.dailycal.org/2017/09/01/uc-berkeley-looks-back-on-dark-history-abuse-of-yahi-man-106-years-later/) and see the continuous ways in which "Ishi" body is [still being put to use](https://hyperallergic.com/397995/wax-cylinder-optical-scanning-uc-berkeley/)
 
 
 ### Assessments
