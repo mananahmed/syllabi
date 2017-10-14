@@ -13,14 +13,6 @@ date: Spring 2018
 ## Course Description
 This graduate seminar focuses on agents, subjects and objects that catalyzed the material and political orders from 1500-1800 in South Asia. We pair primary, historical texts (in translation) with recent monographs which demonstrate the intersections between narrative and polity within material and epistemic realms. Our guiding interests will be in understanding the intimate relationship between power, agency and materiality within specific political spaces. Eschewing the center/periphery models, we will focus on specific sites of literary and political imagination-- Bengal, Deccan, Punjab—- and then turn to the global connections with America and Europe during this period. This seminar will assume broad familiarity with European early modern politics and thought.
 
-## Required Pre-Seminar Readings on Agency, Subjectivity and Material Culture
-
-* Judith Butler. *Psychic Life of Power: Theories in Subjection*. Stanford: Stanford University Press, 1997, pp. 1-31.
-* Jean Baudrillard, “The System of Collecting” (1968) in John Elsner and Roger Cardinal, eds., *The Cultures of Collecting* (Harvard University Press, 1994), pp. 7-24
-* Michel Foucault. *The Order of Things: An Archaeology of the Human Sciences* (1966; Vintage, 1994), chap. 5, 8, 10
-* Ronald Inden. *Human Agency in the Social Sciences* (London & Chicago: Criticalia, 2014)
-
-
 
 ## Course Readings (in order of assignment)
 * Kumkum Chatterjee. *The Cultures of History in Early Modern India: Persianization and Mughal Culture in Bengal* (New York: Oxford University Press, 2009) 
@@ -45,7 +37,12 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 
 ## Class Schedule
 
-* Wed Jan 17—Introductions & Overview of the Course. Readings TBA
+* Wed Jan 17—Introductions & Overview of the Course
+  * Judith Butler. *Psychic Life of Power: Theories in Subjection*. Stanford: Stanford University Press, 1997, pp. 1-31.
+  * Jean Baudrillard, “The System of Collecting” (1968) in John Elsner and Roger Cardinal, eds., *The Cultures of Collecting* (Harvard University Press, 1994), pp. 7-24
+  * Michel Foucault. *The Order of Things: An Archaeology of the Human Sciences* (1966; Vintage, 1994), chap. 5, 8, 10
+  * Ronald Inden. *Human Agency in the Social Sciences* (London & Chicago: Criticalia, 2014)
+
 * Wed Jan 24--Chatterjee
 * Wed Jan 31—Chakravarti 
 * Wed Feb 7—Chatterjee & Chakravarti (presentations)
