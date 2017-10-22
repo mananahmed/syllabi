@@ -54,7 +54,7 @@ Columbia College is dedicated to the highest ideals of integrity in academia. Th
 
 ### The Authors (available at Book Culture/Courseworks)
 
-Thomas Hobbes (1588-1679), John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790), Immanuel Kant (1724-1804), Edmund Burke (1729-1797), Olympe de Gouges (1748-1793), G. W. F. Hegel (1770-1831), Jeremy Bentham (1748-1832), Thomas Babington Macaulay (1800-1859), Alexis de Tocqueville (1805-1859), Charles Darwin (1809-1882), John Stewart Mill (1806-1873), Herbert Spencer (1820-1903), Friedrich Engels (1820-1895), Karl Marx (1818-1883), Friedrich Nietzsche (1844-1900),  W. E. B. Du Bois (1868-1963), Mohandas K. Gandhi (1869-1948), Vladimir Lenin (1870-1924), Rosa Luxemburg (1871-1919), Sigmund Freud (1856-1939), Simone de Beauvoir (1908-1986), Aimé Césaire (1913-2008), Frantz Fanon (1925-1961), Hannah Arendt (1906-1975), Michel Foucault (1926-1984). The gender and racial disparity is reflective of the Core's set syllabus and we will approach these authors and their works from feminist, deconstructive, and subaltern perspectives.
+Thomas Hobbes (1588-1679), John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790), Immanuel Kant (1724-1804), Edmund Burke (1729-1797), Olympe de Gouges (1748-1793), G. W. F. Hegel (1770-1831), Jeremy Bentham (1748-1832), Thomas Babington Macaulay (1800-1859), Alexis de Tocqueville (1805-1859), Charles Darwin (1809-1882), John Stewart Mill (1806-1873), Herbert Spencer (1820-1903), Friedrich Engels (1820-1895), Karl Marx (1818-1883), Friedrich Nietzsche (1844-1900),  W. E. B. Du Bois (1868-1963), Mohandas K. Gandhi (1869-1948), Katherine Mayo (1867-1949), Vladimir Lenin (1870-1924), Rosa Luxemburg (1871-1919), Sigmund Freud (1856-1939), Simone de Beauvoir (1908-1986), Aimé Césaire (1913-2008), Frantz Fanon (1925-1961), Hannah Arendt (1906-1975), Michel Foucault (1926-1984). The gender and racial disparity is reflective of the Core's set syllabus and we will approach these authors and their works from feminist, deconstructive, and subaltern perspectives.
 
 ## The Timeline with Readings
 
@@ -118,7 +118,7 @@ Thomas Hobbes (1588-1679), John Locke (1632-1704), Jean-Jacques Rousseau (1712-1
 * Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906) & *Letters*; 
 
 ### 20
-* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17 and Lenin, *Imperialism* (1917)
+* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17 and Mayo, *Mother India* (1927)
 
 ### 21
 * Simone de Beauvoir, *Second Sex* (1949): Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (in CW)
