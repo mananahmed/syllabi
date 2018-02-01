@@ -1,6 +1,6 @@
 ## Worlds of Mughal India 
-####MANAN AHMED
-####SUMMER 2016
+#### MANAN AHMED
+#### SUMMER 2018
 
  ![Mughal Worlds](https://github.com/mananahmed/syllabi/blob/master/images/mw.png "poster")
 
@@ -15,9 +15,17 @@ To best engage with this complex scriptal universe, we will use the semantic voc
 
 For the assessments, to best explore the multi-functional, multi-faceted nature of our primary materials, we will create Digital Essays. 
 
-####Textbooks
+#### Textbooks to Purchase
 
-* 9780375761379	*The Baburnama:memoirs of Babur, prince and emperor*,	translated, edited, and annotated by Wheeler M. Thackston; introduction by Salman Rushdie. New York :Modern Library,	2002.	$20.00
+* 9780375761379	*The Baburnama: Memoirs of Babur, prince and emperor*,	translated, edited, and annotated by Wheeler M. Thackston; introduction by Salman Rushdie. New York :Modern Library,	2002.	$20.00
+
+#### Assigned Readings
+
+* Wheeler M Thackston, *Three memoirs of Humayun: Gulbadan Begum's Humáyunnáma; Jawhar Áftábachí's Tadhkiratul-wáqíát; Báyazid Bayáts Táríkh-i Humáyún* (Costa Mesa, Calif.: Mazda Publ., 2009). Selections
+* Wheeler M Thackston, *Akbarnama* vol 4 (Cambridge, Massachusetts : Harvard University Press, 2018). Selections
+* Wheeler M Thackston, *The Jahangirnama* (New Delhi: Gyan Books Pvt. Ltd. 2016). Selections
+* W E Begley, *Shahjahannama* (Delhi: Oxford University Press, 1990). Selections
+
 
 Timeline:
 
