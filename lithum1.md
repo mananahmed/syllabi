@@ -38,3 +38,14 @@ From such a situated vantage point, we will launch an effort to answer those set
 * *Mahābhārata*, Book Three, The Forest (New York, tr. Johnson) 
 * Arian, *Anabasis of Alexander*
 
+### Assessments:
+
+There are three required papers for this class. You will identify a key concept ("Big Idea") and a theme (first paper) which you will trace via a close textual reading of a single text (second paper) and end up developing the analysis across a series of authors and texts and providing a credible answer (third and final paper). This progression of your own idea, your reading of texts will provide an anchor and a thread through the diverse readings of the seminar.
+
+* A 500 word-count prospectus paper outlining your theme, worth 10% of the grade. Due Tuesday, September 24th.
+
+* A 1000 word-count close-textual analysis on your theme, worth 30% of the grade. Due Thursday, Oct 24th.
+
+* A 1200 word-count critical analysis essay across several texts on your theme, worth 30% of the grade. Due Tuesday, December 3rd. This final essay will include a short bibliography (Chicago Style) and appropriate footnotes (where applicable). All papers will be uploaded to CourseWorks. Late papers can be emailed to me but will receive penalties (
+
+* Examination: There will be a final exam worth 10% of the grade
