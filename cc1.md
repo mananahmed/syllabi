@@ -21,8 +21,7 @@ As we raise to critical light the rubric of "civilization" we will do so with re
 
 ### Written Work:
 
-There are three required research papers for this class. You will be given a concept to research and write within 48 hours. All papers must be emailed by the end of the due date. Please ensure that you are actually attaching the paper. Use either .doc or .pdf or .txt format for the files. 
-Late papers will not be accepted. There are no mid-terms or finals.
+There are four short papers for this class. You will be given a concept to research and write within 48 hours. All papers must be emailed by the end of the due date. Please ensure that you are actually attaching the paper. Use either .doc or .pdf or .txt format for the files. Late papers will not be accepted. There are no mid-terms or finals. In addition, you will be asked to a material object paper and a manuscript paper.
 
 
 ### Participation:
@@ -41,11 +40,14 @@ Attendance and participation is required.
 Columbia College is dedicated to the highest ideals of integrity in academia. Therefore, in Literature Humanities and Contemporary Civilization, any instance of academic dishonesty, attempted or actual, will be reported to the faculty chair of the course and to the dean of the Core Curriculum, who will review the case with the expectation that a student guilty of academic dishonesty will receive the grade of “F” in the course and be referred to dean’s discipline for further institutional action.
  
 ### Grade Distribution
-* Paper I: 15pts
-* Paper II: 15pts
-* Paper III: 15pts
-* Reading Responses: 40pts (2 per week x 10 wks= 20 entries)
-* Participation: 15pts
+* Paper I: 10pts
+* Paper II: 10pts
+* Paper III: 10pts
+* Reading Responses: 40pts (1 per class x 10 wks= 20 entries; no minimum)
+* Participation: 10pts
+* Museum visit: 10pts
+* Archive visit: 10pts--- Visit to the Rare Manuscripts Collection at Butler U (6th Flr) to examine 20 Qur'an manuscripts from 7th-19th Century.
+
 
 ### Readings
 The following required course books are available at the Columbia Bookstore and on reserve at Butler Library. All other readings listed on the syllabus are on the CC Web: http:// www.college.columbia.edu/core/ccreaderor on the Courseworks site. You must print out any assigned readings and bring them to class with you.
@@ -72,5 +74,4 @@ The following required course books are available at the Columbia Bookstore and 
 * Al-Farabi (c. 870-950), Philosophy of Plato and Aristotle (online)
 * Ibn Khaldun, Muqaddimah (Princeton)
 
-Visit to the Rare Manuscripts Collection at Butler U (6th Flr) to examine 20 Qur'an manuscripts from 7th-19th Century.
 
