@@ -37,6 +37,12 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 >**VI: Historical Memory**: Our last section will look at the presence of this long past in contemporary and near-contemporary moments and examine how a  particular past is used to explain, uncritically, or to justify, unambiguously, that which is left unexamined and unassimilated in the present. 
 
+## Course Texts to be Purchased
+
+* **A social history of the Deccan, 1300-1761: Eight Indian lives** by	Richard M. Eaton.	(Cambridge: Cambridge University Press,	2008) ISBN 9780521716277.	$40.99	
+* **The magic doe: Qut̤ban Suhravardī's Mirigāvatī** A new translation by Aditya Behl; edited by Wendy Doniger. (Oxford; New York: Oxford University Press, 2012) ISBN 9780199842940. $28.95	
+* **River of fire (Aag kar darya)** by Qurratulain Hyder (New York: New Directions, 1999) ISBN 9780811215336. $23.95
+
 ## Class Policies
 * Attendance is required, necessary and crucial for successful completion of the course. Unexcused absences beyond one will result in grade devaluation, as will consistent late arrivals or disruptions. Participation is 20% of your grade - it is defined as consistent and constant presence in the course (including TA session), engagement with the materials and your colleagues.
 * Academic integrity is a basic understanding of our engagement in this course. I make a commitment to engage ethically and honestly with you, and I expect the same commitment. Plagiarism or dishonesty and unethical behavior is unacceptable and you will face punitive measures.  You can learn more about Columbia’s official policies on Academic honesty, plagiarism, as well as citational practices here: http://www.college.columbia.edu/academics/integrity
@@ -50,7 +56,7 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 ## Course Readings
 
-### Primary Texts
+### Primary Materials (available as pdf/streaming)
 
 * Ashokan Edicts (c. 300 BCE)
 * Kautilya, *Arthashastra* (3 CE)
