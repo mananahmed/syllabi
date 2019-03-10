@@ -1,6 +1,6 @@
 ## Worlds of Mughal India 
 #### MANAN AHMED
-#### SUMMER 2018
+#### SUMMER 2019
 
  ![Mughal Worlds](https://github.com/mananahmed/syllabi/blob/master/images/mughalworldsposter.jpg "poster")
 
