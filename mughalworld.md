@@ -2,7 +2,7 @@
 #### MANAN AHMED
 #### SUMMER 2018
 
- ![Mughal Worlds](https://github.com/mananahmed/syllabi/blob/master/images/mw.png "poster")
+ ![Mughal Worlds](https://github.com/mananahmed/syllabi/blob/master/images/mughalworldsposter.png "poster")
 
 
 The early sixteenth century rise of the Mughal authority in North India coincided with the arrival of the Portuguese in South India, the emergence of Safavid empire, and the dominance of the Ottoman empire. Within the first hundred years, even more claimants to imperial power in India – the British, the French, the Rajput, the Maratha – were engaged in political negotiations, resistance and accommodation with the Mughal. We will follow the course of the development of Mughal political thought, economic and environmental impact and courtly culture through to their official demise in 1857.
@@ -26,25 +26,56 @@ For the assessments, to best explore the multi-functional, multi-faceted nature 
 * Wheeler M Thackston, *The Jahangirnama* (New Delhi: Gyan Books Pvt. Ltd. 2016). Selections
 * W E Begley, *Shahjahannama* (Delhi: Oxford University Press, 1990). Selections
 
+#### Timeline
 
-Timeline:
+* July 9: Introduction to the Mughals
+* July 11: Babur Nama, 29-143
+* July 16: Babur Nama, 143-360
+* July 18: BaburNama, 360-460
+* July 23: Humayun_GulbadanBegum 
+* July 25: Humayun_JawharAftabchi
+* July 30: Humayun_BayazidBayat and Akbarnama_Humayun
+* Aug 1: Akbarnama_0, Akbarnama_1
+* Aug 6: Akbar Nama_2
+* Aug 8: Jahangirnama 1, Jahangirnama 2, Jahangirnama 3
+* Aug 13: Jodhaa Akbar & Mughal-e Azam
+* Aug 15: Presentations
 
-* May 23 (Introduction to the Mughal)
-* May 25 (*Baburnama*, pp. 29-117)
-* June 1 (*Baburnama*, pp. 143-244, 402-460)
-* June 6 (*Humayunama*, Selections)
-* June 8 (*Akbarnama*, Selections 1)
-* June 13 (*Akbarnama*, Selections 2)
-* June 15 (*Wa'ki'at-i Jahangir*, Selections 1)
-* June 20 (Shahjahanama, Selections 1 & 2)
-* June 22 (Film: *Mughal-e Azam*)
-* June 27 (Film: *Jodhaa-Akbar*)
-* June 29 (Wrap up)
-* 
-####Assessment
+### Assessments:
+Grades follow the standard Courseworks scale: A+ (100), A (95), A- (90), B+ (87), B (83), B- (80), C+ (77), C (73), C- (70), D+ (67), D (63), D- (60).
 
-* 20% Attendance and Participation
-* 40% Response to Readings - 250-500 wds (2/week)
-* 30% Visual Culture Digital Essay: You will examine a series of Mughal/European artwork with an aim to make a theoretical and analytical essay. The essay can examine historic categories (say, the depiction of interior or street spaces) or aesthetic ones (say, particular motifs from Sufism or colors or moods). I am asking you to particularly link varied representations into one argument, to showcase development, change or stress uniqueness. The essay should incorporate research into the artist, the court and the manuscript culture which surrounds the image. You can use the online archives of British Library, MET, Google Cultural Institute, and the various museums with collections on Flickr. You can utilize any of the manifold catalogues in Avery (citational rules apply). You will use SCALAR for making this Essay. Please watch this how-to and we will discuss this in class on Monday.
-* 10% Mughal-e Azam essay
+You will be assessed on the following criteria:
+
+* In Class Participation & Attendance: 10 points 
+* Area Gallery/Museum Visit Report: 10 points
+* Online Responses (Piazza posts): 30 points
+* Visual Culture Digital Essay: 30 points
+* In Class Student Presentation: 10 points
+* Baburnama Exercise: 10 points
+
+**Participation:** This means perfect attendance, excellent listening and communication skills in class; the capacity to focus and encourage dialogue with your peers; respectful and thoughtful interactions. I will assign "out of class" events which you must attend to get credit towards your participation grade. This includes visits to the galleries, museums and/or talks in NYC. 
+
+**Online Responses/Blogs:** BEGINS JULY 10TH. DUE AFTER EACH CLASS (BY MIDNIGHT). At the end of each session, starting on July 10, you are to post to Piazza, your analytical response to the readings we covered that session, as well as the discussion we had. Since, this response is post-facto, I expect a fair degree of engagement with the text, as well as your critical thoughts. The response should hover around 200-300 words. A response should try to 1) foreground analysis of the text 2) build on class conversation about the text and 3) be ask questions/wonder out aloud/propose theories of reading the text. Be casual but not too informal. Think like you are writing an email to a your friend explaining what you have read. Imagine your friend has also read the book.
+
+**Baburnama Exercise: DUE JULY 23.** We want to think about how Babur imagines space & time in his memoir. You will do this by making a "Presence List" of Babur. Begin with starting a spreadsheet with five columns. As you read, track the physical space (name of town/place) that Babur is physically in, and note the action that happens there. Note also the folio number and the instance of the place (is it the first, second, or third place mentioned in the folio). 
+
+Sample entry from the first fifty pages beginning:
+
+folio; instance; name; type; action
+
+1. 16, 1, Andizhan, citadel, going to meet
+
+2. 31b, 2, Shahrukhiya, city, visit uncle 
+
+3. 32, 1, Shahrukhiya, garden outside, meet uncle. 
+
+4. 33b, 2, Ura-Tayube, area, with his troops,
+
+5. 33b, 3, Andizhan, citadel, retreat. 
+
+You are also welcome to make a "Sentiment" list instead of the Presence list. Same structure but this time, track places where Babur gives a sense of his emotions (he is happy, afraid, sad, angry). 
+
+**Visual Culture Digital Presentation:  DUE AUG 13, 2019.** This is a power-point/Keynote presentation. The essay will focus on a particular Mughal art work or building or coin or any object and can examine historic categories (say, the depiction of interior or street spaces) or aesthetic ones (say, particular motifs from Sufism or colors or moods). Utilizing the memoirs,  I am asking you to particularly link varied representations into one argument, to showcase development, change or stress uniqueness. The essay should incorporate research into the manuscript culture as well as contemporary significance. You can use the online archives of British Library, MET, Google Cultural Institute, and the various museums with collections on Flickr. You can utilize any of the manifold catalogues in Avery (citational rules apply). You can also look at YouTube for tourist videos from contemporary visitors. Your slide count should be around 25-30. You will present your digital essay to your peers on Aug 15 in class in a short 10 mins presentation using only 10-12 slides.
+
+**Gallery Visit: DUE BY AUG 15, 2019.** You are to visit any of the following area museums-- The MET, Asia Society, and Rubin Museum of Art-- and visit their Mughal artifacts/object. You are to write a 1 page response on why the object/painting caught your attention and include a selfie of yourself with your favorite piece from the Mughal history in the Museum.
 
