@@ -1,12 +1,15 @@
 ---
 title: History of South Asia I
-date: Fall 2017
+date: Fall 2019
 instructor: Manan Ahmed
 office: Fayerweather Hall 502
+office hours: TBD
+TA 1: TBD
+TA 2: TBD
 
 ---
 
-![poster](images/Ahmed_SAposter.jpg)
+![poster](images/Ahmed_SA2019.jpg)
 
 ## Course Objectives
 There are three broad objectives to the course: First, to gain a fuller comprehension of the political, social and cultural history of the sub-continent from  3 CE to 1400 CE. Second, to delve into primary source materials (epigraphic, monumental, textual ) pertaining to crucial themes and sites from this history, in order to gain an appreciation of the transculturation processes through which varied communities organized themselves. Third, to familiarize oneself with dominant historiographical trends in the study of South Asia– particularly reflecting on ways in which early and medieval periods are understood. This is a history class, and our effort will be to act and acquaint ourselves as a historian-- the focus will be to engage productively with primary sources, historiography, and produce analytical pieces of writings.
@@ -33,15 +36,15 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 >**IV: Transculturation**: This section will look at ways in which the various communities (elite or subaltern) shaped their own selves and their others in a dialogue. We will read works of Sufi and Bhakti traditions and examine what "conversion" in medieval South Asia looked like.
 
->**V: Literary Cultures**: The section will focus on the role of literary culture-- the ways in which language, script, texts, and narratives shape the social, cultural and political self . 
+>**V: Literary Cultures**: The section will focus on the role of literary culture-- the ways in which language, script, texts, and narratives shape the social, cultural and political self. We will trace Sanskrit, Arabic, Persian, Tamil literary cultures during this time period.
 
 >**VI: Historical Memory**: Our last section will look at the presence of this long past in contemporary and near-contemporary moments and examine how a  particular past is used to explain, uncritically, or to justify, unambiguously, that which is left unexamined and unassimilated in the present. 
 
 ## Course Texts to be Purchased
 
-* **A social history of the Deccan, 1300-1761: Eight Indian lives** by	Richard M. Eaton.	(Cambridge: Cambridge University Press,	2008) ISBN 9780521716277.	$40.99	
-* **The magic doe: Qut̤ban Suhravardī's Mirigāvatī** A new translation by Aditya Behl; edited by Wendy Doniger. (Oxford; New York: Oxford University Press, 2012) ISBN 9780199842940. $28.95	
-* **River of fire (Aag kar darya)** by Qurratulain Hyder (New York: New Directions, 1999) ISBN 9780811215336. $23.95
+* **A Social History of the Deccan, 1300-1761: Eight Indian lives** by	Richard M. Eaton.	(Cambridge: Cambridge University Press,	2008) ISBN 9780521716277.	$40.99	
+* **The Magic Doe: Qut̤ban Suhravardī's Mirigāvatī** A new translation by Aditya Behl; edited by Wendy Doniger. (Oxford; New York: Oxford University Press, 2012) ISBN 9780199842940. $28.95	
+* **River of Fire (Aag kar darya)** by Qurratulain Hyder (New York: New Directions, 1999) ISBN 9780811215336. $23.95
 
 ## Class Policies
 * Attendance is required, necessary and crucial for successful completion of the course. Unexcused absences beyond one will result in grade devaluation, as will consistent late arrivals or disruptions. Participation is 20% of your grade - it is defined as consistent and constant presence in the course (including TA session), engagement with the materials and your colleagues.
@@ -50,9 +53,10 @@ The course is arranged in six thematic sections-- within each section, we will c
 * Student with documented disabilities who may need academic accommodation, should let me know. 
 
 ## Assessments
-* Written Assignments count for 40% of your grade. You are required to write a response to the primary readings for that session of no more than 400-500 words. Your response should cover your analytical, close reading of the text as modeled in the class-- focus specifically on the subjectivity embedded in the source, the intended audience and the imagined social function. You can use any of the interpretive concepts covered in the class. Over the course of the semester, you will write eight (8) such responses. 
-* Exams count for 40% of your grade. There will be two map quizzes and two take home Annotation exercises. 
-* Participation, in class and outside class is 20% of your grade. A large section of the time, once a week, will be focused on discussion and I urge you to participate fully. You can visit an exhibit of medieval South Asia (at The Met or other galleries in NYC) or you can attend a talk on medieval South Asia. A one page reflection and documentation of either is required for you to receive your participation grade.
+* 40%: Written Assignments count for 40% of your grade. You are required to write a response to the primary readings for that session of no more than 400-500 words. Your response should cover your analytical, close reading of the text as modeled in the class-- focus specifically on the subjectivity embedded in the source, the intended audience and the imagined social function. You can use any of the interpretive concepts covered in the class. Over the course of the semester, you will write eight (8) such responses. 
+* 40%: Exams count for 40% of your grade. There will be two map quizzes and two take home Annotation exercises. 
+* 10%: Participation, in class and in your discussion session is 10% of your grade. A large section of the time, once a week, will be focused on discussion and I urge you to participate fully. 
+* 10%: Site visit is 10% of your grade. You can visit an exhibit of medieval South Asia (at The Met or other galleries in NYC) or you can attend a talk on medieval South Asia. A one page reflection and documentation of either is required for you to receive this grade.
 
 ## Course Readings
 
