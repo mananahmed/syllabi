@@ -13,7 +13,20 @@ The first four emperors of Mughal India left various accounts for us. Babur (r. 
 
 To best engage with this complex scriptal universe, we will use the semantic vocabulary of ‘seeing’ within the texts and visual analysis outside. That is, this course will delve into how Mughal emperors saw their worlds and how they narrated it.  We will read their accounts to examine the treatment of sacral landscape, nature and environment, gender, social networks, power and violence, agency and interiority, performativity, usage of history and memory. We will trace materialities in the text, material culture outside, and histories of the books themselves as context for the sources.
 
-For the assessments, to best explore the multi-functional, multi-faceted nature of our primary materials, we will create Digital Essays. 
+
+### Course Policies:
+
+At Columbia's Morningside campus, we acknowledge that we are on the territory of the Lenape and Wappinger peoples. Many indigenous communities have lived in and moved through this place over time. Indigenous people from many nations live and work in this region today.  We acknowledge their communities by paying respect to their elders past and present, and recognizing their active presence and their futurity, reposed in the generations present and those to come.
+
+**Classroom Etiquette** are best practices of your academic and social lives: be considerate in class; arrive before official class time; listen well; interact with your colleagues with respect and compassion; turn off your phone; and turn off your computing devices. One basic goal of this class is to learn through careful reading and discussion of primary texts, you are required to bring copies of all assigned works to class to facilitate discussion during class session. You will be expected to constantly “read around” the material, looking up key terms and people in encyclopedias, dictionaries, articles, and other references - to situate your own knowledge within the class.
+
+**Academic integrity** is a basic understanding of our engagement in this course. I make a commitment to engage ethically and honestly with you, and I expect the same commitment. Plagiarism or dishonesty and unethical behavior is unacceptable and you will face punitive measures. You should be well-aware and actively cognizant of Columbia University's commitment to Academic Integrity. You can read the policy here. In this class, you are required to submit your original work, properly cited, for each assignment. I ask that you refrain from using laptops in the classroom, and if you need it for note-taking, you absolutely turn off wifi. Please turn your mobile phones off when you sit down in the class. If you have any concerns, problems, issues, please talk to me. I can help. 
+
+**Attendance** is required, necessary and crucial for successful completion of the course. Unexcused absences beyond one will result in grade devaluation, as will consistent late arrivals or disruptions. 
+
+**Participation** is defined as consistent and constant presence in the course (including TA session), engagement with the materials and your colleagues.
+
+I endeavor to provide an **inclusive learning environment**. If you experience any barriers to learning in this course, do not hesitate to discuss them with me. If you have an apparent or non-apparent disability, please be registered with  the Office for Disability Services at 212-854-2388 or disability@columbia.edu. By making a plan through ODS, you can insure appropriate accommodations without disclosing your condition or diagnosis to course instructors. 
 
 #### Textbooks to Purchase
 
@@ -52,8 +65,6 @@ You will be assessed on the following criteria:
 * Visual Culture Digital Essay: 30 points
 * In Class Student Presentation: 10 points
 * Baburnama Exercise: 10 points
-
-**Participation:** This means perfect attendance, excellent listening and communication skills in class; the capacity to focus and encourage dialogue with your peers; respectful and thoughtful interactions. I will assign "out of class" events which you must attend to get credit towards your participation grade. This includes visits to the galleries, museums and/or talks in NYC. 
 
 **Online Responses/Blogs:** BEGINS JULY 10TH. DUE AFTER EACH CLASS (BY MIDNIGHT). At the end of each session, starting on July 10, you are to post to Piazza, your analytical response to the readings we covered that session, as well as the discussion we had. Since, this response is post-facto, I expect a fair degree of engagement with the text, as well as your critical thoughts. The response should hover around 200-300 words. A response should try to 1) foreground analysis of the text 2) build on class conversation about the text and 3) be ask questions/wonder out aloud/propose theories of reading the text. Be casual but not too informal. Think like you are writing an email to a your friend explaining what you have read. Imagine your friend has also read the book.
 
