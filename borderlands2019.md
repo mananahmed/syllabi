@@ -50,158 +50,75 @@ All assigned books are available at Book Culture (536 West 112th Street).  All a
 
 Books at Book Culture:
 
-* Gaiutra Bahadur, Coolie Woman: The Odyssey of Indenture 
-* Vivek Bald, Bengali Harlem and the Lost Histories of South Asian America
-* Engseng Ho, Graves of Tarim: Genealogy and Mobility Across the Indian Ocean
-* Karl Jacoby, Shadows at Dawn: A Borderlands Massacre and the Violence of History
-* Deborah Kang, The INS on the Line: Making Immigration Law on the US-Mexico Border, 1917-1954
-* Samia Khatun, Australianama: The South Asian Odyssey in Australia 
-* Julian Lim, Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands
-* Monica Martinez, The Injustice Never Leaves You: Anti-Mexican Violence in Texas
+* Gaiutra Bahadur, [Coolie Woman: The Odyssey of Indenture](https://www.press.uchicago.edu/ucp/books/book/chicago/C/bo13393932.html) (University of Chicago Press, 2013) 
+* Vivek Bald, [Bengali Harlem and the Lost Histories of South Asian America](http://www.hup.harvard.edu/catalog.php?isbn=9780674503854) (Harvard University Press, 2015)
+* Engseng Ho, [Graves of Tarim: Genealogy and Mobility Across the Indian Ocean](https://www.ucpress.edu/book/9780520244542/the-graves-of-tarim) (University of California Press, 2006)
+* Karl Jacoby, [Shadows at Dawn: A Borderlands Massacre and the Violence of History](https://www.penguinrandomhouse.com/books/294142/shadows-at-dawn-by-karl-jacoby/9780143116219/) (Penguin, 2009)
+* Deborah Kang, [The INS on the Line: Making Immigration Law on the US-Mexico Border, 1917-1954](https://global.oup.com/academic/product/the-ins-on-the-line-9780199757435?cc=us&lang=en&) (Oxford University Press, 2017)
+* Samia Khatun, [Australianama: The South Asian Odyssey in Australia](https://www.hurstpublishers.com/book/australianama/) (Hurst, 2018)
+* Julian Lim, [Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands](https://www.uncpress.org/book/9781469635491/porous-borders/) (University of North Carolina Press, 2017)
+* Monica Martinez, [The Injustice Never Leaves You: Anti-Mexican Violence in Texas](http://www.hup.harvard.edu/catalog.php?isbn=9780674976436) (Harvard University Press, 2018)
 
  
-
-Class Schedule:
-
-
-September 4:
-
-•	Frederick Jackson Turner, “The Significance of the Frontier in American History” (1893) [Canvas]
-
-•	Lord Curzon, “Frontiers” (1907) [Canvas]
-
-•	Jeremy Adelman and Stephen Aron, “From Borderlands to Borders,” American Historical Review 104:3 (June 1999): 814-841 [Canvas]
-
-•	Pekka Hämäläinen and Samuel Truett, “On Borderlands,” Journal of American History 98:2 (September 2011): 338-361 [Canvas]
-
-•	Malini Sur, “Asia’s Gendered Borderlands,” The Routledge Handbook of Asian Borderlands (New York: Routledge, 2018), 30-42 [Canvas]
-
-•	Alison Bashford, “Terraqueous Histories,” The Historical Journal 60:2 (2017): 253-272 [Canvas]
-
-•	Manan Ahmed, “Adam’s Mirror: The Frontier in the Imperial Imagination,” Economic & Political Weekly, 46:13 (2011): 60-65 [Canvas]
-
-
-
-September 11:
-
-•	Julian Lim, Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands, 1-123
-
-•	Andres Resendez, “National Identity on a Shifting Border: Texas and New Mexico in the Age of Transition, 1821–1848” [Canvas]
-
-•	Map Discussion: Separados / Torn Apart:
-            http://xpmethod.plaintext.in/torn-apart/volume/1/
-
-
-
-
-
-
-
-
-September 18:
-
-•	Julian Lim, Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands, 124-202
-
-•	Primary Source: tk
-
-
-
-
-September 25:
-
-•	Engseng Ho, Graves of Tarim, 3-195
-
-•	Primary Source: Genealogical Chart [Canvas]
-
-
-October 2: 
-
-•	Engseng Ho, Graves of Tarim, 195-329
-
-•	Primary Source: ?
-
-
-October 9: Special Guest: Monica Martinez
-
-•	Monica Martinez, The Injustice Never Leaves You: Anti-Mexican Violence in Texas, 1-300
-
-•	Primary Source: 1919 Texas Ranger Investigation
-https://www.tsl.texas.gov/treasures/law/index.html#Canales
-
-
-
-October 16: Flex week: Possible Mapping Seminar or Supplementary Readings
-
-
-
-October 23:
-
-•	Vivek Bald, Bengali Harlem and the Lost Histories of South Asian America, 1-231
-
-•	Primary Source: Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana. https://www.loc.gov/item/sanborn03376_003/
-
-
-
-
-October 30:
-
-•	Gaiutra Bahadur, Coolie Woman: The Odyssey of Indenture, xix-215
-
-•	Primary Source: I Even Regret the Night
-
-
-
-November 6:
-
-•	Karl Jacoby, Shadows at Dawn: A Borderlands Massacre and the Violence of History, vii-278
-
-•	Primary Source: Shadows at Dawn companion website:            www.brown.edu/aravaipa
-
-
-
-November 13:
-
-•	Samia Khatun, Australianama: The South Asian Odyssey in Australia, xv-187
-
-•	Primary Source: Sofiuddin, Kazi. Kasasol Ambia. Calcutta: Hanifia Press, 1301BS/1895CE, 1 - 22. 
-
-•	Bux, Khawajah Muhammad. ‘Memoirs of Khawajah Muhammad Bux, Australian Businessman’ (Unpublished Manuscript), ed. Gabor Kovin, trans. Syed Haider Hassan (Rawalpindi, Pakistan, 2006), frontmatter, 1 - 10.
-
-•	Primary Source: Hercus, Luise. ‘Afghan Stories from the Northeast of South Australia’. Aboriginal History 5 (1981): 39–70. 
-
-•	Bourke Public Library; Alan Barton Local History Collection, Marriage Contract of Morbine Perooz and Myrtle Mary Dee (Transcript of Original, Typed by Alan Barton), 14 January 1917.
-
-
-
-
-
-
-
-
-
-
-November 20:
-
-•	Deborah Kang, The INS on the Line: Making Immigration Law on the US-Mexico Border, 1917-1954, 1-179
-
-•	Primary Source: Oral Histories at Border Patrol Museum: https://www.borderpatrolmuseum.com/interviews/
-
-•	Primary Source: Strachwitz Frontera Collection of Mexican and Mexican American Recordings: http://frontera.library.ucla.edu
-
-
-December 4:
-
-•	Giorgio Agamben, Homo Sacer, 119-181
-
-•	Hannah Gurman, “A Collapsing Division: Border and Interior Enforcement in the U.S. Deportation System” American Quarterly 69:2 (June 2017): 371-395 [Canvas]
-
-•	Derek Gregory, “The Everywhere War,” The Geographical Journal 177:3 (September 2011): 238-250. [Canvas]
-
-•	Reread essays from first week of class
-
-
-
-
-
-
-
+## Class Schedule:
+
+
+#### September 4:
+* Frederick Jackson Turner, “The Significance of the Frontier in American History” (1893) [Canvas]
+* Lord Curzon, “Frontiers” (1907) [Canvas]
+* Jeremy Adelman and Stephen Aron, “From Borderlands to Borders,” American Historical Review 104:3 (June 1999): 814-841 [Canvas]
+* Pekka Hämäläinen and Samuel Truett, “On Borderlands,” Journal of American History 98:2 (September 2011): 338-361 [Canvas]
+* Malini Sur, “Asia’s Gendered Borderlands,” The Routledge Handbook of Asian Borderlands (New York: Routledge, 2018), 30-42 [Canvas]
+* Alison Bashford, “Terraqueous Histories,” The Historical Journal 60:2 (2017): 253-272 [Canvas]
+* Manan Ahmed, “Adam’s Mirror: The Frontier in the Imperial Imagination,” Economic & Political Weekly, 46:13 (2011): 60-65 [Canvas]
+
+#### September 11:
+* Julian Lim, Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands, 1-123
+* Andres Resendez, “National Identity on a Shifting Border: Texas and New Mexico in the Age of Transition, 1821–1848” [Canvas]
+* Map Discussion: [Separados / Torn Apart](http://xpmethod.plaintext.in/torn-apart/volume/1/)
+
+#### September 18:
+* Julian Lim, Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands, 124-202
+* Primary Source: tk
+
+#### September 25:
+* Engseng Ho, Graves of Tarim, 3-195
+* Primary Source: Genealogical Chart [Canvas]
+
+#### October 2: 
+* Engseng Ho, Graves of Tarim, 195-329
+* Primary Source: tk
+
+#### October 9: Special Guest: Monica Martinez
+* Monica Martinez, The Injustice Never Leaves You: Anti-Mexican Violence in Texas, 1-300
+* Primary Source: [1919 Texas Ranger Investigation](https://www.tsl.texas.gov/treasures/law/index.html#Canales)
+
+#### October 16: Flex week: Possible Mapping Seminar or Supplementary Readings
+
+#### October 23:
+* Vivek Bald, Bengali Harlem and the Lost Histories of South Asian America, 1-231
+* Primary Source: [Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana](https://www.loc.gov/item/sanborn03376_003/)
+
+#### October 30:
+* Gaiutra Bahadur, Coolie Woman: The Odyssey of Indenture, xix-215
+* Primary Source: I Even Regret the Night
+
+#### November 6:
+* Karl Jacoby, Shadows at Dawn: A Borderlands Massacre and the Violence of History, vii-278
+* Primary Source: [Shadows at Dawn companion website](www.brown.edu/aravaipa)
+
+#### November 13:
+* Samia Khatun, Australianama: The South Asian Odyssey in Australia, xv-187
+* Primary Source: Sofiuddin, Kazi. Kasasol Ambia. Calcutta: Hanifia Press, 1301BS/1895CE, 1 - 22. 
+* Bux, Khawajah Muhammad. ‘Memoirs of Khawajah Muhammad Bux, Australian Businessman’ (Unpublished Manuscript), ed. Gabor Kovin, trans. Syed Haider Hassan (Rawalpindi, Pakistan, 2006), frontmatter, 1 - 10. 
+* Bourke Public Library; Alan Barton Local History Collection, Marriage Contract of Morbine Perooz and Myrtle Mary Dee (Transcript of Original, Typed by Alan Barton), 14 January 1917.
+
+#### November 20:
+* Deborah Kang, The INS on the Line: Making Immigration Law on the US-Mexico Border, 1917-1954, 1-179
+* Primary Source: [Oral Histories at Border Patrol Museum](https://www.borderpatrolmuseum.com/interviews/) and [Strachwitz Frontera Collection of Mexican and Mexican American Recordings](http://frontera.library.ucla.edu)
+
+#### December 4:
+* Giorgio Agamben, Homo Sacer, 119-181
+* Hannah Gurman, “A Collapsing Division: Border and Interior Enforcement in the U.S. Deportation System” American Quarterly 69:2 (June 2017): 371-395 [Canvas]
+* Derek Gregory, “The Everywhere War,” The Geographical Journal 177:3 (September 2011): 238-250. [Canvas]
+* Reread essays from first week of class
