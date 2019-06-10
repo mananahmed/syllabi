@@ -1,30 +1,35 @@
 # History 8495: Borderlands History
 
-## Professors Manan Ahmed and Karl Jacoby
-## Fall 2019
+### Professors Manan Ahmed and Karl Jacoby
+### Fall 2019
 
 ### Course Description: 
 
 Although questions of national expansion and boundary creation were fundamental to the work of such leading nineteenth-century historians as Francis Parkman and Frederick Jackson Turner, only in recent years have these topics recaptured the historical imagination.  Scholars operating under the rubric of “borderlands history” have found the complex racial composition, forbidding yet fragile environment, wars of conquest, boom and bust development, and rapid urbanization of border regions around the world to be fertile terrain for a wide range of fresh approaches to the past.  No longer marginal regions relegated the periphery of historical analysis, the borderlands have instead emerged in this new literature as central to any effort to grapple with notions of empire and imperialism, the contingent nature of state building and of race, and with transnational and comparative units of historical analysis.  
 
-### Expectations:  The class is designed as a graduate-level discussion seminar, designed to explore the emerging field of borderlands history in North America and South Asia.  Over the semester, students will be expected to complete three assignments, two written and one oral.  
+### Expectations:  
 
-•	Write responses to the weekly readings on Piazza—posted the day before class prior to 10 PM.  These responses should cover the readings and aim to highlight theoretical and methodological themes that resonated with you.  Feel free to comment and engage with your peers and their responses—especially where thematic overlaps emerge. 
+The class is designed as a graduate-level discussion seminar, designed to explore the emerging field of borderlands history in North America and South Asia.  Over the semester, students will be expected to complete three assignments, two written and one oral.  
 
-•	Co-Lead, with a partner, a classroom discussion of a historical map or a primary source relating to a particular week’s set of readings.  Post your discussion questions to Piazza a day before the class.  This presentation should be no longer than 12 minutes.
+* Write responses to the weekly readings on Piazza—posted the day before class prior to 10 PM.  These responses should cover the readings and aim to highlight theoretical and methodological themes that resonated with you.  Feel free to comment and engage with your peers and their responses—especially where thematic overlaps emerge. 
 
-•	Write a review essay comparing two of the books that we read this semester (approximately 3,000 words).  This essay is due on or before December 11. 
+* Co-Lead, with a partner, a classroom discussion of a historical map or a primary source relating to a particular week’s set of readings.  Post your discussion questions to Piazza a day before the class.  This presentation should be no longer than 12 minutes.
+
+* Write a review essay comparing two of the books that we read this semester (approximately 3,000 words).  This essay is due on or before December 11. 
 
 It is expected that all students will conduct themselves with a spirit of lively yet tolerant exchange, in which disagreements are welcomed yet treated with respect.  Since discussion is central to the seminar format, it is essential that all students come to class having completed the assigned reading.  Prompt, regular attendance is expected of all class participants.  Please turn off laptops and cell phones for the duration of the class.
 
-Grades: Marks will be determined according to in-class participation and written assignments.  
+### Grades: 
+Marks will be determined according to in-class participation and written assignments.  
 
-	Participation: 25%
-	Leading discussion (paired): 25%
-	Postings on Piazza: 25%
-	Comparative essay: 25%
+	* Participation: 25%
+	* Leading discussion (paired): 25%
+	* Postings on Piazza: 25%
+	* Comparative essay: 25%
 
-# Academic Integrity: Cheating and plagiarism will not be tolerated under any circumstances.  Should students have any question as to what constitutes appropriate academic behavior, they are encouraged to consult with the professor and to revisit the
+### Academic Integrity: 
+
+Cheating and plagiarism will not be tolerated under any circumstances.  Should students have any question as to what constitutes appropriate academic behavior, they are encouraged to consult with the professor and to revisit the
 Faculty Statement on Academic Integrity below:
 
 The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity.  As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity.
@@ -39,20 +44,20 @@ At Columbia's Morningside campus, we acknowledge that we are on the territory of
 
 
 
-Readings:
+### Readings:
 
 All assigned books are available at Book Culture (536 West 112th Street).  All assigned articles have been uploaded to Canvas.
 
 Books at Book Culture:
 
-•	Gaiutra Bahadur, Coolie Woman: The Odyssey of Indenture 
-•	Vivek Bald, Bengali Harlem and the Lost Histories of South Asian America
-•	Engseng Ho, Graves of Tarim: Genealogy and Mobility Across the Indian Ocean
-•	Karl Jacoby, Shadows at Dawn: A Borderlands Massacre and the Violence of History
-•	Deborah Kang, The INS on the Line: Making Immigration Law on the US-Mexico Border, 1917-1954
-•	Samia Khatun, Australianama: The South Asian Odyssey in Australia 
-•	Julian Lim, Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands
-•	Monica Martinez, The Injustice Never Leaves You: Anti-Mexican Violence in Texas
+* Gaiutra Bahadur, Coolie Woman: The Odyssey of Indenture 
+* Vivek Bald, Bengali Harlem and the Lost Histories of South Asian America
+* Engseng Ho, Graves of Tarim: Genealogy and Mobility Across the Indian Ocean
+* Karl Jacoby, Shadows at Dawn: A Borderlands Massacre and the Violence of History
+* Deborah Kang, The INS on the Line: Making Immigration Law on the US-Mexico Border, 1917-1954
+* Samia Khatun, Australianama: The South Asian Odyssey in Australia 
+* Julian Lim, Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands
+* Monica Martinez, The Injustice Never Leaves You: Anti-Mexican Violence in Texas
 
  
 
