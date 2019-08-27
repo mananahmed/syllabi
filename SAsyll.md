@@ -42,15 +42,25 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 ## Course Texts to be Purchased
 
-* **A Social History of the Deccan, 1300-1761: Eight Indian lives** by	Richard M. Eaton.	(Cambridge: Cambridge University Press,	2008) ISBN 9780521716277.	$40.99	
-* **The Magic Doe: Qut̤ban Suhravardī's Mirigāvatī** A new translation by Aditya Behl; edited by Wendy Doniger. (Oxford; New York: Oxford University Press, 2012) ISBN 9780199842940. $28.95	
-* **River of Fire (Aag kar darya)** by Qurratulain Hyder (New York: New Directions, 1999) ISBN 9780811215336. $23.95
+* *A Social History of the Deccan, 1300-1761: Eight Indian lives* by	Richard M. Eaton.	(Cambridge: Cambridge University Press,	2008) ISBN 9780521716277.	$40.99	
+* *The Magic Doe: Qut̤ban Suhravardī's Mirigāvatī* A new translation by Aditya Behl; edited by Wendy Doniger. (Oxford; New York: Oxford University Press, 2012) ISBN 9780199842940. $28.95	
+* *River of Fire (Aag kar darya)* by Qurratulain Hyder (New York: New Directions, 1999) ISBN 9780811215336. $23.95
 
 ## Class Policies
-* Attendance is required, necessary and crucial for successful completion of the course. Unexcused absences beyond one will result in grade devaluation, as will consistent late arrivals or disruptions. Participation is 20% of your grade - it is defined as consistent and constant presence in the course (including TA session), engagement with the materials and your colleagues.
-* Academic integrity is a basic understanding of our engagement in this course. I make a commitment to engage ethically and honestly with you, and I expect the same commitment. Plagiarism or dishonesty and unethical behavior is unacceptable and you will face punitive measures.  You can learn more about Columbia’s official policies on Academic honesty, plagiarism, as well as citational practices here: http://www.college.columbia.edu/academics/integrity
+
+* Land Acknowledgment: At Columbia's Morningside campus, we acknowledge that we are on the territory of the Lenape and Wappinger peoples. Many indigenous communities have lived in and moved through this place over time. Indigenous people from many nations live and work in this region today.  We acknowledge their communities by paying respect to their elders past and present, and recognizing their active presence and their futurity, reposed in the generations present and those to come.
+
 * Classroom Etiquette are best practices of your academic and social lives: be considerate in class; arrive before official class time; listen well; interact with your colleagues with respect and compassion; turn off your phone; and turn off your computing devices. One basic goal of this class is to learn through careful reading and discussion of primary texts, you are required to bring copies of all assigned works to class to facilitate discussion during class session. You will be expected to constantly “read around” the material, looking up key terms and people in encyclopedias, dictionaries, articles, and other references - to situate your own knowledge within the class.
-* Student with documented disabilities who may need academic accommodation, should let me know. 
+
+* Academic integrity is a basic understanding of our engagement in this course. I make a commitment to engage ethically and honestly with you, and I expect the same commitment. Plagiarism or dishonesty and unethical behavior is unacceptable and you will face punitive measures. You should be well-aware and actively cognizant of Columbia University's commitment to Academic Integrity. You can read the policy [here](http://www.college.columbia.edu/academics/academicintegrity). In this class, you are required to submit your original work, properly cited, for each assignment. I ask that you refrain from using laptops in the classroom, and if you need it for note-taking, you absolutely turn off wifi. Please turn your mobile phones off when you sit down in the class. If you have any concerns, problems, issues, please talk to me. I can help. 
+
+* Attendance is required, necessary and crucial for successful completion of the course. Unexcused absences beyond one will result in grade devaluation, as will consistent late arrivals or disruptions. 
+
+* Participation is defined as consistent and constant presence in the course (including TA session), engagement with the materials and your colleagues.
+
+* I endeavor to provide an inclusive learning environment. If you experience any barriers to learning in this course, do not hesitate to discuss them with me. If you have an apparent or non-apparent disability, please be registered with  the Office for Disability Services at 212-854-2388 or disability@columbia.edu. By making a plan through ODS, you can insure appropriate accommodations without disclosing your condition or diagnosis to course instructors. 
+
+ 
 
 ## Assessments
 * 40%: Written Assignments count for 40% of your grade. You are required to write a response to the primary readings for that session of no more than 400-500 words. Your response should cover your analytical, close reading of the text as modeled in the class-- focus specifically on the subjectivity embedded in the source, the intended audience and the imagined social function. You can use any of the interpretive concepts covered in the class. Over the course of the semester, you will write eight (8) such responses. 
@@ -112,117 +122,90 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 
 ## Course Timeline
-All Readings to be done before Class - Readings are marked by the last name of the Author and available in the Files & Resources. 
+All Readings to be done before Class - Readings are marked by the last name of the Author and available in the Files & Resources. Primary sources are marked by (PS). Assessments are noted on the timeline in bold. 
 
-### WED SEP 6: Introductions
-* Irfan Habib, "The Formation of India: Notes on the History of an Idea", 3-10
-
-### MON SEP 11
-* Romila Thapar, "Landscapes and Peoples", 37-68
-* David Ludden, "India and South Asia", 1-33
-
-### WED SEP 13: Kingship
-* Ronald Inden, "Hierarchies of Kings in Medieval India", 129-159
-* Anne KS Lambton, "Concept of Authority", 95-103
-
-### MON SEP 18: Kingship
-* (PS) Kautilya, Arthashastra
-* (PS) Nizam ul Mulk, Siyasatnama 
-
-### WED SEP 20: Kingship
-* Richard Eaton, "Partapa Rudra", 9-32
-* Primary Reading Paper 1 (on Arthashastra or Siyastnama)
-
-### MON SEP 25: Sacral Geography
-* (PS) Kalidasa, *Cloud Messenger*
-* (PS) *Vikramacholanula*
-* FIRST MAP QUIZ
-
-### WED SEP 27: Sacral Geography
-* Samira Sheikh, "Regions of Gujarat", 25-61
-* Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat", 39-61.
-* Response Paper 2 (on Cloud Messenger)
-
-### MON OCT 2: Sacral Geography
-* Benjamin Fleming, "Sacred Geography", 51-81
-* Burton Stein, “Circulation and the Historical Geography of Tamil Country”, 7-26
-
-### WED OCT 4: Sacral Geography
-* Richard Eaton, "Gisu Daraz", 33-59
-* (PS) Ibn Battuta, *Rihla*
-* Response Paper 3 (on Ibn Batutta)
-
-### MON OCT 9: Political Theory
-* (PS) Beyhaqi, History
-* James Heitzman, "Ritual Polity and Economy", 23-54
-* Simon Digby, "Sufi Sheikh and Sultan", 71-81
-
-### WED OCT 11: Political Theory
-* Daud Ali, "Courtly Culture and Political Life in Early Medieval India", 1-32.
-* Manan Ahmed Asif, “A Demon with Ruby Eyes”, 103-127
-* Response Paper 4 (on Beyhaqi)
-
-### MON OCT 16: Political Theory
-* (PS) Inscriptions from the “Staff of Firuz Shah”
-* Richard Eaton, "Rama Raya", 78-105, "Malik Ambar", 105-129
-* SECOND MAP QUIZ
-
-### WED OCT 18: Political Theory
-* Nilanjan Sarkar, “Forbidden Privileges and History-Writing in Medieval India”, 21–62
-* Alyssa Gabbay, “In Reality a Woman”, 45-63
-
-### MON OCT 23: Political Theory
-* Shadab Bano, “Women Slaves in Medieval India”, 314-323
-* (PS) Lakhapadhati
-* Cynthia Talbot,”Becoming Turk the Rajput Way” , 211-243
-
-### WED OCT 25: Transculturation
-* Finbarr Flood, *Objects in Translation*, 1-27
-* Carl Ernst, "Situating Sufism and Yoga", 15-43
-* Response Paper 5 (on Lakhapadhati)
-
-### MON OCT 30: Transculturation
-* Richard Eaton, "Tukaram", 129-155
-* Brandon LeRoque, “Mahamat Prannath and the Pranami Movement", 343-378
-* Annotation Exercise 1
-
-### WED NOV 1: Transculturation
-* (PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 39-129.
-
-### WED NOV 8: Transculturation
-* (PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 129-195, xx-4xx
-* Response Paper 6 (on Mirigavati)
-
-### MON NOV 13: Literary Cultures
-* Sheldon Pollock, "The Sanskrit Cosmopolis, 300-130", 197-247
-* Sumathi Ramaswamy, “Language of the People in the World of Gods", 66-92
-
-### WED NOV 15: Literary Cultures
-* Muzaffar Alam, "Language and Power", 115-140
-* Tahera Qutbuddin, “Arabic in India", 315-338
-
-### MON NOV 20: Literary Culture
-* (PS) Shulman & Rao, Classical Telegu Poetry
-* V. N. Rao, “Multiple Literary Cutures in Telugu”, 383-437
-
-### WED NOV 22: Literary Culture
-* Satya P. Mohanty, “Alternative Modernities and Medieval Indian Literature", 3-15, 17-21
-* Response Paper 7 (on Telegu Poetry)
-
-### MON NOV 27: Historical Memory
-* AK Ramanujan, "Three Hundred Ramayanas", 131-161
-* Vinay Dharwadkar, "Censoring the Ramayana", 433-450
-
-### WED NOV 29: Historical Memory
-* Prithvi Datta Chandra Shobhi, "Kalyāṇa is Wrecked", 90-98
-* Response Paper 8 (on Ram ke Naam)
-
-### MON DEC 4: Historical Memory
-* Qurutalain Hyder, *River of Fire*, 1- 105
-
-### WED DEC 6: Historical Memory
-* Qurutalain Hyder, *River of Fire*, 105 - 213
-* Annotation Exercise 2
-
-### MON DEC 11
-* Conclusions
+* WED SEP 4: Introductions
+Irfan Habib, "The Formation of India", 3-10
+* MON SEP 9
+Romila Thapar, "Landscapes and Peoples", 37-68
+David Ludden, "India and South Asia", 1-33
+* WED SEP 11: Kingship
+Ronald Inden, "Hierarchies of Kings in Medieval India", 129-159
+Anne KS Lambton, "Concept of Authority", 95-103
+* MON SEP 16: Kingship
+(PS) Kautilya, Arthashastra
+(PS) Nizam ul Mulk, Siyasatnama 
+* WED SEP 18: Kingship
+Richard Eaton, "Partapa Rudra", 9-32
+**Response Paper 1 (on Arthashastra or Siyastnama)**
+* MON SEP 23: Sacral Geography
+(PS) Kalidasa, Cloud Messenger
+(PS) Vikramacholanula
+**FIRST MAP QUIZ**
+* WED SEP 25: Sacral Geography
+Samira Sheikh, "Regions of Gujarat", 25-61
+Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat", 39-61
+**Response Paper 2 (on Cloud Messenger or Vikramacholanula)**
+* MON SEP 30: Sacral Geography
+Benjamin Fleming, "Sacred Geography", 51-81
+Burton Stein, “Circulation and the Historical Geography of Tamil Country”, 7-26
+* WED OCT 2: Sacral Geography
+Richard Eaton, "Gisu Daraz", 33-59
+(PS) Ibn Battuta, Rihla
+**Response Paper 3 (on Ibn Batutta)**
+* MON OCT 7: Political Theory
+(PS) Beyhaqi, History
+James Heitzman, "Ritual Polity and Economy", 1-33
+Simon Digby, "Sufi Sheikh and Sultan", 71-81
+* WED OCT 9: Political Theory
+Daud Ali, "Courtly Culture and Political Life in Early Medieval India", 29-69.
+Manan Ahmed Asif, “A Demon with Ruby Eyes”, 103-127
+**Response Paper 4 (on Beyhaqi)** 
+* MON OCT 14: Political Theory
+(PS) Inscriptions from the “Staff of Firuz Shah”
+Richard Eaton, "Rama Raya", 78-105, "Malik Ambar", 105-129
+**SECOND MAP QUIZ**
+* WED OCT 16: Political Theory
+Nilanjan Sarkar, “Forbidden Privileges and History-Writing in Medieval India”, 21–62
+Alyssa Gabbay, “In Reality a Woman", 45-63
+* MON OCT 21: Political Theory
+Shadab Bano, “Women Slaves in Medieval India”, 314-323
+(PS) Lakhapadhati
+Cynthia Talbot,”Becoming Turk the Rajput Way", 211-243
+* WED OCT 23: Transculturation
+Finbarr Flood, Objects in Translation, 1-27
+Carl Ernst, "Situating Sufism and Yoga", 15-43
+**Response Paper 5 (on Lakhapadhati)**
+* MON OCT 28: Transculturation
+Richard Eaton, "Tukaram", 129-155
+Brandon LeRoque, “Mahamat Prannath and the Pranami Movement", 343-378
+**Annotation Exercise 1**
+* WED OCT 30: Transculturation
+(PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 39-129.
+* WED NOV 6: Transculturation
+(PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 129-195, xx-4xx
+**Response Paper 6 (on Mirigavati)**
+* MON NOV 11: Literary Cultures
+Sheldon Pollock, "The Sanskrit Cosmopolis, 300-130", 197-247
+Sumathi Ramaswamy, “Language of the People in the World of Gods", 66-92
+* WED NOV 13: Literary Cultures
+Muzaffar Alam, "Language and Power", 115-140
+Tahera Qutbuddin, “Arabic in India", 315-338
+* MON NOV 18: Literary Culture
+(PS) Shulman & Rao, Classical Telugu Poetry
+V. N. Rao, “Multiple Literary Cutures in Telugu”, 383-437
+* WED NOV 20: Historical Memory
+AK Ramanujan, "Three Hundred Ramayanas", 131-161
+Vinay Dharwadkar, "Censoring the Ramayana", 433-450
+**Response Paper 7  (on Classical Telugu Poetry)**
+* WED NOV 25: Historical Memory
+Prithvi Datta Chandra Shobhi: Kalyāṇa is Wrecked", 90-98
+Watch all of Anand Patwardhan, "In the Name of Ram (Links to an external site.)" <https://www.youtube.com/watch?v=7pi8-PFqTf0>
+**Response Paper 8 (on Ram ke Naam)**
+* MON DEC 2: Historical Memory
+Qurutalain Hyder, River of Fire (p.1- 205)
+* WED DEC 4: Historical Memory
+Qurutalain Hyder, River of Fire (p. 205 - 428)
+**Annotation Exercise 2**
+* MON DEC 9
+Conclusions
