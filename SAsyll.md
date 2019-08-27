@@ -77,14 +77,16 @@ The course is arranged in six thematic sections-- within each section, we will c
 * Kalidasa, *Cloud Messenger* (c. 400 CE)
 * Inscription from Navsari Plates of Pulakesiraja (c. 740-50)
 * Bhavabhūti (8th c), *Uttararāmacarita*
-* Nizam ul Mulk, *Siyasatnama* (10th c)
+* Nizam ul Mulk, *Siyasatnama* (10th c.)
 * Beyhaqi, *Tari'kh* (11th c.)
-* al-Biruni, *Kitāb fī Taḥqīq mā lil-Hind* (11th c)
-* *Vikramacholanula* (12th C.)
-* Lakhapadhati Documents (13th C)
-* Inscriptions from the “Staff of Firuz Shah” (14th c)
-* Ibn Batutta, *Rihla* (14th c)
-* Anand Patwardan, *Raam kay Naam* (20th c)
+* al-Biruni, *Kitāb fī Taḥqīq mā lil-Hind* (11th c.)
+* *Vikramacholanula* (12th c.)
+* *Padma Purana* (12th c.)
+* Lakhapadhati Documents (13th c.)
+* Amir Khusro (14th c.)
+* Inscriptions from the “Staff of Firuz Shah” (14th c.)
+* Ibn Batutta, *Rihla* (14th c.)
+* Anand Patwardan, *Raam kay Naam* (20th c.)
 
 
 ### Secondary Scholarship
@@ -92,32 +94,32 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 * Muzaffar Alam. *Languages of Political Islam: India 1200-1800* (London: Hurst & Co. 2004): 85-98, 115-122.
 * Daud Ali. *Courtly Culture and Political Life in Early Medieval India.* (Cambridge: Cambridge University Press, 2004): 1-32
-* Manan Ahmed Asif, "Demon with Ruby Eyes", *A Book of Conquest* (Cambridge, MA: Harvard University Press, 2016): 103-127
-* Shadab Bano, “Women Slaves in Medieval India” *Proceedings of the Indian History Congress*, Vol. 65 (2004), 314-323
+* Manan Ahmed Asif, "Demon with Ruby Eyes," *A Book of Conquest* (Cambridge, MA: Harvard University Press, 2016): 103-127
+* Shadab Bano, “Women Slaves in Medieval India,” *Proceedings of the Indian History Congress*, Vol. 65 (2004), 314-323
 * Simon Digby, “Sufi Shaykh and Sultan: A Conflict of Claims to Authority in Medieval India,” *Iran* vol. 28, (1990): 71-81
-*  Vinay Dharwadkar, "Censoring the Ramayana", *PMLA* 127.3 (May 20, 2012): 433-50
-* Carl W. Ernst, “Situating Sufism and Yoga”, *Journal of the Royal Asiatic Society*, 15:1 (Apr., 2005): 15-43
-* Benjamin J. Fleming, “Mapping Sacred Geography in Medieval India: The Case of the Twelve "Jyotirliṅgas"”, *International Journal of Hindu Studies* , 13:1  (Apr., 2009), 51-81
+*  Vinay Dharwadkar, "Censoring the Ramayana," *PMLA* 127.3 (May 20, 2012): 433-50
+* Carl W. Ernst, “Situating Sufism and Yoga,” *Journal of the Royal Asiatic Society*, 15:1 (Apr., 2005): 15-43
+* Benjamin J. Fleming, “Mapping Sacred Geography in Medieval India: The Case of the Twelve 'Jyotirliṅgas',” *International Journal of Hindu Studies*, 13:1  (Apr., 2009), 51-81
 * Finbarr B. Flood. *Objects of Translation: Material Culture and Medieval ‘Hindu– Muslim’ Encounter* (New Delhi: Permanent Black, 2010): 1-35
-* Alyssa Gabbay, “In Reality a Woman: Sultan Iltutmish, His Daughter, Raziya, and Gender Ambiguity in Thirteenth Century Northern India”, *Journal of Persianate Studies* 4 (2011), 45-63
-* Irfan Habib, "The Formation of India: Notes on the History of an Idea", Social Scientist, vol 25, no. 7/8 (July 1997): 3-10
-* James Heitzman, "Ritual Polity and Economy: The Transactional Network of an Imperial Temple in Medieval South India", *Journal of the Economic and Social History of the Orient* 34:1/2 (1991): 23-54
-* Ronald Inden, Hierarchies of Kings in Medieval India, *Texts and Practice: Essays on South Asian History* (London: Oxford University Press, 2004): 129-159
-* Anne KS Lambton, "Concept of Authority", *Iran*, 26 (1988): 95-103
-* Brandon LeRoque, “Mahamat Prannath and the Pranami Movement: Hinduism and Islam in the Service of a Mercantile Sect”, *Religious Interactions in Mughal India*, (London: Oxford University Press, 2014): 343-378
+* Alyssa Gabbay, “In Reality a Woman: Sultan Iltutmish, His Daughter, Raziya, and Gender Ambiguity in Thirteenth Century Northern India,” *Journal of Persianate Studies* 4 (2011), 45-63
+* Irfan Habib, "The Formation of India: Notes on the History of an Idea," Social Scientist, vol 25, no. 7/8 (July 1997): 3-10
+* James Heitzman, "Ritual Polity and Economy: The Transactional Network of an Imperial Temple in Medieval South India," *Journal of the Economic and Social History of the Orient* 34:1/2 (1991): 23-54
+* Ronald Inden, "Hierarchies of Kings in Medieval India," *Texts and Practice: Essays on South Asian History* (London: Oxford University Press, 2004): 129-159
+* Anne KS Lambton, "Concept of Authority," *Iran*, 26 (1988): 95-103
+* Brandon LeRoque, “Mahamat Prannath and the Pranami Movement: Hinduism and Islam in the Service of a Mercantile Sect,” *Religious Interactions in Mughal India*, (London: Oxford University Press, 2014): 343-378
 * David Ludden. *India and South Asia: A Short History* (New York: OneWorld Publishers, 2006): 1-33
-* Satya P. Mohanty, “Alternative Modernities and Medieval Indian Literature: The Oriya "Lakshmi Purana" as Radical Pedagogy” *Diacritics*, Vol. 38, No. 3 (Fall, 2008), 3-15, 17-21
+* Satya P. Mohanty, “Alternative Modernities and Medieval Indian Literature: The Oriya 'Lakshmi Purana' as Radical Pedagogy,” *Diacritics*, Vol. 38, No. 3 (Fall, 2008), 3-15, 17-21
 * Sheldon Pollock, "The Sanskrit Cosmopolis, 300-1300: Transculturation,  Vernacularization, and the Question of Ideology," *Ideology and Status of Sanskrit*, ed. Jan E. M. Houben (Leiden: Brill, 1996): 197-247
-* Tahera Qutbuddin, “Arabic in India: A Survey and Classification of Its Uses, Compared with Persian” *Journal of the American Oriental Society*, 127:3 (Jul. - Sep., 2007): 315-338
-* V. N. Rao, “Multiple Literary Cutures in Telugu: Court, Temple, and Public” in Sheldon Pollock (ed.) *Literary Cultures in History: Reconstructions from South Asia* (Berkeley: University of California Press, 2003): 383-437
-* A.K. Ramanujan, "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation", *The Collected Essays of A.K. Ramanujan* (London: Oxford University Press: 2004): 131-161
-* Sumathi Ramaswamy, “Language of the People in the World of Gods: Ideologies of Tamil before the Nation”, *The Journal of Asian Studies*, 57:1 (Feb., 1998): 66-92
-* Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat" *Ars Orientalis*, 34 (2004): 39-61
-* Nilanjan Sarkar, “Forbidden Privileges and History-Writing in Medieval India”, The Medieval History Journal, 16, 1 (2013): 21–62
-* Burton Stein, “Circulation and the Historical Geography of Tamil Country” *The Journal of Asian Studies*, Vol. 37, No. 1 (Nov., 1977), 7-26
+* Tahera Qutbuddin, “Arabic in India: A Survey and Classification of Its Uses, Compared with Persian,” *Journal of the American Oriental Society*, 127:3 (Jul. - Sep., 2007): 315-338
+* V. N. Rao, “Multiple Literary Cutures in Telugu: Court, Temple, and Public,” in Sheldon Pollock (ed.) *Literary Cultures in History: Reconstructions from South Asia* (Berkeley: University of California Press, 2003): 383-437
+* A.K. Ramanujan, "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation," *The Collected Essays of A.K. Ramanujan* (London: Oxford University Press: 2004): 131-161
+* Sumathi Ramaswamy, “Language of the People in the World of Gods: Ideologies of Tamil before the Nation,” *The Journal of Asian Studies*, 57:1 (Feb., 1998): 66-92
+* Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat," *Ars Orientalis*, 34 (2004): 39-61
+* Nilanjan Sarkar, “Forbidden Privileges and History-Writing in Medieval India,” The Medieval History Journal, 16, 1 (2013): 21–62
+* Burton Stein, “Circulation and the Historical Geography of Tamil Country,” *The Journal of Asian Studies*, Vol. 37, No. 1 (Nov., 1977), 7-26
 * Samira Sheikh, *Forging a Region: Sultans, Traders, and Pilgrims in Gujarat, 1200-1500* (Delhi: Oxford University Press, 2010)
-* Prithvi Datta Chandra Shobhi, "Kalyāṇa is Wrecked: The Remaking of a Medieval Capital in Popular Imagination", *South Asian Studies* 32:1 (2016): 90-98
-* Cynthia Talbot,”Becoming Turk the Rajput Way: Conversion and Identity in an Indian Warrior Narrative” *Modern Asian Studies*, 43:1 (2009): 211-243
+* Prithvi Datta Chandra Shobhi, "Kalyāṇa is Wrecked: The Remaking of a Medieval Capital in Popular Imagination," *South Asian Studies* 32:1 (2016): 90-98
+* Cynthia Talbot,”Becoming Turk the Rajput Way: Conversion and Identity in an Indian Warrior Narrative,” *Modern Asian Studies*, 43:1 (2009): 211-243
 * Romila Thapar. *Early India* (Berkeley: University of California Press, 2002): 37-68
 
 
@@ -125,60 +127,60 @@ The course is arranged in six thematic sections-- within each section, we will c
 All Readings to be done before Class - Readings are marked by the last name of the Author and available in the Files & Resources. Primary sources are marked by (PS). Assessments are noted on the timeline in bold.
 
 * WED SEP 4: Introductions
-    - Irfan Habib, "The Formation of India", 3-10
+    - Irfan Habib, "The Formation of India," 3-10
 * MON SEP 9
-    - Romila Thapar, "Landscapes and Peoples", 37-68
-    - David Ludden, "India and South Asia", 1-33
+    - Romila Thapar, "Landscapes and Peoples," 37-68
+    - David Ludden, "India and South Asia," 1-33
 * WED SEP 11: Kingship
-    - Ronald Inden, "Hierarchies of Kings in Medieval India", 129-159
-    - Anne KS Lambton, "Concept of Authority", 95-103
+    - Ronald Inden, "Hierarchies of Kings in Medieval India," 129-159
+    - Anne KS Lambton, "Concept of Authority," 95-103
 * MON SEP 16: Kingship
     - (PS) Kautilya, Arthashastra
     - (PS) Nizam ul Mulk, Siyasatnama
 * WED SEP 18: Kingship
-    - Richard Eaton, "Partapa Rudra", 9-32
+    - Richard Eaton, "Partapa Rudra," 9-32
     - **Response Paper 1 (on Arthashastra or Siyastnama)**
 * MON SEP 23: Sacral Geography
     - (PS) Kalidasa, Cloud Messenger
     - (PS) Vikramacholanula
     - **FIRST MAP QUIZ**
 * WED SEP 25: Sacral Geography
-    - Samira Sheikh, "Regions of Gujarat", 25-61
-    - Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat", 39-61
+    - Samira Sheikh, "Regions of Gujarat," 25-61
+    - Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat," 39-61
     - **Response Paper 2 (on Cloud Messenger or Vikramacholanula)**
 * MON SEP 30: Sacral Geography
-    - Benjamin Fleming, "Sacred Geography", 51-81
+    - Benjamin Fleming, "Sacred Geography," 51-81
     - Burton Stein, “Circulation and the Historical Geography of Tamil Country”, 7-26
 * WED OCT 2: Sacral Geography
-    - Richard Eaton, "Gisu Daraz", 33-59
+    - Richard Eaton, "Gisu Daraz," 33-59
     - (PS) Ibn Battuta, Rihla
     - **Response Paper 3 (on Ibn Batutta)**
 * MON OCT 7: Political Theory
     - (PS) Beyhaqi, History
-    - James Heitzman, "Ritual Polity and Economy", 1-33
-    - Simon Digby, "Sufi Sheikh and Sultan", 71-81
+    - James Heitzman, "Ritual Polity and Economy," 1-33
+    - Simon Digby, "Sufi Sheikh and Sultan," 71-81
 * WED OCT 9: Political Theory
-    - Daud Ali, "Courtly Culture and Political Life in Early Medieval India", 29-69.
+    - Daud Ali, "Courtly Culture and Political Life in Early Medieval India," 29-69.
     - Manan Ahmed Asif, “A Demon with Ruby Eyes”, 103-127
     - **Response Paper 4 (on Beyhaqi)**
 * MON OCT 14: Political Theory
     - (PS) Inscriptions from the “Staff of Firuz Shah”
-    - Richard Eaton, "Rama Raya", 78-105, "Malik Ambar", 105-129
+    - Richard Eaton, "Rama Raya," 78-105, "Malik Ambar," 105-129
     - **SECOND MAP QUIZ**
 * WED OCT 16: Political Theory
-    - Nilanjan Sarkar, “Forbidden Privileges and History-Writing in Medieval India”, 21–62
-    - Alyssa Gabbay, “In Reality a Woman", 45-63
+    - (PS) Padma Purana (Arjuni), Khusrau
+    - Alyssa Gabbay, “In Reality a Woman," 45-63
 * MON OCT 21: Political Theory
-    - Shadab Bano, “Women Slaves in Medieval India”, 314-323
+    - Shadab Bano, “Women Slaves in Medieval India,” 314-323
     - (PS) Lakhapadhati
-    - Cynthia Talbot,”Becoming Turk the Rajput Way", 211-243
+    - Cynthia Talbot,"Becoming Turk the Rajput Way," 211-243
 * WED OCT 23: Transculturation
     - Finbarr Flood, Objects in Translation, 1-27
-    - Carl Ernst, "Situating Sufism and Yoga", 15-43
+    - Carl Ernst, "Situating Sufism and Yoga," 15-43
     - **Response Paper 5 (on Lakhapadhati)**
 * MON OCT 28: Transculturation
-    - Richard Eaton, "Tukaram", 129-155
-    - Brandon LeRoque, “Mahamat Prannath and the Pranami Movement", 343-378
+    - Richard Eaton, "Tukaram," 129-155
+    - Brandon LeRoque, “Mahamat Prannath and the Pranami Movement," 343-378
     - **Annotation Exercise 1**
 * WED OCT 30: Transculturation
     - (PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 39-129.
@@ -186,20 +188,20 @@ All Readings to be done before Class - Readings are marked by the last name of t
     - (PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 129-195, xx-4xx
     - **Response Paper 6 (on Mirigavati)**
 * MON NOV 11: Literary Cultures
-    - Sheldon Pollock, "The Sanskrit Cosmopolis, 300-130", 197-247
-    - Sumathi Ramaswamy, “Language of the People in the World of Gods", 66-92
+    - Sheldon Pollock, "The Sanskrit Cosmopolis, 300-130," 197-247
+    - Sumathi Ramaswamy, “Language of the People in the World of Gods," 66-92
 * WED NOV 13: Literary Cultures
-    - Muzaffar Alam, "Language and Power", 115-140
-    - Tahera Qutbuddin, “Arabic in India", 315-338
+    - Muzaffar Alam, "Language and Power," 115-140
+    - Tahera Qutbuddin, “Arabic in India," 315-338
 * MON NOV 18: Literary Culture
     - (PS) Shulman & Rao, Classical Telugu Poetry
     - V. N. Rao, “Multiple Literary Cutures in Telugu”, 383-437
 * WED NOV 20: Historical Memory
-    - AK Ramanujan, "Three Hundred Ramayanas", 131-161
-    - Vinay Dharwadkar, "Censoring the Ramayana", 433-450
+    - AK Ramanujan, "Three Hundred Ramayanas," 131-161
+    - Vinay Dharwadkar, "Censoring the Ramayana," 433-450
     - **Response Paper 7  (on Classical Telugu Poetry)**
 * WED NOV 25: Historical Memory
-    - Prithvi Datta Chandra Shobhi: Kalyāṇa is Wrecked", 90-98
+    - Prithvi Datta Chandra Shobhi: Kalyāṇa is Wrecked," 90-98
     - Watch all of Anand Patwardhan, "In the Name of Ram (Links to an external site.)" <https://www.youtube.com/watch?v=7pi8-PFqTf0>
     - **Response Paper 8 (on Ram ke Naam)**
 * MON DEC 2: Historical Memory
