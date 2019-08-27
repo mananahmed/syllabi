@@ -4,12 +4,12 @@ date: Fall 2019
 instructor: Manan Ahmed
 office: Fayerweather Hall 502
 office hours: Mondays 10:30 AM-12:30 PM
-TA 1: 
+TA 1:
 TA 2: TBD
 
 ---
 
-![poster](images/SA2019.jpg)
+![poster](SA2019.jpg)
 
 ## Course Objectives
 There are three broad objectives to the course: First, to gain a fuller comprehension of the political, social and cultural history of the sub-continent from  3 CE to 1400 CE. Second, to delve into primary source materials (epigraphic, monumental, textual ) pertaining to crucial themes and sites from this history, in order to gain an appreciation of the transculturation processes through which varied communities organized themselves. Third, to familiarize oneself with dominant historiographical trends in the study of South Asia– particularly reflecting on ways in which early and medieval periods are understood. This is a history class, and our effort will be to act and acquaint ourselves as a historian-- the focus will be to engage productively with primary sources, historiography, and produce analytical pieces of writings.
@@ -30,7 +30,7 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 >**I: Theories of Kingship**: Two key concerns will orient us: Regionalism and Kingship. The political polities we will cover include: Gupta, Chola, Gurjara Patihara, Rashtrakuta, Chalukya, Arab Sindh, Ghaznavid, Delhi Sultanate, Deccani Sultanates. The concepts of Chakravartin, Rajaya, Khalifa, Sultan,  would lead us to think about claims to political legitimacy and political theory.
 
->**II: Sacral Geography**: This section will cover the emergence of cities, the development of pilgrimage and trade routes, and the ways in which temples, markets and ports appear as markers of civitas and habitus. We will cover the Rome-Indic Trade, the Silk Route, the pilgrimage routes connecting Bengal and Kashmir, Multan and Madurai. 
+>**II: Sacral Geography**: This section will cover the emergence of cities, the development of pilgrimage and trade routes, and the ways in which temples, markets and ports appear as markers of civitas and habitus. We will cover the Rome-Indic Trade, the Silk Route, the pilgrimage routes connecting Bengal and Kashmir, Multan and Madurai.
 
 >**III. Political Theory**: This section will cover the ways in which various political entities made sense of their particular claim to governance across regnal, sacral, cultural and political landscapes. Our main concepts will be Monumentalism, Body, Courtly Culture, and Sacral Communities.
 
@@ -38,12 +38,12 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 >**V: Literary Cultures**: The section will focus on the role of literary culture-- the ways in which language, script, texts, and narratives shape the social, cultural and political self. We will trace Sanskrit, Arabic, Persian, Tamil literary cultures during this time period.
 
->**VI: Historical Memory**: Our last section will look at the presence of this long past in contemporary and near-contemporary moments and examine how a  particular past is used to explain, uncritically, or to justify, unambiguously, that which is left unexamined and unassimilated in the present. 
+>**VI: Historical Memory**: Our last section will look at the presence of this long past in contemporary and near-contemporary moments and examine how a  particular past is used to explain, uncritically, or to justify, unambiguously, that which is left unexamined and unassimilated in the present.
 
 ## Course Texts to be Purchased
 
-* *A Social History of the Deccan, 1300-1761: Eight Indian lives* by	Richard M. Eaton.	(Cambridge: Cambridge University Press,	2008) ISBN 9780521716277.	$40.99	
-* *The Magic Doe: Qut̤ban Suhravardī's Mirigāvatī* A new translation by Aditya Behl; edited by Wendy Doniger. (Oxford; New York: Oxford University Press, 2012) ISBN 9780199842940. $28.95	
+* *A Social History of the Deccan, 1300-1761: Eight Indian lives* by	Richard M. Eaton.	(Cambridge: Cambridge University Press,	2008) ISBN 9780521716277.	$40.99
+* *The Magic Doe: Qut̤ban Suhravardī's Mirigāvatī* A new translation by Aditya Behl; edited by Wendy Doniger. (Oxford; New York: Oxford University Press, 2012) ISBN 9780199842940. $28.95
 * *River of Fire (Aag kar darya)* by Qurratulain Hyder (New York: New Directions, 1999) ISBN 9780811215336. $23.95
 
 ## Class Policies
@@ -52,20 +52,20 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 * Classroom Etiquette are best practices of your academic and social lives: be considerate in class; arrive before official class time; listen well; interact with your colleagues with respect and compassion; turn off your phone; and turn off your computing devices. One basic goal of this class is to learn through careful reading and discussion of primary texts, you are required to bring copies of all assigned works to class to facilitate discussion during class session. You will be expected to constantly “read around” the material, looking up key terms and people in encyclopedias, dictionaries, articles, and other references - to situate your own knowledge within the class.
 
-* Academic integrity is a basic understanding of our engagement in this course. I make a commitment to engage ethically and honestly with you, and I expect the same commitment. Plagiarism or dishonesty and unethical behavior is unacceptable and you will face punitive measures. You should be well-aware and actively cognizant of Columbia University's commitment to Academic Integrity. You can read the policy [here](http://www.college.columbia.edu/academics/academicintegrity). In this class, you are required to submit your original work, properly cited, for each assignment. I ask that you refrain from using laptops in the classroom, and if you need it for note-taking, you absolutely turn off wifi. Please turn your mobile phones off when you sit down in the class. If you have any concerns, problems, issues, please talk to me. I can help. 
+* Academic integrity is a basic understanding of our engagement in this course. I make a commitment to engage ethically and honestly with you, and I expect the same commitment. Plagiarism or dishonesty and unethical behavior is unacceptable and you will face punitive measures. You should be well-aware and actively cognizant of Columbia University's commitment to Academic Integrity. You can read the policy [here](http://www.college.columbia.edu/academics/academicintegrity). In this class, you are required to submit your original work, properly cited, for each assignment. I ask that you refrain from using laptops in the classroom, and if you need it for note-taking, you absolutely turn off wifi. Please turn your mobile phones off when you sit down in the class. If you have any concerns, problems, issues, please talk to me. I can help.
 
-* Attendance is required, necessary and crucial for successful completion of the course. Unexcused absences beyond one will result in grade devaluation, as will consistent late arrivals or disruptions. 
+* Attendance is required, necessary and crucial for successful completion of the course. Unexcused absences beyond one will result in grade devaluation, as will consistent late arrivals or disruptions.
 
 * Participation is defined as consistent and constant presence in the course (including TA session), engagement with the materials and your colleagues.
 
-* I endeavor to provide an inclusive learning environment. If you experience any barriers to learning in this course, do not hesitate to discuss them with me. If you have an apparent or non-apparent disability, please be registered with  the Office for Disability Services at 212-854-2388 or disability@columbia.edu. By making a plan through ODS, you can insure appropriate accommodations without disclosing your condition or diagnosis to course instructors. 
+* I endeavor to provide an inclusive learning environment. If you experience any barriers to learning in this course, do not hesitate to discuss them with me. If you have an apparent or non-apparent disability, please be registered with  the Office for Disability Services at 212-854-2388 or disability@columbia.edu. By making a plan through ODS, you can insure appropriate accommodations without disclosing your condition or diagnosis to course instructors.
 
- 
+
 
 ## Assessments
 * 40%: Written Assignments count for 40% of your grade. You are required to write a response to the primary readings for that session of no more than 400-500 words. Your response should cover your analytical, close reading of the text as modeled in the class-- focus specifically on the subjectivity embedded in the source, the intended audience and the imagined social function. You can use any of the interpretive concepts covered in the class. Over the course of the semester, you will write eight (8) such responses. 
 * 40%: Exams count for 40% of your grade. There will be two map quizzes and two take home Annotation exercises. 
-* 10%: Participation, in class and in your discussion session is 10% of your grade. A large section of the time, once a week, will be focused on discussion and I urge you to participate fully. 
+* 10%: Participation, in class and in your discussion session is 10% of your grade. A large section of the time, once a week, will be focused on discussion and I urge you to participate fully.
 * 10%: Site visit is 10% of your grade. You can visit an exhibit of medieval South Asia (at The Met or other galleries in NYC) or you can attend a talk on medieval South Asia. A one page reflection and documentation of either is required for you to receive this grade.
 
 ## Course Readings
@@ -122,90 +122,90 @@ The course is arranged in six thematic sections-- within each section, we will c
 
 
 ## Course Timeline
-All Readings to be done before Class - Readings are marked by the last name of the Author and available in the Files & Resources. Primary sources are marked by (PS). Assessments are noted on the timeline in bold. 
+All Readings to be done before Class - Readings are marked by the last name of the Author and available in the Files & Resources. Primary sources are marked by (PS). Assessments are noted on the timeline in bold.
 
 * WED SEP 4: Introductions
-Irfan Habib, "The Formation of India", 3-10
+    - Irfan Habib, "The Formation of India", 3-10
 * MON SEP 9
-Romila Thapar, "Landscapes and Peoples", 37-68
-David Ludden, "India and South Asia", 1-33
+    - Romila Thapar, "Landscapes and Peoples", 37-68
+    - David Ludden, "India and South Asia", 1-33
 * WED SEP 11: Kingship
-Ronald Inden, "Hierarchies of Kings in Medieval India", 129-159
-Anne KS Lambton, "Concept of Authority", 95-103
+    - Ronald Inden, "Hierarchies of Kings in Medieval India", 129-159
+    - Anne KS Lambton, "Concept of Authority", 95-103
 * MON SEP 16: Kingship
-(PS) Kautilya, Arthashastra
-(PS) Nizam ul Mulk, Siyasatnama 
+    - (PS) Kautilya, Arthashastra
+    - (PS) Nizam ul Mulk, Siyasatnama
 * WED SEP 18: Kingship
-Richard Eaton, "Partapa Rudra", 9-32
-**Response Paper 1 (on Arthashastra or Siyastnama)**
+    - Richard Eaton, "Partapa Rudra", 9-32
+    - **Response Paper 1 (on Arthashastra or Siyastnama)**
 * MON SEP 23: Sacral Geography
-(PS) Kalidasa, Cloud Messenger
-(PS) Vikramacholanula
-**FIRST MAP QUIZ**
+    - (PS) Kalidasa, Cloud Messenger
+    - (PS) Vikramacholanula
+    - **FIRST MAP QUIZ**
 * WED SEP 25: Sacral Geography
-Samira Sheikh, "Regions of Gujarat", 25-61
-Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat", 39-61
-**Response Paper 2 (on Cloud Messenger or Vikramacholanula)**
+    - Samira Sheikh, "Regions of Gujarat", 25-61
+    - Himanshu Prabha Ray, "The Artisan and the Merchant in Early Gujarat", 39-61
+    - **Response Paper 2 (on Cloud Messenger or Vikramacholanula)**
 * MON SEP 30: Sacral Geography
-Benjamin Fleming, "Sacred Geography", 51-81
-Burton Stein, “Circulation and the Historical Geography of Tamil Country”, 7-26
+    - Benjamin Fleming, "Sacred Geography", 51-81
+    - Burton Stein, “Circulation and the Historical Geography of Tamil Country”, 7-26
 * WED OCT 2: Sacral Geography
-Richard Eaton, "Gisu Daraz", 33-59
-(PS) Ibn Battuta, Rihla
-**Response Paper 3 (on Ibn Batutta)**
+    - Richard Eaton, "Gisu Daraz", 33-59
+    - (PS) Ibn Battuta, Rihla
+    - **Response Paper 3 (on Ibn Batutta)**
 * MON OCT 7: Political Theory
-(PS) Beyhaqi, History
-James Heitzman, "Ritual Polity and Economy", 1-33
-Simon Digby, "Sufi Sheikh and Sultan", 71-81
+    - (PS) Beyhaqi, History
+    - James Heitzman, "Ritual Polity and Economy", 1-33
+    - Simon Digby, "Sufi Sheikh and Sultan", 71-81
 * WED OCT 9: Political Theory
-Daud Ali, "Courtly Culture and Political Life in Early Medieval India", 29-69.
-Manan Ahmed Asif, “A Demon with Ruby Eyes”, 103-127
-**Response Paper 4 (on Beyhaqi)** 
+    - Daud Ali, "Courtly Culture and Political Life in Early Medieval India", 29-69.
+    - Manan Ahmed Asif, “A Demon with Ruby Eyes”, 103-127
+    - **Response Paper 4 (on Beyhaqi)**
 * MON OCT 14: Political Theory
-(PS) Inscriptions from the “Staff of Firuz Shah”
-Richard Eaton, "Rama Raya", 78-105, "Malik Ambar", 105-129
-**SECOND MAP QUIZ**
+    - (PS) Inscriptions from the “Staff of Firuz Shah”
+    - Richard Eaton, "Rama Raya", 78-105, "Malik Ambar", 105-129
+    - **SECOND MAP QUIZ**
 * WED OCT 16: Political Theory
-Nilanjan Sarkar, “Forbidden Privileges and History-Writing in Medieval India”, 21–62
-Alyssa Gabbay, “In Reality a Woman", 45-63
+    - Nilanjan Sarkar, “Forbidden Privileges and History-Writing in Medieval India”, 21–62
+    - Alyssa Gabbay, “In Reality a Woman", 45-63
 * MON OCT 21: Political Theory
-Shadab Bano, “Women Slaves in Medieval India”, 314-323
-(PS) Lakhapadhati
-Cynthia Talbot,”Becoming Turk the Rajput Way", 211-243
+    - Shadab Bano, “Women Slaves in Medieval India”, 314-323
+    - (PS) Lakhapadhati
+    - Cynthia Talbot,”Becoming Turk the Rajput Way", 211-243
 * WED OCT 23: Transculturation
-Finbarr Flood, Objects in Translation, 1-27
-Carl Ernst, "Situating Sufism and Yoga", 15-43
-**Response Paper 5 (on Lakhapadhati)**
+    - Finbarr Flood, Objects in Translation, 1-27
+    - Carl Ernst, "Situating Sufism and Yoga", 15-43
+    - **Response Paper 5 (on Lakhapadhati)**
 * MON OCT 28: Transculturation
-Richard Eaton, "Tukaram", 129-155
-Brandon LeRoque, “Mahamat Prannath and the Pranami Movement", 343-378
-**Annotation Exercise 1**
+    - Richard Eaton, "Tukaram", 129-155
+    - Brandon LeRoque, “Mahamat Prannath and the Pranami Movement", 343-378
+    - **Annotation Exercise 1**
 * WED OCT 30: Transculturation
-(PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 39-129.
+    - (PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 39-129.
 * WED NOV 6: Transculturation
-(PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 129-195, xx-4xx
-**Response Paper 6 (on Mirigavati)**
+    - (PS) The Magic Doe: Qutban Suhravardi’s Mirigavati, 129-195, xx-4xx
+    - **Response Paper 6 (on Mirigavati)**
 * MON NOV 11: Literary Cultures
-Sheldon Pollock, "The Sanskrit Cosmopolis, 300-130", 197-247
-Sumathi Ramaswamy, “Language of the People in the World of Gods", 66-92
+    - Sheldon Pollock, "The Sanskrit Cosmopolis, 300-130", 197-247
+    - Sumathi Ramaswamy, “Language of the People in the World of Gods", 66-92
 * WED NOV 13: Literary Cultures
-Muzaffar Alam, "Language and Power", 115-140
-Tahera Qutbuddin, “Arabic in India", 315-338
+    - Muzaffar Alam, "Language and Power", 115-140
+    - Tahera Qutbuddin, “Arabic in India", 315-338
 * MON NOV 18: Literary Culture
-(PS) Shulman & Rao, Classical Telugu Poetry
-V. N. Rao, “Multiple Literary Cutures in Telugu”, 383-437
+    - (PS) Shulman & Rao, Classical Telugu Poetry
+    - V. N. Rao, “Multiple Literary Cutures in Telugu”, 383-437
 * WED NOV 20: Historical Memory
-AK Ramanujan, "Three Hundred Ramayanas", 131-161
-Vinay Dharwadkar, "Censoring the Ramayana", 433-450
-**Response Paper 7  (on Classical Telugu Poetry)**
+    - AK Ramanujan, "Three Hundred Ramayanas", 131-161
+    - Vinay Dharwadkar, "Censoring the Ramayana", 433-450
+    - **Response Paper 7  (on Classical Telugu Poetry)**
 * WED NOV 25: Historical Memory
-Prithvi Datta Chandra Shobhi: Kalyāṇa is Wrecked", 90-98
-Watch all of Anand Patwardhan, "In the Name of Ram (Links to an external site.)" <https://www.youtube.com/watch?v=7pi8-PFqTf0>
-**Response Paper 8 (on Ram ke Naam)**
+    - Prithvi Datta Chandra Shobhi: Kalyāṇa is Wrecked", 90-98
+    - Watch all of Anand Patwardhan, "In the Name of Ram (Links to an external site.)" <https://www.youtube.com/watch?v=7pi8-PFqTf0>
+    - **Response Paper 8 (on Ram ke Naam)**
 * MON DEC 2: Historical Memory
-Qurutalain Hyder, River of Fire (p.1- 205)
+    - Qurutalain Hyder, River of Fire (p.1- 205)
 * WED DEC 4: Historical Memory
-Qurutalain Hyder, River of Fire (p. 205 - 428)
-**Annotation Exercise 2**
+    - Qurutalain Hyder, River of Fire (p. 205 - 428)
+    - **Annotation Exercise 2**
 * MON DEC 9
-Conclusions
+    - Conclusions
