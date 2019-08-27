@@ -3,8 +3,8 @@ title: History of South Asia I
 date: Fall 2019
 instructor: Manan Ahmed
 office: Fayerweather Hall 502
-office hours: TBD
-TA 1: TBD
+office hours: Mondays 10:30 AM-12:30 PM
+TA 1: 
 TA 2: TBD
 
 ---
