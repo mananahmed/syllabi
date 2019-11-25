@@ -52,97 +52,112 @@ Attendance and participation is required. Class participation requires your acti
 
 Columbia College is dedicated to the highest ideals of integrity in academia. Therefore, in Literature Humanities and Contemporary Civilization, any instance of academic dishonesty, attempted or actual, will be reported to the faculty chair of the course and to the dean of the Core Curriculum, who will review the case with the expectation that a student guilty of academic dishonesty will receive the grade of “F” in the course and be referred to dean’s discipline for further institutional action.
 
-### The Authors (available at Book Culture/Courseworks)
+### The Authors:
+John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790), Immanuel Kant (1724-1804), Edmund Burke (1729-1797), Olympe de Gouges (1748-1793), G. W. F. Hegel (1770-1831), Jeremy Bentham (1748-1832), Thomas Babington Macaulay (1800-1859), Alexis de Tocqueville (1805-1859), Charles Darwin (1809-1882), John Stewart Mill (1806-1873), Herbert Spencer (1820-1903),  Karl Marx (1818-1883), Friedrich Nietzsche (1844-1900), W. E. B. Du Bois (1868-1963), Mohandas K. Gandhi (1869-1948), Vladimir Lenin (1870-1924), Rosa Luxemburg (1871-1919), Sigmund Freud (1856-1939), Walter Benjamin (1892-1940), Simone de Beauvoir (1908-1986), Aimé Césaire (1913-2008), Frantz Fanon (1925-1961), Hannah Arendt (1906-1975), Michel Foucault (1926-1984), Sylvia Wynter (b. 1928), Hortense Spillers (b. 1942). The gender and racial disparity is reflective of the Core's set syllabus. However, we will approach the authors and their works from feminist, deconstructive, and subaltern perspectives.
 
-Thomas Hobbes (1588-1679), John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790), Immanuel Kant (1724-1804), Edmund Burke (1729-1797), Olympe de Gouges (1748-1793), G. W. F. Hegel (1770-1831), Jeremy Bentham (1748-1832), Thomas Babington Macaulay (1800-1859), Alexis de Tocqueville (1805-1859), Charles Darwin (1809-1882), John Stewart Mill (1806-1873), Herbert Spencer (1820-1903), Friedrich Engels (1820-1895), Karl Marx (1818-1883), Friedrich Nietzsche (1844-1900),  W. E. B. Du Bois (1868-1963), Mohandas K. Gandhi (1869-1948), Katherine Mayo (1867-1949), Vladimir Lenin (1870-1924), Rosa Luxemburg (1871-1919), Sigmund Freud (1856-1939), Simone de Beauvoir (1908-1986), Aimé Césaire (1913-2008), Frantz Fanon (1925-1961), Hannah Arendt (1906-1975), Michel Foucault (1926-1984). The gender and racial disparity is reflective of the Core's set syllabus and we will approach these authors and their works from feminist, deconstructive, and subaltern perspectives.
+### COURSE SCHEDULE
 
-## The Timeline with Readings
-
-### 1
-* Introductions + Essays
-
-### 2
-* Thomas Hobbes, *Leviathan*, Introduction and Part 1 "Of Man"
-* John Locke, "Second Treatise of Government" Ch. 1-9
-* John Locke, "The Fundamental Constitutions of Carolina"
-
-### 3
-* Jean-Jacques Rousseau, *Discours sur l'origine et les fondements de l'inégalité parmi les hommes* (Discourse on the Origin and Basis of Inequality Among Men) (1754) and *Du contrat social ou Principes du droit politique* (Of the Social Contract, Or Principles of Political Right), 1762: Book 1, Chapters 4 and 6; Book 2, Chapter 8; Book 4, Chapter 8 and 9.
-
-### 4
-* Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1 (Chapter 1-5), Book 4 (Chapter 7, 8) & Graeber selection (on Adam Smith)
-
-### 5 
-* Immanuel Kant, *Groundwork of the Metaphysics of Morals* (Preface, First Section), *Of the Different Human Races*
-
-### 6
-* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82* & "Review of Herder's *Philosophy of History*
-
-### 7
-* Edmund Burke, *Articles of Charge of High Crimes and Misdemeanors against Warren Hastings* (1786) and *Selections*
-
-### 8
-* Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne* (Declaration of Rights of Women and the Female Citizen) (1791) and *Haitian Declaration of Independence* (1804)
-
-### 9
-* G. W. F. Hegel, *Vorlesungen über die Philosophie der Weltgeschichte* (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic Basis of History, Part I: The Oriental World (China, India, Persia), Part IV: The German World (Mohamatanism, Art and Science as Putting a Period to the Middle Ages, The Éclaircissement and Revolution)
-
-### 10
-* Thomas Babington Macaulay, *Government of India* (1833) and Jeremy Bentham, *Panopticon; or the Inspection-House: containing the Idea of a New Principle of Construction applicable to any sort of Establishment, in which Persons of any Description are to be kept under Inspection* (1838).
-
-### 11
-* Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America) (1835-40): Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10. Vol 2: Part 1: Chp 1; Part 2, Chp 12; Part 4, Chp: 2, 3, 4. Beaumont & Tocqueville, *On the Penitentiary System in the United States* (Selections).
+* **Tuesday, January 21, 2020
+ * Introductions + Break Essay discussion
  
-### 12 
-* Charles Darwin, *Origins of Species*, Chapter IV, Letter to Walter Elliot (23 Jan 1856) <http://www.darwinproject.ac.uk/entry-1824>, Selections from *The Beagle Diary*
+* **Thursday, January 23, 2020
+ * John Locke, "The Fundamental Constitutions of Carolina" (1669) (CW)
+ * Jean Jacques Rousseau, Essay on the Origins of Language (1762) (CW)
 
-### 13
-* John Stewart Mill, The Petition of the East India Company (1858) and *On Liberty* (1859)
-
-### 14
-* Herbert Spencer, *Social Organism* (1860) Engels, *Condition of the Working Class in England* (1845): Chapter, The Great Towns. 
-
-### 15 
-* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6. "British Rule in India" and "Indian Question" (in CW)
-
-### 16
-* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887): First Essay ('Good and Evil', 'Good and Bad'), and "On the Uses and Disadvantages of History for Life" (From *Untimely Meditations*, 1874)
-
-### 17
-* W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14 
-
-### 18
-* Du Bois, "Souls of White Folk" and Tagore "Sunset of the Century" (1899)
-
-### 19
-* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906) & *Letters*; 
-
-### 20
-* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17 and Mayo, *Mother India* (1927)
-
-### 21
-* Simone de Beauvoir, *Second Sex* (1949): Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (in CW)
-
-### 22
-* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism) (1950)
-
-### 23
-* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): chapter 1 and Conclusion (1961),  and Declaration on the Right to Insubordination in the War in Algeria* (The Manifesto of the 121, 1960) (in CW)
+* **Tuesday, January 28, 2020
+ * Adam Smith, Theory of Moral Sentiment (1759): Part V (CW)
+ * Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776): Book 1 (Chp 1-4), Book 3 (Chp 1), Book 4 (Chp 6, 7) (CW)
  
-### 24
-* Fanon, "Algeria Unveiled" and "Medicine and Colonialism" chapters from *A Dying Colonialism* (in CW)
-
-### 25
-* Hannah Arendt, *Race-Thinking Before Racism*, *Race and Bureaucrcy* and *The Decline of the Nation-State and the End of the Rights of Man* from *Imperialism: Part Two of The Origins of Totalitarianism* (1958) 
+* **Thursday, January 30, 2020
+ * Immanuel Kant, Groundwork of the Metaphysics of Morals (1785): Preface, First Section (CW)
+ * Immanuel Kant, Anthropology from a Pragmatic Point of View (1798): 149-224 (CW)
  
-### 26
-*  Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part 3, chp 3; part 4, chp 3 (in CW)
+* **Tuesday, February 4, 2020
+ * Edmund Burke, Speech in the Impeachment of Warren Hastings (1788) (CW)
+ 
+* **Thursday, February 6, 2020
+ * Olympe de Gouges- Déclaration des droits de la femme et de la citoyenne (Declaration of Rights of Women and the Female Citizen), 1791 (CW)
+ * Haitian Declaration of Independence, 1804 (CW)
+ * The Constitution of Haiti, 1805 (CW)
+ 
+* **Tuesday, February 11, 2020
+ * W. F. Hegel, Vorlesungen über die Philosophie der Weltgeschichte (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic Basis of History, Part I: The Oriental World (China, India, Persia), Part IV: The German World (Mohamatanism, Art and Science as Putting a Period to the Middle Ages, The Éclaircissement and Revolution) (CW)
 
-### 27 
+* **Thursday, February 13, 2020
+ * Thomas Babington Macaulay, Government of India, 1833 (CW)
+ * Jeremy Bentham, Panopticon; or the Inspection-House: containing the Idea of a New Principle of Construction applicable to any sort of Establishment, in which Persons of any Description are to be kept under Inspection, 1838 (CW)
+ 
+* **Tuesday, February 18, 2020
+ * Alexis de Tocqueville, De la démocratie en Amérique (Democracy in America), 1835-40: Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10; Vol 2: Part 1: Chp 1; Chp 3; Part 2, Chp 12; Part 4, Chp: 2, 3, 4 (CW)
+ * Beaumont & Tocqueville, On the Penitentiary System in the United States, 1833. Selections (CW)
+ 
+* **Thursday, February 20, 2020
+ * Charles Darwin, Origins of Species, 1859: Chapter IV (CW)
+ * Charles Darwin, Letter to Walter Elliot (23 Jan 1856) http://www.darwinproject.ac.uk/entry-1824 (CW)
+ * Charles Darwin, Selections from The Beagle Diary, 1839  (CW)
+ 
+* **Tuesday, February 25, 2020
+ * John Stewart Mill, The Petition of the East India Company, 1858 (CW)
+ * John Stewart Mill, On Liberty, 1859 (CW)
+ 
+* **Thursday, February 27, 2020
+ * Herbert Spencer, Social Organism, 1860 (CW)
+ * Francis Galton, Hereditary Genius: An Inquiry into its Laws and Consequences, 1869 (CW)
 
+* **Tuesday, March 3, 2020
+ * Karl Marx, Das Kapital: Kritik der politischen Ökonomie (Capital: Critique of Political Economy), 1867: Vol 1, Part 1: Chapter 1 and Part 2: Chapter 4 (CW)
+ * Karl Marx, "British Rule in India" and "Indian Question," 1857, (CW)
+ * Karl Marx, Thesis on Feuerbach, 1845 (CW)
 
-### 28
+* **Thursday, March 5, 2020
+ * Friedrich Nietzsche, Zur Genealogie der Moral (On the Genealogy of Morality), 1887: First Essay ('Good and Evil', 'Good and Bad') (CW)
+ * Friedrich Nietzsche, "On the Uses and Disadvantages of History for Life," 1874 (CW)
 
+* **Tuesday, March 10, 2020
+ * W. E. B. Du Bois, The Souls of Black Folk, 1903: Chapter 1, 2, 3, 9, 14
+ * W. E. B. Du Bois, "Souls of White Folk", 1910. (CW)
+ 
+* **Thursday, March 12, 2020
+ * Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Mass Strike, The Party and the Trade Union), 1906 (CW)
+ * Rosa Luxemburg, Letters (Selections) (CW)
+ 
+* **Tuesday, March 24, 2020
+ * Mohandas K. Gandhi, Hind Swaraj, 1909: Section 4, 6, 8, 9, 11, 12, 13, 16, 17
+ 
+* **Thursday, March 26, 2020
+ * Sigmund Freud, Totem and Taboo, 1913. (CW)
+ 
+* **Tuesday, March 31, 2020
+ * V. I. Lenin, Imperialism: The Highest Stage of Capitalism, 1916 (CW)
+ 
+* **Thursday, April 2, 2020
+ * Walter Benjamin, Über den Begriff der Geschichte (Thesis on the Concept of History), 1940 (CW)
+ 
+* **Tuesday, April 7, 2020
+ * Simone de Beauvoir, Le Deuxième Sexe (Second Sex), 1949: Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (CW)
+ 
+* **Thursday, April 9, 2020
+ * Aimé Césaire, Discours sur le colonialisme (Discourse on Colonalism), 1950.
 
+* **Tuesday, April 14, 2020
+ * Hannah Arendt, Imperialism: The Origins of Totalitarianism, 1958: Chapters, Race-Thinking Before Racism, Race and Bureaucracy and The Decline of the Nation-State and the End of the Rights of Man
+ 
+* **Thursday, April 16, 2020
+ * Franz Fanon, Les Damnés de la Terre (The Wretched of the Earth), 1961: chapter 1 and Conclusion.
+ * Declaration on the Right to Insubordination in the War in Algeria (The Manifesto of the 121), 1960 (CW)
 
+* **Tuesday, April 21, 2020
+ * Michel Foucault, Surveiller et Punir: Naissance de la prison (Discipline and Punish), 1975: Part 1; Part 3, chp 3; part 4, chp 3 (CW)
 
+* **Thursday, April 23, 2020
+ * The Combahee River Collective Statement (1974)
+ * Hortense Spillers, Mama's Baby, Papa's Maybe: An American Grammar Book (1987)
+ * Sylvia Wynter, "‘No Humans Involved’: An open letter to my colleagues" (1992).
+ 
+* **Tuesday, April 28, 2020
+* Jean-Baptiste Joseph Fourier. “On the Temperatures of the Terrestrial Sphere and Interplanetary Space, 1824.
+* S. Callendar, “The Artificial Production of Carbon Dioxide and its Influence on Temperature,”1938.
+* Syukuro Manabe and Richard T. Wetherald, “The Effects of Doubling the CO2Concentration on the Climate of a General Circulation Model,” 1975
+
+* **Thursday, April 30, 2020
+ * Conclusions
