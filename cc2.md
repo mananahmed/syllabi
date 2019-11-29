@@ -133,7 +133,7 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
   * V. I. Lenin, Imperialism: The Highest Stage of Capitalism, 1916 (CW)
  
 * Thursday, April 2, 2020
- * Walter Benjamin, Über den Begriff der Geschichte (Thesis on the Concept of History), 1940 (CW)
+  * Walter Benjamin, Über den Begriff der Geschichte (Thesis on the Concept of History), 1940 (CW)
  
 * Tuesday, April 7, 2020
   * Simone de Beauvoir, Le Deuxième Sexe (Second Sex), 1949: Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (CW)
