@@ -61,105 +61,105 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
   - Introductions + Break Essay discussion
  
 * Thursday, January 23, 2020
-- Francis Bacon, "A Specimen of the Persian Magick," 1606 (CW) 
-- John Locke, "The Fundamental Constitutions of Carolina" (1669) (CW)
-- Jean Jacques Rousseau, Essay on the Origins of Language (1762) (CW)
+  - Francis Bacon, "A Specimen of the Persian Magick," 1606 (CW) 
+  - John Locke, "The Fundamental Constitutions of Carolina" (1669) (CW)
+  - Jean Jacques Rousseau, Essay on the Origins of Language (1762) (CW)
 
-* **Tuesday, January 28, 2020
- * David Hume, Of National Characters (1748) (CW)
- * Adam Smith, Theory of Moral Sentiment (1759): Part V (CW)
- * Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776): Book 1 (Chp 1-4), Book 3 (Chp 1), Book 4 (Chp 6, 7) (CW)
+* Tuesday, January 28, 2020
+  * David Hume, Of National Characters (1748) (CW)
+  * Adam Smith, Theory of Moral Sentiment (1759): Part V (CW)
+  * Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776): Book 1 (Chp 1-4), Book 3 (Chp 1), Book 4 (Chp 6, 7) (CW)
  
-* **Thursday, January 30, 2020
- * Immanuel Kant, Groundwork of the Metaphysics of Morals (1785): Preface, First Section (CW)
- * Immanuel Kant, Anthropology from a Pragmatic Point of View (1798): 149-224 (CW)
+* Thursday, January 30, 2020
+  * Immanuel Kant, Groundwork of the Metaphysics of Morals (1785): Preface, First Section (CW)
+  * Immanuel Kant, Anthropology from a Pragmatic Point of View (1798): 149-224 (CW)
  
-* **Tuesday, February 4, 2020
- * Edmund Burke, Speech in the Impeachment of Warren Hastings (1788) (CW)
+* Tuesday, February 4, 2020
+  * Edmund Burke, Speech in the Impeachment of Warren Hastings (1788) (CW)
  
-* **Thursday, February 6, 2020
- * Olympe de Gouges- Déclaration des droits de la femme et de la citoyenne (Declaration of Rights of Women and the Female Citizen), 1791 (CW)
- * Haitian Declaration of Independence, 1804 (CW)
- * The Constitution of Haiti, 1805 (CW)
+* Thursday, February 6, 2020
+  * Olympe de Gouges- Déclaration des droits de la femme et de la citoyenne (Declaration of Rights of Women and the Female Citizen), 1791 (CW)
+  * Haitian Declaration of Independence, 1804 (CW)
+  * The Constitution of Haiti, 1805 (CW)
  
-* **Tuesday, February 11, 2020
- * W. F. Hegel, Vorlesungen über die Philosophie der Weltgeschichte (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic Basis of History, Part I: The Oriental World (China, India, Persia), Part IV: The German World (Mohamatanism, Art and Science as Putting a Period to the Middle Ages, The Éclaircissement and Revolution) (CW)
+* Tuesday, February 11, 2020
+  * W. F. Hegel, Vorlesungen über die Philosophie der Weltgeschichte (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic Basis of History, Part I: The Oriental World (China, India, Persia), Part IV: The German World (Mohamatanism, Art and Science as Putting a Period to the Middle Ages, The Éclaircissement and Revolution) (CW)
 
-* **Thursday, February 13, 2020
- * Thomas Babington Macaulay, Government of India, 1833 (CW)
- * Jeremy Bentham, Panopticon; or the Inspection-House: containing the Idea of a New Principle of Construction applicable to any sort of Establishment, in which Persons of any Description are to be kept under Inspection, 1838 (CW)
+* Thursday, February 13, 2020
+  * Thomas Babington Macaulay, Government of India, 1833 (CW)
+  * Jeremy Bentham, Panopticon; or the Inspection-House: containing the Idea of a New Principle of Construction applicable to any sort of Establishment, in which Persons of any Description are to be kept under Inspection, 1838 (CW)
  
-* **Tuesday, February 18, 2020
- * Alexis de Tocqueville, De la démocratie en Amérique (Democracy in America), 1835-40: Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10; Vol 2: Part 1: Chp 1; Chp 3; Part 2, Chp 12; Part 4, Chp: 2, 3, 4 (CW)
- * Beaumont & Tocqueville, On the Penitentiary System in the United States, 1833. Selections (CW)
+* Tuesday, February 18, 2020
+  * Alexis de Tocqueville, De la démocratie en Amérique (Democracy in America), 1835-40: Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10; Vol 2: Part 1: Chp 1; Chp 3; Part 2, Chp 12; Part 4, Chp: 2, 3, 4 (CW)
+  * Beaumont & Tocqueville, On the Penitentiary System in the United States, 1833. Selections (CW)
  
-* **Thursday, February 20, 2020
- * Charles Darwin, Origins of Species, 1859: Chapter IV (CW)
- * Charles Darwin, Letter to Walter Elliot (23 Jan 1856) http://www.darwinproject.ac.uk/entry-1824 (CW)
- * Charles Darwin, Selections from The Beagle Diary, 1839  (CW)
+* Thursday, February 20, 2020
+  * Charles Darwin, Origins of Species, 1859: Chapter IV (CW)
+  * Charles Darwin, Letter to Walter Elliot (23 Jan 1856) http://www.darwinproject.ac.uk/entry-1824 (CW)
+  * Charles Darwin, Selections from The Beagle Diary, 1839  (CW)
  
-* **Tuesday, February 25, 2020
- * John Stewart Mill, The Petition of the East India Company, 1858 (CW)
- * John Stewart Mill, On Liberty, 1859 (CW)
+* Tuesday, February 25, 2020
+  * John Stewart Mill, The Petition of the East India Company, 1858 (CW)
+  * John Stewart Mill, On Liberty, 1859 (CW)
  
-* **Thursday, February 27, 2020
- * Herbert Spencer, Social Organism, 1860 (CW)
- * Francis Galton, Hereditary Genius: An Inquiry into its Laws and Consequences, 1869 (CW)
+* Thursday, February 27, 2020
+  * Herbert Spencer, Social Organism, 1860 (CW)
+  * Francis Galton, Hereditary Genius: An Inquiry into its Laws and Consequences, 1869 (CW)
 
-* **Tuesday, March 3, 2020
- * Karl Marx, Das Kapital: Kritik der politischen Ökonomie (Capital: Critique of Political Economy), 1867: Vol 1, Part 1: Chapter 1 and Part 2: Chapter 4 (CW)
- * Karl Marx, "British Rule in India" and "Indian Question," 1857, (CW)
- * Karl Marx, Thesis on Feuerbach, 1845 (CW)
+* Tuesday, March 3, 2020
+  * Karl Marx, Das Kapital: Kritik der politischen Ökonomie (Capital: Critique of Political Economy), 1867: Vol 1, Part 1: Chapter 1 and Part 2: Chapter 4 (CW)
+  * Karl Marx, "British Rule in India" and "Indian Question," 1857, (CW)
+  * Karl Marx, Thesis on Feuerbach, 1845 (CW)
 
-* **Thursday, March 5, 2020
- * Friedrich Nietzsche, Zur Genealogie der Moral (On the Genealogy of Morality), 1887: First Essay ('Good and Evil', 'Good and Bad') (CW)
- * Friedrich Nietzsche, "On the Uses and Disadvantages of History for Life," 1874 (CW)
+* Thursday, March 5, 2020
+  * Friedrich Nietzsche, Zur Genealogie der Moral (On the Genealogy of Morality), 1887: First Essay ('Good and Evil', 'Good and Bad') (CW)
+  * Friedrich Nietzsche, "On the Uses and Disadvantages of History for Life," 1874 (CW)
 
-* **Tuesday, March 10, 2020
- * W. E. B. Du Bois, The Souls of Black Folk, 1903: Chapter 1, 2, 3, 9, 14
- * W. E. B. Du Bois, "Souls of White Folk", 1910. (CW)
+* Tuesday, March 10, 2020
+  * W. E. B. Du Bois, The Souls of Black Folk, 1903: Chapter 1, 2, 3, 9, 14
+  * W. E. B. Du Bois, "Souls of White Folk", 1910. (CW)
  
-* **Thursday, March 12, 2020
- * Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Mass Strike, The Party and the Trade Union), 1906 (CW)
- * Rosa Luxemburg, Letters (Selections) (CW)
+* Thursday, March 12, 2020
+  * Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Mass Strike, The Party and the Trade Union), 1906 (CW)
+  * Rosa Luxemburg, Letters (Selections) (CW)
  
-* **Tuesday, March 24, 2020
- * Mohandas K. Gandhi, Hind Swaraj, 1909: Section 4, 6, 8, 9, 11, 12, 13, 16, 17
+* Tuesday, March 24, 2020
+  * Mohandas K. Gandhi, Hind Swaraj, 1909: Section 4, 6, 8, 9, 11, 12, 13, 16, 17
  
-* **Thursday, March 26, 2020
- * Sigmund Freud, Totem and Taboo, 1913. (CW)
+* Thursday, March 26, 2020
+  * Sigmund Freud, Totem and Taboo, 1913. (CW)
  
-* **Tuesday, March 31, 2020
- * V. I. Lenin, Imperialism: The Highest Stage of Capitalism, 1916 (CW)
+* Tuesday, March 31, 2020
+  * V. I. Lenin, Imperialism: The Highest Stage of Capitalism, 1916 (CW)
  
 * **Thursday, April 2, 2020
  * Walter Benjamin, Über den Begriff der Geschichte (Thesis on the Concept of History), 1940 (CW)
  
-* **Tuesday, April 7, 2020
- * Simone de Beauvoir, Le Deuxième Sexe (Second Sex), 1949: Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (CW)
+* Tuesday, April 7, 2020
+  * Simone de Beauvoir, Le Deuxième Sexe (Second Sex), 1949: Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (CW)
  
-* **Thursday, April 9, 2020
- * Aimé Césaire, Discours sur le colonialisme (Discourse on Colonalism), 1950.
+* Thursday, April 9, 2020
+  * Aimé Césaire, Discours sur le colonialisme (Discourse on Colonalism), 1950.
 
-* **Tuesday, April 14, 2020
- * Hannah Arendt, Imperialism: The Origins of Totalitarianism, 1958: Chapters, Race-Thinking Before Racism, Race and Bureaucracy and The Decline of the Nation-State and the End of the Rights of Man
+* Tuesday, April 14, 2020
+  * Hannah Arendt, Imperialism: The Origins of Totalitarianism, 1958: Chapters, Race-Thinking Before Racism, Race and Bureaucracy and The Decline of the Nation-State and the End of the Rights of Man
  
-* **Thursday, April 16, 2020
- * Franz Fanon, Les Damnés de la Terre (The Wretched of the Earth), 1961: chapter 1 and Conclusion.
- * Declaration on the Right to Insubordination in the War in Algeria (The Manifesto of the 121), 1960 (CW)
+* Thursday, April 16, 2020
+  * Franz Fanon, Les Damnés de la Terre (The Wretched of the Earth), 1961: chapter 1 and Conclusion.
+  * Declaration on the Right to Insubordination in the War in Algeria (The Manifesto of the 121), 1960 (CW)
 
-* **Tuesday, April 21, 2020
- * Michel Foucault, Surveiller et Punir: Naissance de la prison (Discipline and Punish), 1975: Part 1; Part 3, chp 3; part 4, chp 3 (CW)
+* Tuesday, April 21, 2020
+  * Michel Foucault, Surveiller et Punir: Naissance de la prison (Discipline and Punish), 1975: Part 1; Part 3, chp 3; part 4, chp 3 (CW)
 
-* **Thursday, April 23, 2020
- * The Combahee River Collective Statement (1974)
- * Hortense Spillers, Mama's Baby, Papa's Maybe: An American Grammar Book (1987)
- * Sylvia Wynter, "‘No Humans Involved’: An open letter to my colleagues" (1992).
+* Thursday, April 23, 2020
+  * The Combahee River Collective Statement (1974)
+  * Hortense Spillers, Mama's Baby, Papa's Maybe: An American Grammar Book (1987)
+  * Sylvia Wynter, "‘No Humans Involved’: An open letter to my colleagues" (1992).
  
-* **Tuesday, April 28, 2020
-* Jean-Baptiste Joseph Fourier. “On the Temperatures of the Terrestrial Sphere and Interplanetary Space, 1824.
-* S. Callendar, “The Artificial Production of Carbon Dioxide and its Influence on Temperature,”1938.
-* Syukuro Manabe and Richard T. Wetherald, “The Effects of Doubling the CO2Concentration on the Climate of a General Circulation Model,” 1975
+* Tuesday, April 28, 2020
+  * Jean-Baptiste Joseph Fourier. “On the Temperatures of the Terrestrial Sphere and Interplanetary Space, 1824.
+  * S. Callendar, “The Artificial Production of Carbon Dioxide and its Influence on Temperature,”1938.
+  * Syukuro Manabe and Richard T. Wetherald, “The Effects of Doubling the CO2Concentration on the Climate of a General Circulation Model,” 1975
 
-* **Thursday, April 30, 2020
- * Conclusions
+* Thursday, April 30, 2020
+  * Conclusions
