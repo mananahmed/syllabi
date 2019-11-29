@@ -57,14 +57,16 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
 
 ### COURSE SCHEDULE
 
-* **Tuesday, January 21, 2020
- * Introductions + Break Essay discussion
+* Tuesday, January 21, 2020
+- Introductions + Break Essay discussion
  
-* **Thursday, January 23, 2020
- * John Locke, "The Fundamental Constitutions of Carolina" (1669) (CW)
- * Jean Jacques Rousseau, Essay on the Origins of Language (1762) (CW)
+* Thursday, January 23, 2020
+- Francis Bacon, "A Specimen of the Persian Magick," 1606 (CW) 
+- John Locke, "The Fundamental Constitutions of Carolina" (1669) (CW)
+- Jean Jacques Rousseau, Essay on the Origins of Language (1762) (CW)
 
 * **Tuesday, January 28, 2020
+ * David Hume, Of National Characters (1748) (CW)
  * Adam Smith, Theory of Moral Sentiment (1759): Part V (CW)
  * Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776): Book 1 (Chp 1-4), Book 3 (Chp 1), Book 4 (Chp 6, 7) (CW)
  
