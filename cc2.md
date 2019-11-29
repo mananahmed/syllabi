@@ -58,7 +58,7 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
 ### COURSE SCHEDULE
 
 * Tuesday, January 21, 2020
-- Introductions + Break Essay discussion
+  - Introductions + Break Essay discussion
  
 * Thursday, January 23, 2020
 - Francis Bacon, "A Specimen of the Persian Magick," 1606 (CW) 
