@@ -1,8 +1,8 @@
 ---
 title: Introduction to Contemporary Civilizations in the West, II
 author:  Professor Manan Ahmed
-Date: Spring 2018
-Email: ma3179@columbia.edu
+Date: Spring 2020
+
 
 ---
 
