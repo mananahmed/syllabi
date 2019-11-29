@@ -132,7 +132,7 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
 * Tuesday, March 31, 2020
   * V. I. Lenin, Imperialism: The Highest Stage of Capitalism, 1916 (CW)
  
-* **Thursday, April 2, 2020
+* Thursday, April 2, 2020
  * Walter Benjamin, Über den Begriff der Geschichte (Thesis on the Concept of History), 1940 (CW)
  
 * Tuesday, April 7, 2020
