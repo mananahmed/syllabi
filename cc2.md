@@ -118,6 +118,7 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
 * Tuesday, March 10, 2020
   * W. E. B. Du Bois, The Souls of Black Folk, 1903: Chapter 1, 2, 3, 9, 14
   * W. E. B. Du Bois, "Souls of White Folk", 1910. (CW)
+  * W. E. B. Du Bois, "The Disenfranchised Colonies," 1945 (CW)
  
 * Thursday, March 12, 2020
   * Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Mass Strike, The Party and the Trade Union), 1906 (CW)
