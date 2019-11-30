@@ -24,9 +24,8 @@ This semester will focus on the emergence of disciplinary thought. The texts we 
 ### To Be Read during the Break
 Please read these two essays over the break; and post your response to them in Piazza. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
 
-* Arundhati Roy, "Capitalism: A Ghost Story" (2014) 
-* Nancy Scheper-Hughes, "Ishi's Brain, Ishi's Ashes: Anthropology and Genocide" *Anthropology Today*, Vol. 17, No. 1 (Feb., 2001), pp. 12-18 (1998) and [UC Berkeley looks back on dark history, abuse of Yahi man 106 years later](http://www.dailycal.org/2017/09/01/uc-berkeley-looks-back-on-dark-history-abuse-of-yahi-man-106-years-later/) and see the continuous ways in which "Ishi" body is [still being put to use](https://hyperallergic.com/397995/wax-cylinder-optical-scanning-uc-berkeley/)
-
+* Arundhuti Roy, Capitalism: A Ghost Story (2012)
+* Daniel Macmillen Voskoboynik, To fix the climate crisis, we must face up to our imperial past (2018)
 
 ### Assessments
 
@@ -117,7 +116,7 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
 
 * Tuesday, March 10, 2020
   * W. E. B. Du Bois, The Souls of Black Folk, 1903: Chapter 1, 2, 3, 9, 14
-  * W. E. B. Du Bois, "Souls of White Folk", 1910. (CW)
+  * W. E. B. Du Bois, "Of the Culture of White Folks", 1917. (CW)
   * W. E. B. Du Bois, "The Disenfranchised Colonies," 1945 (CW)
  
 * Thursday, March 12, 2020
