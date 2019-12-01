@@ -31,7 +31,7 @@ Please read these two essays over the break; and post your response to them in P
 * Paul Ricoeur, "What is a Text? Explanation and Understanding" (1981)
 * Elizabeth Grosz, "Bodies and Knowledges: Feminism and the the Crisis of Reason" (1993)
 * Giorgio Agamben, "What is a Paradigm?" (2009) 
-
+* Lauren Berlant and Kathleen Stewart, "Collaboration" (2019)
 
 ### Assessments
 
