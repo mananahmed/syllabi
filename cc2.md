@@ -21,8 +21,8 @@ In the previous semester we saw that transmissions across geographies of ideas a
 This semester will focus on the emergence of disciplinary thought. The texts we read this semester were often foundational in creating or enlarging academic disciplines (alongside political and social systems). We will look at the birth of Philology, History, Anthropology and Natural Sciences as disciplinary knowledges-- and the colonial imperative of such epistemologies. In the second half of the semester we will look at how these epistemologies were then resisted against by the colonized world. Watch this scene from [Black Robe (1991) on  colonial epistemologies](https://www.youtube.com/watch?v=xoxUto7-sDI). To understand the question of 'barbarism' at play there, recall Bartolomé de Las Casas, *Apologética Historia Sumaria* (c.1552). México: Universidad Autónoma de  México, 1967, vol. II, pp. 637–54.
 
 
-### To Be Read during the Break
-Please read these two essays over the break; and post your response to them in Piazza. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
+### To Be Read over the Winter Break
+Please read these essays over the break; and post your response to them in CW. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
 
 * Arundhuti Roy, Capitalism: A Ghost Story (2012)
 * Daniel Macmillen Voskoboynik, To fix the climate crisis, we must face up to our imperial past (2018)
