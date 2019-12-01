@@ -27,6 +27,12 @@ Please read these two essays over the break; and post your response to them in P
 * Arundhuti Roy, Capitalism: A Ghost Story (2012)
 * Daniel Macmillen Voskoboynik, To fix the climate crisis, we must face up to our imperial past (2018)
 
+#### Recommended ADDITIONAL Reading (Theoretical)
+* Paul Ricoeur, "What is a Text? Explanation and Understanding" (1981)
+* Elizabeth Grosz, "Bodies and Knowledges: Feminism and the the Crisis of Reason" (1993)
+* Giorgio Agamben, "What is a Paradigm?" (2009) 
+
+
 ### Assessments
 
 We want to build a community of readers and thinkers in this class - who are able to work collectively and collaboratively. I am setting my assessment goals on two paths: firstly, I want to make sure we are doing close-reading of the texts, and secondly, I want to ensure that we are critical and engaged writers. With those goals, I ask that you do two forms of regular writing in the class - short form and research oriented. There will be only one long form paper. 
