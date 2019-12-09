@@ -145,6 +145,7 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
   * Simone de Beauvoir, Le Deuxième Sexe (Second Sex), 1949: Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (CW)
  
 * Thursday, April 9, 2020
+  * Aimé Césaire, Poetry and Knowldege, 1944.
   * Aimé Césaire, Discours sur le colonialisme (Discourse on Colonalism), 1950.
 
 * Tuesday, April 14, 2020
