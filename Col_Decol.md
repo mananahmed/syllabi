@@ -45,7 +45,7 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * Ma Huan, “The Overall Survey of the Ocean’s Shores” (1443)
 * Ilyas Mawsili, *An Arab’s Journey to Colonial Spanish America* (ca. 1688)
 
-**Sept. 23: The Invasions of Spain & Portugal**
+**Sept. 23: The Invasions by Spain & Portugal**
 * Christopher Columbus, “Letter of Columbus to Luis de Santangel” (1493) 
 * Copy of a Letter of the King of Portugal Sent to the King of Castile Concerning the Voyage and Success of India (1505)
 * Hernán Cortés, Second Letter from Mexico (1519), 47-160
