@@ -64,15 +64,15 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * John White [Engravings](http://www.virtualjamestown.org/images/white_debry_html/jamestown.html)
 
 **Oct. 14: Enslavement and Enlightenment**
-* Voyage of the James, 1675- 1676,” and “Voyage of the Hannibal, 1693-1694,” in Stanley Engerman, Seymour Drescher, and Robert Paquette, eds. *Slavery: A Reader*
+* "Voyage of the James, 1675- 1676,” and “Voyage of the Hannibal, 1693-1694,” in Stanley Engerman, Seymour Drescher, and Robert Paquette, eds. *Slavery: A Reader*
 * David Hume, "On National Character" (1748)
 * Immanuel Kant, "Of the Different Human Races" (1777)
-* Comte de Buffon Georges-Louis Leclerc, “Of the Varieties in the Human Species,” in *Natural History Containing A Theory Of The Earth, A General History Of Man, Of The Brute Creation, And Of Vegetables, Minerals, Etc.* (1797)
+* Comte de Buffon, Georges-Louis Leclerc, “Of the Varieties in the Human Species,” in *Natural History Containing A Theory Of The Earth, A General History Of Man, Of The Brute Creation, And Of Vegetables, Minerals, Etc.* (1797)
 
 **Oct. 14: The Right to Speak**
-* Narrative of the Enslavement of Ottobah Cugoano, a Native of Africa; Published by Himself (1787)
+* Ottobah Cugoano *Narrative of the Enslavement of Ottobah Cugoano, a Native of Africa; Published by Himself* (1787)
 * Zora Neale Hurston, *Barracoon: The Story of the Last ‘Black Cargo’*
-* Haitian Declaration of 1804
+* Haitian Declaration (1804)
 * Simón Bolivar, “The Jamaica Letter” (1815)
 * Sojourner Truth "Ain’t I a Woman?" (1851)
 
@@ -87,13 +87,13 @@ We will consider how ideas about race, civilization, religion, self and other, a
 **Oct. 28: War Capitalism**
 * Lin Zexu, Letter of Advice to Queen Victoria (1839)
 * Treaty of Nanjing (1842)
-* “Boxers demand death for all foreign devils” (1900)
-* Fei Qihao (Fei Ch’i Hao) on the Boxer Rebellion (1900)
+* The I-ho-ch'uan, “Boxers demand death for all foreign devils” (1900)
+* Fei Qihao on the Boxer Rebellion (1900)
 
 **Nov. 4: US Empires**
-* “Letters of Sanford B. Dole and John W. Burgess” (1894)
+* “Letters of Sanford B. Dole (Hawai'i) and Professor John W. Burgess (Columbia)” (1894)
 * Petitions against Hawaiian Annexation (1897)
-* Charges of Cruelty, etc., to the Natives of Philippines (1902)
+* War Department, *Charges of Cruelty, etc., to the Natives of Philippines* (1902)
 * President William McKinley, “Second Annual Message” (Dec 5, 1898)
 * Platt Amendment (1903)
 
