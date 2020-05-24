@@ -133,6 +133,6 @@ The following secondary books may be useful for you. They are in the CW:
 * Saidiya Hartman, *Lose Your Mother: A Journey Along the Atlantic Slave Route* (2007)
 * Gaiutra Bahadur, *Coolie Woman: The Odyssey of Indenture* (2013)
 
-[^1]: (How United States soldiers were met by conquered natives, Phil. I.)https://www.loc.gov/resource/cph.3b43426/
+[^1]: [How United States soldiers were met by conquered natives, Phil. I.](https://www.loc.gov/resource/cph.3b43426/)
 
  
