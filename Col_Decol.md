@@ -72,7 +72,7 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * Comte de Buffon, Georges-Louis Leclerc, “Of the Varieties in the Human Species,” in *Natural History Containing A Theory Of The Earth, A General History Of Man, Of The Brute Creation, And Of Vegetables, Minerals, Etc.* (1797)
 
 **Oct. 14: The Right to Speak**
-* Ottobah Cugoano *Narrative of the Enslavement of Ottobah Cugoano, a Native of Africa; Published by Himself* (1787)
+* Ottobah Cugoano, *Narrative of the Enslavement of Ottobah Cugoano, a Native of Africa; Published by Himself* (1787)
 * Zora Neale Hurston, *Barracoon: The Story of the Last ‘Black Cargo’*
 * Haitian Declaration (1804)
 * Simón Bolivar, “The Jamaica Letter” (1815)
