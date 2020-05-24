@@ -85,10 +85,10 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * Simon Pokagon, “The Red Man’s Greeting/Rebuke” (1893)
 
 **Oct. 28: War Capitalism**
-Lin Zexu, Letter of Advice to Queen Victoria (1839)
-Treaty of Nanjing (1842)
-“Boxers demand death for all foreign devils” (1900)
-Fei Qihao (Fei Ch’i Hao) on the Boxer Rebellion (1900)
+* Lin Zexu, Letter of Advice to Queen Victoria (1839)
+* Treaty of Nanjing (1842)
+* “Boxers demand death for all foreign devils” (1900)
+* Fei Qihao (Fei Ch’i Hao) on the Boxer Rebellion (1900)
 
 **Nov. 4: US Empires**
 * “Letters of Sanford B. Dole and John W. Burgess” (1894)
