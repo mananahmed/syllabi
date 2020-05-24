@@ -94,7 +94,7 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * “Letters of Sanford B. Dole (Hawai'i) and Professor John W. Burgess (Columbia)” (1894)
 * Petitions against Hawaiian Annexation (1897)
 * War Department, *Charges of Cruelty, etc., to the Natives of Philippines* (1902)
-* President William McKinley, “Second Annual Message” (Dec 5, 1898)
+* President William McKinley, “Second Annual Message,” Dec 5, 1898
 * Platt Amendment (1903)
 
 **Nov. 11: Rights for All**
@@ -106,7 +106,7 @@ We will consider how ideas about race, civilization, religion, self and other, a
 **Nov 18: Decolonization Engine I**
 * C.L.R. James, *History of Pan-African Revolt* (1938)
 * Franz Fanon, *Wretched of the Earth* (1961)
-* Zohra Drif, *Inside the Battle of Algiers*
+* Zohra Drif, *Inside the Battle of Algiers* (1961)
 * Kwame Nkrumah, “I Speak of Freedom” (1961)
 
 **Dec 2: Decolonization Engine II**
