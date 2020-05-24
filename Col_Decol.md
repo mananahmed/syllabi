@@ -7,7 +7,9 @@ office: Fayerweather Hall 502
 ---
 ## Colonization/Decolonization
 
-![How United States soldiers were met by conquered natives](images/Col_DeCol_cover.jpg)[^1]
+![How United States soldiers were met by conquered natives](images/Col_DeCol_cover.jpg)
+
+[Photo:]: [How United States soldiers were met by conquered natives, Phil. I.](https://www.loc.gov/resource/cph.3b43426/)
 
 
 This course examines the processes of colonization and decolonization that define the making of a modern, integrated world (c. 1500 to the present). We will study primary source materials.  We focus on the instruments of colonization—the treaty, the charter, the map, the ethnology—and the engines of decolonization—the manifesto, the resistance, the solidarity with the colonial, the demand for self rule. We are interested in the processes and contents of social and cultural contact and exchange, the development of knowledge, and how they shape relations of power; the place of colonialism in the development of western capitalism; and the elements of colonial power and resistance, including ideologies of liberal political philosophy, social Darwinism, and nationalism.  
@@ -134,6 +136,6 @@ The following secondary books may be useful for you. They are in the CW:
 * Saidiya Hartman, *Lose Your Mother: A Journey Along the Atlantic Slave Route* (2007)
 * Gaiutra Bahadur, *Coolie Woman: The Odyssey of Indenture* (2013)
 
-[^1]: [How United States soldiers were met by conquered natives, Phil. I.](https://www.loc.gov/resource/cph.3b43426/)
+
 
  
