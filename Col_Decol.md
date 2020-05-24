@@ -113,8 +113,9 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * Begum Rokayya, *Sultana’s Dream* (1908)
 * W.E.B. DuBois, "The Comet" (1920)
 * Zora Neale Hurston, “How It Feels to be Colored Me” (1928)
-* Ya Dafu, “Sinking” (1921)
- 
+* Ya Dafu, “Sinking” (1921)  
+
+
 **Dec. 9: Decolonization Engine III**
 * Malcolm X at Columbia University (1963)
 * Martin Luther King Jr., “Beyond Vietnam,” Riverside Church (1967)
