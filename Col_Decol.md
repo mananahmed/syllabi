@@ -1,6 +1,6 @@
 ---
 title: Colonization/Decolonization
-date: Fall 2022
+date: Fall 2020
 instructor: Manan Ahmed
 office: Fayerweather Hall 502
 
