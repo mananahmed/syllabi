@@ -130,7 +130,7 @@ We will consider how ideas about race, civilization, religion, self and other, a
 The following secondary books may be useful for you. They are in the CW:
 * Walter Rodney, *How Europe Underdeveloped Africa* (1976)
 * Edward Said, *Orientalism* (1979)
-* Sidney Mintz, *Sweetness and Sugar: The Place of Sugar in Modern History* (1985)
+* Sidney Mintz, *Sweetness and Power: The Place of Sugar in Modern History* (1985)
 * Sylvia Wynter, *No Humans Involved* (1992)
 * V. Y. Mudimbe, *The Idea of Africa* (1994)
 * Saidiya Hartman, *Lose Your Mother: A Journey Along the Atlantic Slave Route* (2007)
