@@ -132,10 +132,14 @@ The following secondary books may be useful for you. They are in the CW:
 * Walter Rodney, *How Europe Underdeveloped Africa* (1976)
 * Edward Said, *Orientalism* (1979)
 * Sidney Mintz, *Sweetness and Power: The Place of Sugar in Modern History* (1985)
+* Ngũgĩ wa Thiong'o, *Decolonising the Mind: the Politics of Language in African Literature* (1986)
 * Sylvia Wynter, *No Humans Involved* (1992)
 * V. Y. Mudimbe, *The Idea of Africa* (1994)
+* Oyèrónkẹ́ Oyěwùmí, *The Invention of Women* (1997)
 * Saidiya Hartman, *Lose Your Mother: A Journey Along the Atlantic Slave Route* (2007)
 * Gaiutra Bahadur, *Coolie Woman: The Odyssey of Indenture* (2013)
+* Priyamvada Gopal, *Insurgent Empire: Anticolonial Resistance and British Dissent* (2019)
+* Adom Getachew, *Worldmaking After Empire: The Rise and Fall of Self-Determination* (2019)
 
 
 
