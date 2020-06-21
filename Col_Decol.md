@@ -107,6 +107,7 @@ We will consider how ideas about race, civilization, religion, self and other, a
 
 **Nov 18: Decolonization Engine I**
 * C.L.R. James, *History of Pan-African Revolt* (1938)
+* Paul Robeson, *Here I Stand* (1958)
 * Franz Fanon, *Wretched of the Earth* (1961)
 * Zohra Drif, *Inside the Battle of Algiers* (1961)
 * Kwame Nkrumah, “I Speak of Freedom” (1961)
