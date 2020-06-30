@@ -103,7 +103,8 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * M. K. Gandhi, *Hind Swaraj* (1909)
 * Sarojini Naidu, "Address to Madras Law Students" (1917) and "Emancipation of Indian Women" (1918)
 * He-yin Zhen, "Feminist Manifesto" (1907)
-* B. R. Ambedkar *Annihilation of Caste* (1936)
+* B. R. Ambedkar, *Annihilation of Caste* (1936)
+* Gamal Abdel Nasser, *Speech on Egyptian Nationalization of the Suez Canal* (1956)
 
 **Nov 18: Decolonization Engine I**
 * C.L.R. James, *History of Pan-African Revolt* (1938)
