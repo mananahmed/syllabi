@@ -69,7 +69,7 @@ Columbia College is dedicated to the highest ideals of integrity in academia. Th
 * 1528 CE: Martin Luther, "On war against the Turks," and "The Twelve Articles of the Swabian Peasants"
 * 1530 CE: Machiavelli, *The Prince*
 * 1606 CE: Francis Bacon, "A Specimen of the Persian Magick"
-* 1637 CE: Rene Descartes, *Discourse on Method* 
+* 1637-43 CE: Rene Descartes, *Discourse on Method* and "Letters to Voetius"
 * 1651 CE: Thomas Hobbes, *Leviathan*
 * 1669-89 CE: John Locke, "Fundamental Constitution of Carolina," and *Second Treatise* 
 * 1755-81 CE: Jean-Jacques Rousseau, “Social Contract” and "Letter Written from the Mountain"
