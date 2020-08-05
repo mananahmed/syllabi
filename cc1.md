@@ -49,29 +49,28 @@ Columbia College is dedicated to the highest ideals of integrity in academia. Th
 * Archive visit: 10pts--- Visit to the Rare Manuscripts Collection at Butler U (6th Flr) to examine 20 Qur'an manuscripts from 7th-19th Century.
 
 
-### Readings
-The following required course books are available at the Columbia Bookstore and on reserve at Butler Library. All other readings listed on the syllabus are on the CC Web: http:// www.college.columbia.edu/core/ccreaderor on the Courseworks site. You must print out any assigned readings and bring them to class with you.
-* Plato, Republic (Hackett)
-* Aristotle, Nicomachean Ethics (Oxford University Press)
-* Aristotle, Politics (Hackett)
-* Cicero, On Moral Ends (Cambridge)
-* The Holy Bible (Revised Standard Edition)
-* Augustine, City of God (Penguin)
-* The Meaning of the Holy Qur’an (Amana)
-* Machiavelli, The Prince (Hackett)
-* Machiavelli, The Discourses (Penguin)
-* The Protestant Reformation (Harper & Row)
-* Descartes, Discourse on Method and Meditations on First Philosophy (Hackett)
-* Hobbes, Leviathan (Oxford)
-* Locke, Political Writings (Hackett)
-
-### Additional Readings
-* Bhagavad-Gita (Bantam) (Bookculture)
-* Iskandernama (Book of Alexander) (Bookculture)
-* Arthasastra (Bookculture)
-* Nizam ul Mulk, Book of Government (online)
-* Luther "Vom Kriege wider die Türken (On war against the Turks), 1528 (online)
-* Al-Farabi (c. 870-950), Philosophy of Plato and Aristotle (online)
-* Ibn Khaldun, Muqaddimah (Princeton)
-
+### Readings (Texts)
+* ca. 600 BCE: "Exodus," *The Bible*
+* ca. 375 BCE: Plato's *Republic*
+* ca. 340 BCE: Aristotle, *Nicomachean Ethics* 
+* ca. 300 BCE-300 CE: *Bhagavad Gita*
+* ca. 300 BCE-300 CE: *Arthasastra*
+* ca 426 CE: Augustine, *City of God*
+* ca 640 CE: "The Cave", *The Qur'an*
+* ca. 900 CE: al-Farabi, *On Plato & Aristotle*
+* ca. 1000 CE: Ibn-Sina (Avicenna), *The Book of Healing*
+* ca. 1090 CE: Nizam ul Mulk, *The Book of Kings*
+* ca 1150 CE: Ibn-Rushd (Averroes), *On Aristotle's Metaphysics* and Moses Maimonides, *The Guide for the Perplexed*
+* ca. 1250 CE: Thomas Aquinas, *Summa contra Gentiles*
+* ca. 1370 CE: Immanuel Ben Jacob Bonfils, *The Book of the Gests of Alexander of Macedon*
+* 1493 CE: Christopher Columbus,  “Letter of Columbus to Luis de Santangel” (1493)
+* 1505 CE: *Letter of the King of Portugal Sent to the King of Castile Concerning the Voyage and Success of India*
+* 1519 CE: *The Story of the Conquest as Told by the Anonymous Authors of Tlateloloco* 
+* 1528 CE: Martin Luther, "On war against the Turks," and "The Twelve Articles of the Swabian Peasants"
+* 1530 CE: Machiavelli, *The Prince*
+* 1606 CE: Francis Bacon, "A Specimen of the Persian Magick"
+* 1637 CE: Rene Descartes, *Discourse on Method* 
+* 1651 CE: Thomas Hobbes, *Leviathan*
+* 1669-89 CE: John Locke, "Fundamental Constitution of Carolina," and *Second Treatise* 
+* 1755-81 CE: Jean-Jacques Rousseau, “Social Contract” and "Letter Written from the Mountain"
 
