@@ -4,7 +4,7 @@ author: Manan Ahmed
 department: History
 Email: ma3179@columbia.edu
 ---
-## Introduction to Contemporary Civilization in the West, Part I: Knowing Worlds
+## Introduction to Contemporary Civilization in the West, Part I: Against Origins
 
 ![Relief from a 14th century manuscript of Alexander romance, from Trapezus/Trebizond, in the Istituto Ellenico (Greek Institute) of Venice.](/images/iskandernama.jpg)
 
