@@ -16,6 +16,10 @@ As a historian of intellectual traditions in the Indian Ocean world, I will high
 
 While we will read all of the texts on the CC syllabus, this course has additional readings spanning Sanskrit, Persian and Arabic medieval political thought. We will pay close attention to the intersections of these literary cultures with Greek and Latin. We will read more than your average CC section, but we will enjoy greater rewards than your average CC section.
 
+### Land Acknowledgement (online):
+
+As members of Columbia’s Morningside campus, we acknowledge that those of us located in Manhattan are on the territory of the Lenape and Wappinger peoples.  Indigenous people from many nations live and work in this region today.  Some of us are in other parts of the American subcontinent. Many indigenous communities have lived in and moved through this place over time. I ask you to research the indigenous histories of your land and share it with our class.  Our digital infrastructure is also grounded in the same theft of land and resources under colonialism. We acknowledge  and  pay respect to the native elders past and present, and recognize their active presence and their futurity, reposed in the generations present and those to come.
+
 
 ## Required Work
 
@@ -28,6 +32,7 @@ There are four short papers for this class. You will be given a concept to resea
 
 Class participation requires your active participation. Some basic rules: come to class on time, do not disrupt the class, put your phones on silent, turn off all computing devices. As a discussion seminar, this course survives only if you come to every class, and participate by doing the readings, listening and commenting in class, turning in the assignment and seeing me during my house hours. All of this constitutes 10% of your grade.
 Discussion means attentive and respectful listening, short and timely speaking, and creating a cordial and warm atmosphere wherein all are invited to test their ideas and impressions.
+
 Please read everything before class. Take notes in the margins of the text; underline key sentences and paragraphs, annotate; write out what feels extraordinary, questionable, pleasant, or remarkable (and remark it out loud in class).
 Attendance and participation is required.
 
