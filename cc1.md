@@ -81,5 +81,5 @@ We want to build a community of readers and thinkers in this class - who are abl
 * 1651: Thomas Hobbes, *Leviathan*
 * 1669-89: John Locke, "Fundamental Constitution of Carolina," and *Second Treatise* 
 * 1755-81: Jean-Jacques Rousseau, “Social Contract” and "Letter Written from the Mountain"
-* 1968: James Baldwin, "A Talk to Teachers"
+* 1963: James Baldwin, "A Talk to Teachers"
 
