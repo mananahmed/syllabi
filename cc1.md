@@ -44,14 +44,17 @@ Attendance and participation is required.
 
 Columbia College is dedicated to the highest ideals of integrity in academia. Therefore, in Literature Humanities and Contemporary Civilization, any instance of academic dishonesty, attempted or actual, will be reported to the faculty chair of the course and to the dean of the Core Curriculum, who will review the case with the expectation that a student guilty of academic dishonesty will receive the grade of “F” in the course and be referred to dean’s discipline for further institutional action.
  
-### Grade Distribution
-* Paper I: 10pts
-* Paper II: 10pts
-* Paper III: 10pts
-* Reading Responses: 40pts (1 per class x 10 wks= 20 entries; no minimum)
-* Participation: 10pts
-* Museum visit: 10pts
-* Archive visit: 10pts--- Visit to the Rare Manuscripts Collection at Butler U (6th Flr) to examine 20 Qur'an manuscripts from 7th-19th Century.
+### Assessments: 
+
+We want to build a community of readers and thinkers in this class - who are able to work collectively and collaboratively. I am setting my assessment goals on two paths: firstly, I want to make sure we are doing close-reading of the texts, and secondly, I want to ensure that we are critical and engaged thinkers. With those goals, I ask that you do two forms of regular production in the class - short form writing and research oriented presentation. The details are under the "Assignments" tab on your left.
+
+* 10%: Attendance 
+* 10%: Active Slack Participation
+* 30%: Posting responses on Piazza (~1 per class)  
+* 20%: In-class Presentation on Author (partnered assignment)
+* 20%: Canon Today--Podcast/Video Interview (partnered assignment)
+* 10%: Digital Archive/Project Report
+ 
 
 
 ### Readings (Texts)
@@ -60,22 +63,23 @@ Columbia College is dedicated to the highest ideals of integrity in academia. Th
 * ca. 340 BCE: Aristotle, *Nicomachean Ethics* 
 * ca. 300 BCE-300 CE: *Bhagavad Gita*
 * ca. 300 BCE-300 CE: *Arthasastra*
-* ca 426 CE: Augustine, *City of God*
-* ca 640 CE: "The Cave", *The Qur'an*
-* ca. 900 CE: al-Farabi, *On Plato & Aristotle*
-* ca. 1000 CE: Ibn-Sina (Avicenna), *The Book of Healing*
-* ca. 1090 CE: Nizam ul Mulk, *The Book of Kings*
-* ca 1150 CE: Ibn-Rushd (Averroes), *On Aristotle's Metaphysics* and Moses Maimonides, *The Guide for the Perplexed*
-* ca. 1250 CE: Thomas Aquinas, *Summa contra Gentiles*
-* ca. 1370 CE: Immanuel Ben Jacob Bonfils, *The Book of the Gests of Alexander of Macedon*
-* 1493 CE: Christopher Columbus,  “Letter of Columbus to Luis de Santangel” (1493)
-* 1505 CE: *Letter of the King of Portugal Sent to the King of Castile Concerning the Voyage and Success of India*
-* 1519 CE: *The Story of the Conquest as Told by the Anonymous Authors of Tlateloloco* 
-* 1528 CE: Martin Luther, "On war against the Turks," and "The Twelve Articles of the Swabian Peasants"
-* 1530 CE: Machiavelli, *The Prince*
-* 1606 CE: Francis Bacon, "A Specimen of the Persian Magick"
-* 1637-43 CE: Rene Descartes, *Discourse on Method* and "Letters to Voetius"
-* 1651 CE: Thomas Hobbes, *Leviathan*
-* 1669-89 CE: John Locke, "Fundamental Constitution of Carolina," and *Second Treatise* 
-* 1755-81 CE: Jean-Jacques Rousseau, “Social Contract” and "Letter Written from the Mountain"
+* ca 426: Augustine, *City of God*
+* ca 640: "The Cave", *The Qur'an*
+* ca. 900: al-Farabi, *On Plato & Aristotle*
+* ca. 1000: Ibn-Sina (Avicenna), *The Book of Healing*
+* ca. 1090: Nizam ul Mulk, *The Book of Kings*
+* ca 1150: Ibn-Rushd (Averroes), *On Aristotle's Metaphysics* and Moses Maimonides, *The Guide for the Perplexed*
+* ca. 1250: Thomas Aquinas, *Summa contra Gentiles*
+* ca. 1370: Immanuel Ben Jacob Bonfils, *The Book of the Gests of Alexander of Macedon*
+* 1493: Christopher Columbus,  “Letter of Columbus to Luis de Santangel” (1493)
+* 1505: *Letter of the King of Portugal Sent to the King of Castile Concerning the Voyage and Success of India*
+* 1519: *The Story of the Conquest as Told by the Anonymous Authors of Tlateloloco* 
+* 1528: Martin Luther, "On war against the Turks," and "The Twelve Articles of the Swabian Peasants"
+* 1530: Machiavelli, *The Prince*
+* 1606: Francis Bacon, "A Specimen of the Persian Magick"
+* 1637-43: Rene Descartes, *Discourse on Method* and "Letters to Voetius"
+* 1651: Thomas Hobbes, *Leviathan*
+* 1669-89: John Locke, "Fundamental Constitution of Carolina," and *Second Treatise* 
+* 1755-81: Jean-Jacques Rousseau, “Social Contract” and "Letter Written from the Mountain"
+* 1968: James Baldwin, "A Talk to Teachers"
 
