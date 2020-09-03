@@ -71,14 +71,14 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * Immanuel Kant, "Of the Different Human Races" (1777)
 * Comte de Buffon, Georges-Louis Leclerc, “Of the Varieties in the Human Species,” in *Natural History Containing A Theory Of The Earth, A General History Of Man, Of The Brute Creation, And Of Vegetables, Minerals, Etc.* (1797)
 
-**Oct. 14: The Right to Speak**
+**Oct. 21: The Right to Speak**
 * Ottobah Cugoano, *Narrative of the Enslavement of Ottobah Cugoano, a Native of Africa; Published by Himself* (1787)
 * Zora Neale Hurston, *Barracoon: The Story of the Last ‘Black Cargo’*
 * Haitian Declaration (1804)
 * Simón Bolivar, “The Jamaica Letter” (1815)
 * Sojourner Truth "Ain’t I a Woman?" (1851)
 
-**Oct. 21: Making Terra Nullius**
+**Oct. 28: Making Terra Nullius**
 * Northwest Ordinance (1787)
 * Cherokee Nation v. U.S. (1831)
 * U.S. v. Rogers (1846)
@@ -86,41 +86,41 @@ We will consider how ideas about race, civilization, religion, self and other, a
 * Sarah Winnemucca, Life Among the Piutes (1882)
 * Simon Pokagon, “The Red Man’s Greeting/Rebuke” (1893)
 
-**Oct. 28: War Capitalism**
+**Nov. 4: War Capitalism**
 * Lin Zexu, Letter of Advice to Queen Victoria (1839)
 * Treaty of Nanjing (1842)
 * The I-ho-ch'uan, “Boxers demand death for all foreign devils” (1900)
 * Fei Qihao on the Boxer Rebellion (1900)
 
-**Nov. 4: US Empires**
+**Nov. 11: US Empires**
 * “Letters of Sanford B. Dole (Hawai'i) and Professor John W. Burgess (Columbia)” (1894)
 * Petitions against Hawaiian Annexation (1897)
 * War Department, *Charges of Cruelty, etc., to the Natives of Philippines* (1902)
 * President William McKinley, “Second Annual Message,” Dec 5, 1898
 * Platt Amendment (1903)
 
-**Nov. 11: Rights for All**
+**Nov. 18: Rights for All**
 * M. K. Gandhi, *Hind Swaraj* (1909)
 * Sarojini Naidu, "Address to Madras Law Students" (1917) and "Emancipation of Indian Women" (1918)
 * He-yin Zhen, "Feminist Manifesto" (1907)
 * B. R. Ambedkar, *Annihilation of Caste* (1936)
 * Gamal Abdel Nasser, *Speech on Egyptian Nationalization of the Suez Canal* (1956)
 
-**Nov 18: Decolonization Engine I**
+**Dec 2: Decolonization Engine I**
 * C.L.R. James, *History of Pan-African Revolt* (1938)
 * Paul Robeson, *Here I Stand* (1958)
 * Franz Fanon, *Wretched of the Earth* (1961)
 * Zohra Drif, *Inside the Battle of Algiers* (1961)
 * Kwame Nkrumah, “I Speak of Freedom” (1961)
 
-**Dec 2: Decolonization Engine II**
+**Dec 9: Decolonization Engine II**
 * Begum Rokayya, *Sultana’s Dream* (1908)
 * W.E.B. DuBois, "The Comet" (1920)
 * Zora Neale Hurston, “How It Feels to be Colored Me” (1928)
 * Ya Dafu, “Sinking” (1921)  
 
 
-**Dec. 9: Decolonization Engine III**
+**Dec. 16: Decolonization Engine III**
 * Malcolm X at Columbia University (1963)
 * Martin Luther King Jr., “Beyond Vietnam,” Riverside Church (1967)
 * Alcatraz Proclamation (1969)
