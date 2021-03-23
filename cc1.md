@@ -55,7 +55,88 @@ We want to build a community of readers and thinkers in this class - who are abl
 * 20%: Canon Today--Podcast/Video Interview (partnered assignment)
 * 10%: Digital Archive/Project Report
  
+### Schedule of Readings (click on the filenames in FILES to download readings per class)
 
+* Wednesday, September 9, 2020
+ * Introductions
+ * Rebecca Futo Kennedy, "On the History of Western Civilization" (2019) (Links to an external site.)
+ * James Baldwin, A Talk to Teachers (1963)
+
+* Monday, September 14, 2020
+ * 1_Exodus
+
+* Wednesday, September 16, 2020
+ * 2_Plato_Republic (Books 1, 2,3,)
+
+* Monday, September 21, 2020
+ * 2_Plato_Republic (Books 8, 9)
+
+* Wednesday, September 23, 2020
+ * 3_Aristotle_Ethics (Books 1, 2, 5, 6)
+
+* Monday, September 28, 2020
+ * 4_Bhagavad+Gita (pg 21-146)
+
+* Wednesday, September 30, 2020
+ * 5_Arthasastra (Book 1, 3)
+
+* Monday, October 5, 2020
+ * 6_Augustine_City+of+God (Book 1, 2)
+
+* Wednesday, October 7, 2020
+ * 7_Qur'an (The Cave)
+
+* Monday, October 12, 2020
+ * 8_al_Farabi (Parts 1, 2)
+
+* Wednesday, October 14, 2020
+ * 9_Avicenna_Physics+of+Healing (Book One)
+
+* Monday, October 19, 2020
+ * 10_Nizam_ul_Mulk_Book+of+Kings (Selections)
+
+* Wednesday, October 21, 2020
+ * 11_Ibn_Rushd_Aristotle and 12_Maimonides_Guide+for_the+Perplexed (Part 2)
+
+* Monday, October 26, 2020
+ * 13_Aquinas_Political_Writings (Chap 1, 4, 7)
+
+* Wednesday, October 28, 2020
+ * 14_Bonfils_Alexander (59-170)
+
+* Wednesday, November 4, 2020 [special election session]
+ * 002_Ruth_Wilson_Gilmore_Golden_Gulag (Prologue, chps 1+6, epilogue) and 003_Svetlana_Alexievich_Nobel
+
+* Monday, November 9, 2020
+ * 15_Columbus_Letter and 16_Letter_Portugal_Spain
+
+* Wednesday, November 11, 2020
+ * 17_Tlateloloco (pg 125-147)
+
+* Monday, November 16, 2020
+ * 18_Luther_Turks and 19_Luther_Swabian+Peasants
+
+* Wednesday, November 18, 2020
+ * 20_Machiavelli_Prince (full)
+
+* Monday, November 23, 2020
+ * 21_Bacon_Persian+Magick and 22_Descartes_Methods and 23_Letters+to+Voetius
+
+* Monday, November 30, 2020
+ * 24_Hobbes_Leviathan (Part 1, 4)
+
+* Wednesday, December 2, 2020
+ * 25_Locke_Constitution and 26_Locke_Second+Treatise
+
+* Monday, December 7, 2020
+ * 27_Rousseau_Social+Contract and 28_Rousseau_Letter
+
+* Wednesday, December 9, 2020
+ * Presentations on your Canon Today projects (10 mins per team)
+
+* Monday, December 14, 2020
+ * Conclusion
+ 
 
 ### Readings (Texts)
 * ca. 600 BCE: "Exodus," *The Bible*
