@@ -14,22 +14,27 @@ Date: Spring 2020
 
 How do we understand the texts which produced, and were produced by, inequality, excess, violence and fear? When we speak of the canon of Enlightenment thinkers, those are not the most oft-used categories of understanding that we invoke. Yet, inequality – whether civilizational or theological or racial – and fear – whether of the “other” or of the “modern” – provide the background to the discursive traditions we are going to explore from texts roughly placed 1700-2000 CE.
 
-In the previous semester we saw that transmissions across geographies of ideas and peoples, make the notion of the "West" as a hermetically sealed unit untenable. This semester, the rise of mercantile and colonial corporation and the growth of African and Indigenous slave-labor as fuel for northern European economies is the necessary backdrop to the question of tradition and the emergence of the "New".
+In the previous semester we focused on the idea of "origins". This semester, the rise of mercantile and colonial corporation and the growth of African and Indigenous slave-labor as fuel for northern European economies is the necessary backdrop to the question of ordering of the world.
 
-This semester will focus on the emergence of disciplinary thought. The texts we read this semester were often foundational in creating or enlarging academic disciplines (alongside political and social systems). We will look at the birth of Philology, History, Anthropology and Natural Sciences as disciplinary knowledges-- and the colonial imperative of such epistemologies. In the second half of the semester we will look at how these epistemologies were then resisted against by the colonized world. Watch this scene from [Black Robe (1991) on  colonial epistemologies](https://www.youtube.com/watch?v=xoxUto7-sDI). To understand the question of 'barbarism' at play there, recall Bartolomé de Las Casas, *Apologética Historia Sumaria* (c.1552). México: Universidad Autónoma de  México, 1967, vol. II, pp. 637–54.
+This semester will focus on the emergence of disciplinary thought. The texts we read this semester were often foundational in creating or enlarging academic disciplines (alongside political and social systems). We will look at the birth of Philology, History, Anthropology and Natural Sciences as disciplinary knowledges-- and the colonial imperative of such epistemologies. In the second half of the semester we will look at how these epistemologies were then resisted against by the colonized world.
 
+### To Be Read during the Break
 
-### To Be Read over the Winter Break
-Please read these essays over the break; and post your response to them in CW. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
+Please read these short essays over the break. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
 
-* Arundhuti Roy, Capitalism: A Ghost Story (2012)
-* Daniel Macmillen Voskoboynik, To fix the climate crisis, we must face up to our imperial past (2018)
+* Documentary (on Amazon Prime): Concerning Violence (2014) directed by Göran Olsson
+* Kristie Dotson "On the way to decolonization in a settler colony: Re-introducing Black feminist identity politics” (AlterNative, 2018) 
+* Achille Mbembe, "Decolonizing Knowledge and the Question of the Archive" (2015)
 
 #### Recommended ADDITIONAL Reading (Theoretical)
 * Paul Ricoeur, "What is a Text? Explanation and Understanding" (1981)
 * Elizabeth Grosz, "Bodies and Knowledges: Feminism and the Crisis of Reason" (1993)
 * Giorgio Agamben, "What is a Paradigm?" (2009)
 * Lauren Berlant and Kathleen Stewart, "Collaboration" (2019)
+
+### Land Acknowledgment
+
+As members of Columbia’s Morningside campus, we acknowledge that those of us located in Manhattan are on the territory of the Lenape and Wappinger peoples.  Indigenous people from many nations live and work in this region today.  Some of us are in other parts of the American subcontinent. Many indigenous communities have lived in and moved through this place over time. I ask you to research the indigenous histories of your land and share it with our class.  Our digital infrastructure is also grounded in the same theft of land and resources under colonialism. We acknowledge  and  pay respect to the native elders past and present, and recognize their active presence and their futurity, reposed in the generations present and those to come.
 
 ### Assessments
 
