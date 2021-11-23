@@ -41,7 +41,7 @@ There are two types of writing assignments.
 *	Guha, Ranajit. “Not at Home in Empire.” *Critical Inquiry* 23, no. 3 (1997): 482–93.
 
 ### January 26: The Question of Collaboration
-*	Anil Seal. *The Emergence of Indian Nationalism: Competition and Collaboration in the Later Nineteenth Century*. Cambridge: Cambridge University Press, 1971. [chps 1, 4, 7, 8 & Appendices]
+*	Anil Seal. *The Emergence of Indian Nationalism: Competition and Collaboration in the Later Nineteenth Century*. Cambridge: Cambridge University Press, 1971. [chp 1, 4, 7, 8 & Appendices]
 *	Washbrook, David. “Country Politics: Madras 1880 to 1930.” *Modern Asian Studies* 7, no. 3 (1973): 475–531
 *	Bayly, C. A. “Knowing the Country: Empire and Information in India.” *Modern Asian Studies* 27, no. 1 (1993): 3-43.
 
@@ -60,7 +60,7 @@ There are two types of writing assignments.
 *	Subrahmanyam, Sanjay and David Shulman. "The Men Who Would Be King? The Politics of Expansion in Early Seventeenth-Century Northern Tamilnadu." *Modern Asian Studies* 24, no. (2) (1990): pp. 225-48
 
 ### February 16: The Question of the Peasant
-*	Habib, Irfan. *The Agrarian System of Mughal India*. Oxford: Oxford University Press, 1963. [chps 3-4]
+*	Habib, Irfan. *The Agrarian System of Mughal India*. Oxford: Oxford University Press, 1963. [chp 3-4]
 * Stein, Burton. *Peasant state and society in medieval South India* Delhi: Oxford University Press, 1980. [chp 2]
 *	Mukhia, Harbans. "Was There Feudalism in Indian History?" *Journal of Peasant Studies* 8, no. 3 (1981): 272-310.
 *	Guha, Ranajit, "The Prose of Counter-Insurgency" in Ranajit Guha, *Subaltern Studies II*, Oxford: Oxford University Press, 1983 pp. 45-86
