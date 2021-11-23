@@ -78,7 +78,7 @@ There are two types of writing assignments.
 *	Minault, Gail. “Begamati Zuban: Women’s Language and Culture in Nineteenth-Century Delhi.” *India International Centre Quarterly* 11, no. 2 (1984): 155–70.
 *	Guha, Ranajit. “Chandra's Death” in David Arnold and David Hardiman (ed.) *Subaltern Studies* Vol. V. New Delhi: Oxford University Press, 1987.
 *	Spivak, Gayatri.  “Can the Subaltern Speak?” in Cary Nelson and Lawrence Grossberg (eds), *Marxism and the Interpretation of Culture* Urbana, IL: University of Illinois Press, 1988, 271-313.
-*	Sangari, Kumkum, and Sudesh Vaid. *Recasting Women: Essays in Indian Colonial History*. New Brunswick, N.J.: Rutgers University Press, 1990. [Chakarvati, Mani, Banerjee, Lalitha, Chatterjee]
+*	Sangari, Kumkum, and Sudesh Vaid. *Recasting Women: Essays in Indian Colonial History*. New Brunswick, N.J.: Rutgers University Press, 1990. [Chakravarti, Mani, Banerjee, Lalitha, Chatterjee]
 *	Oldenburg, Veena Talwar. “Lifestyle as Resistance: The Case of the Courtesans of Lucknow, India.” *Feminist Studies* 16, no. 2 (1990): 259–87
 
 ### March 9: The Question of the Muslim
