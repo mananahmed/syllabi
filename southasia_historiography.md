@@ -78,7 +78,6 @@ There are two types of writing assignments.
 *	Guha, Ranajit. “Chandra's Death” in David Arnold and David Hardiman (ed.) *Subaltern Studies* Vol. V. New Delhi: Oxford University Press, 1987.
 *	Spivak, Gayatri.  “Can the Subaltern Speak?” in Cary Nelson and Lawrence Grossberg (eds), *Marxism and the Interpretation of Culture* Urbana, IL: University of Illinois Press, 1988, 271-313.
 *	Sangari, Kumkum, and Sudesh Vaid. *Recasting Women: Essays in Indian Colonial History*. New Brunswick, N.J.: Rutgers University Press, 1990. [Chakravarti, Mani, Banerjee, Lalitha, Chatterjee]
-* Gopal Guru. “Dalit Women Talk Differently.” Economic and Political Weekly 30, no. 41/42 (1995): 2548–50.
 *	Oldenburg, Veena Talwar. “Lifestyle as Resistance: The Case of the Courtesans of Lucknow, India.” *Feminist Studies* 16, no. 2 (1990): 259–87
 
 ### March 9: The Question of the Muslim
@@ -107,7 +106,6 @@ There are two types of writing assignments.
 *	Ramaswamy, Sumathi. *Passions of the Tongue: Language Devotion in Tamil India, 1891-1970*. University of California Press, Berkeley, 1997. [chp 1-2-3]
 
 ### April 13: The Question of Labour
-
 *	Chandavarkar, Rajnarayan. *The Origins of Industrial Capitalism: Business Strategies and the Working Classes in Bombay, 1900–1940*. Cambridge: Cambridge University Press, 1994 [chp 2-3-4-6]
 *	Sen, Samita. *Women and Labour in Late Colonial India. The Bengal Jute Industry*. Cambridge University Press, Cambridge, 1999. [chp 2-3-4]
 
