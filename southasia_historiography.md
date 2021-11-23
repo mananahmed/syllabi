@@ -15,7 +15,7 @@ date: Spring 2022
 ## Course Description
 This course is intended to provide a broad yet thorough grounding in the major themes in historical writings on South Asia ca. 1947-2000. Historians of/and about South Asia have participated in defining major debates across academies, especially in postcolonial studies and in the prominence of Subaltern Studies in the 80s and 90s. In 1947, the twinned “Republic of India” and “Islamic Republic of Pakistan,” gained independence from British colonial rule. With independence came the establishment of new universities and history departments but also the continuation of centuries old tradition of ‘studying’ the subcontinent at Oxford and Cambridge. After 1957’s launch of Sputnik, United States embarked on a massive investment in the study of the “Third World” to keep Communism at bay: giving rise to “Area Studies.” The longer “Indology” gave way to new anthropologies of “Village India” and the rise of “Development Studies.” Fulbright and Rhodes scholarships took students from Lahore and Delhi and Calcutta to US and UK to study. From such grounds would the study of colonial rule and governance, ideas of Kingship, Hinduism develop along both nationalist and Marxist lines to make the first major, international intervention globally: the School of Subaltern Studies in 1983. Since then, South Asian historiography has contributed importantly to postcolonial thought and to the study of Women, Gender and Sexuality. This course focuses on important themes—that cut across medieval to modern period—and highlight the key debates in the historiography as a series of “Questions” of Colonial Knowledge, of Governance, of the Origins, of the King, of the Peasant, of the Nation, of the Woman, of the Muslim, of Caste, of the Riot, of Language, of the City, of Borders, of the Citizen, and finally, of History itself.
 
-To be clear, this is not a course on the history of South Asia, nor are we going to focus on the task of history-writing itself (albeit parenthetically). Rather, the attempt throughout the course is to introduce students to the ‘canonical,’ field-defining texts which create the foundations from which South Asian studies--as a field--contributed to historiographies in North America, Latin American, Asia and Africa.  
+To be clear, this is not a course on the history of South Asia, nor are we going to focus on the task of history-writing itself (albeit parenthetically). We will also not cover major historians of the anti-colonial period (1890-1950). Rather, the attempt throughout the course is to introduce students to the ‘canonical,’ field-defining texts which create the foundations from which South Asian studies--as a field--contributed to historiographies in North America, Latin American, Asia and Africa.
 
 
 ## Course Readings & Timeline
@@ -78,10 +78,10 @@ Stein, Burton. *Peasant state and society in medieval South IndiaDelhi: Oxford U
 *	Dirks, Nicholas. *Castes of Mind: Colonialism and the Making of Modern India*. By Nicholas B. Dirks. Princeton: Princeton University Press, 2001 [chp 1-2-3-7-8-9-10]
 
 ### March 30: The Question of the Riot
-*	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” Anthropology Today 1, no. 3 (1985): 4–6.
+*	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” *Anthropology Today* 1, no. 3 (1985): 4–6.
 *	Dipesh Chakrabarty, "Communal Riots and Labour: Bengal's Jute Mill-hands in the 1890s," in Veena Das (ed.) *Mirrors of Violence: Communities, Riots and Survivors in South Asia*. New York : Oxford University Press, 1990
 *	Das, Suranjan. Communal Riots in Bengal 1905-1947. Oxford University Press, Delhi 1991
-*	Pandey, Gyanendra, 'In Defence of the Fragment: Writing about Hindu-Muslim Riots in India Today', Representations, 37 (Winter, 1992).
+*	Pandey, Gyanendra, 'In Defence of the Fragment: Writing about Hindu-Muslim Riots in India Today', *Representations*, 37 (Winter, 1992).
 *	Tambiah, Stanley J. *Leveling Crowds: Ethnonationalist Conflicts and Collective Violence in South Asia*. University of California Press: Berkeley, 1996 [chp 1-6, 12]
 
 ### April 6: The Question of Language
@@ -90,13 +90,14 @@ Stein, Burton. *Peasant state and society in medieval South IndiaDelhi: Oxford U
 *	Ramaswamy, Sumathi. *Passions of the Tongue: Language Devotion in Tamil India, 1891-1970*. University of California Press, Berkeley, 1997. [chp 1-2-3]
 
 ### April 13: The Question of Partition
-*	Philips, Cyril Henry and Mary Doreen Wainwright (eds.). *The Partition of India: Policies and Perspectives 1935-1947London: George Allen and Unwin Ltd., 1970. [Noorani, Nanda, Zaidi, Kabir, Venkatachar, Lambrick]
-Gough, Kathleen and Hari P. Sharma (eds.) *Imperialism and revolution in South AsiaNew York: Monthly Review Press, 1973. [Obeysekara, Mukherjee, Ahmed F.]
-*	Jalal, Ayesha, and Anil Seal. “Alternative to Partition: Muslim Politics between the Wars.” Modern Asian Studies 15, no. 3 (1981): 415–54
-*	Butalia, Urvashi. *The Other Side of SilenceNew Delhi: Penguin Books, 1998
+*	Philips, Cyril Henry and Mary Doreen Wainwright (eds.). *The Partition of India: Policies and Perspectives 1935-1947* London: George Allen and Unwin Ltd., 1970. [Noorani, Nanda, Zaidi, Kabir, Venkatachar, Lambrick]
+Gough, Kathleen and Hari P. Sharma (eds.) *Imperialism and revolution in South Asia*. New York: Monthly Review Press, 1973. [Obeysekara, Mukherjee, Ahmed F.]
+*	Jalal, Ayesha, and Anil Seal. “Alternative to Partition: Muslim Politics between the Wars.” *Modern Asian Studies* 15, no. 3 (1981): 415–54
+*	Butalia, Urvashi. *The Other Side of Silence*. New Delhi: Penguin Books, 1998
 
 ### April 20: The Question of History
 *	Chakrabarty, Dipesh. “Postcoloniality and the Artifice of History: Who Speaks for ‘Indian’ Pasts?” *Representations*, no. 37 (1992): 1–26.
-*	Guha, Ranajit. History at the Limit of World-History. New York: Columbia University Press, 2002.
+* Thapar, Romila. *Narratives and the Making of History: Two Lectures*. Delhi: Oxford University Press, 2000.
+*	Guha, Ranajit. *History at the Limit of World-History*. New York: Columbia University Press, 2002.
 
 ### April 27: Conclusions
