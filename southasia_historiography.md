@@ -13,6 +13,7 @@ date: Spring 2022
 ## W 4:10pm-6:00pm
 
 ## Course Description
+
 This course is intended to provide a broad yet thorough grounding in the major themes in historical writings on South Asia ca. 1947-2000. Historians of/and about South Asia have participated in defining major debates across academies, especially in postcolonial studies and in the prominence of Subaltern Studies in the 80s and 90s. In 1947, the twinned “Republic of India” and “Islamic Republic of Pakistan,” gained independence from British colonial rule. With independence came the establishment of new universities and history departments but also the continuation of centuries old tradition of ‘studying’ the subcontinent at Oxford and Cambridge. After 1957’s launch of Sputnik, United States embarked on a massive investment in the study of the “Third World” to keep Communism at bay: giving rise to “Area Studies.” The longer “Indology” gave way to new anthropologies of “Village India” and the rise of “Development Studies.” Fulbright and Rhodes scholarships took students from Lahore and Delhi and Calcutta to US and UK to study. From such grounds would the study of colonial rule and governance, ideas of Kingship, Hinduism develop along both nationalist and Marxist lines to make the first major, international intervention globally: the School of Subaltern Studies in 1983. Since then, South Asian historiography has contributed importantly to postcolonial thought and to the study of Women, Gender and Sexuality. This course takes a theme centered approach to the histories, in order to highlight the major intellectual ideas for the second half of twentieth century.
 
 To be clear, this is not a course on the history of South Asia, nor are we going to focus on the task of history-writing itself (albeit parenthetically). We will also not cover major historians of the anti-colonial period (1890-1950). Rather, the attempt throughout the course is to introduce students to the ‘canonical,’ field-defining texts which create the foundations from which South Asian studies--as a field--contributed to historiographies in North America, Latin American, Asia and Africa.
@@ -96,7 +97,6 @@ There are two types of writing assignments.
 *	Das, Suranjan. Communal Riots in Bengal 1905-1947. Oxford University Press, Delhi 1991 [chp 2-4-5-6]
 *	Pandey, Gyanendra, 'In Defence of the Fragment: Writing about Hindu-Muslim Riots in India Today', *Representations*, 37 (Winter, 1992).
 * Amin, Shahid. *Event, Metaphor, Memory: Chauri Chaura 1922-1992* Delhi: Oxford University Press, 1995.[chp 4-5-6-7-8-9]
-
 
 ### April 6: The Question of Language
 *	Brass, Paul. *Language, Religion, and Politics in North India*. Cambridge: Cambridge University Press, 1974.
