@@ -78,6 +78,7 @@ There are two types of writing assignments.
 *	Guha, Ranajit. “Chandra's Death” in David Arnold and David Hardiman (ed.) *Subaltern Studies* Vol. V. New Delhi: Oxford University Press, 1987.
 *	Spivak, Gayatri.  “Can the Subaltern Speak?” in Cary Nelson and Lawrence Grossberg (eds), *Marxism and the Interpretation of Culture* Urbana, IL: University of Illinois Press, 1988, 271-313.
 *	Sangari, Kumkum, and Sudesh Vaid. *Recasting Women: Essays in Indian Colonial History*. New Brunswick, N.J.: Rutgers University Press, 1990. [Chakravarti, Mani, Banerjee, Lalitha, Chatterjee]
+* Gopal Guru. “Dalit Women Talk Differently.” Economic and Political Weekly 30, no. 41/42 (1995): 2548–50.
 *	Oldenburg, Veena Talwar. “Lifestyle as Resistance: The Case of the Courtesans of Lucknow, India.” *Feminist Studies* 16, no. 2 (1990): 259–87
 
 ### March 9: The Question of the Muslim
@@ -92,6 +93,7 @@ There are two types of writing assignments.
 * Appadurai, Arjun. "Review of Is Homo Hierarchicus?, by E. Valentine Daniel, Ravindra S. Khare, and Ashis Nandy". *American Ethnologist* 13, no. 4 (1986): 745–61
 * Dirks, Nicholas B. “Castes of Mind.” *Representations*, no. 37 (1992): 56–78
 *	Omvedt, Gail. *Dalits and the Democratic Revolution: Dr. Ambedkar and the Dalit Movement in Colonial India*. Thousand Oaks: Sage, 1994.[chp 3-4-7-8-9]
+* Guru, Gopal, "The Politics of Naming," *Seminar* 471, ‘Dalit’, November 1998, pp. 14-18
 
 ### March 30: The Question of the Riot
 *	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” *Anthropology Today* 1, no. 3 (1985): 4–6.
