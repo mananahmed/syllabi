@@ -88,7 +88,7 @@ There are two types of writing assignments.
 *	Pandey, Gyanendra. *The Construction of Communalism in Colonial North India*. Delhi: Oxford University Press, 1990 [chp 4-5-6-7]
 
 ### March 23: The Question of Caste
-*	Beteille, Andre. *Caste, Class, and Power: Changing Patterns of Social Stratification in a Tanjore Village*. Berkeley: University of California Press, 1965. [chp 2-3]
+*	Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications* (Oxford: Oxford University Press, 1970)[chp 2-3-4-5]
 *	O'Hanlon, Rosalind. *Caste, Conflict and Ideology: Mahatma Jotirao Phule and Low-Caste Protest in Western India*. Cambridge: Cambridge University Press, 1985. [chp 1-7-8-9-10]
 *	Omvedt, Gail. *Dalits and the Democratic Revolution: Dr. Ambedkar and the Dalit Movement in Colonial India*. Thousand Oaks: Sage, 1994.[chp 3-4-7-8-9]
 
