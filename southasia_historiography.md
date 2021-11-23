@@ -105,8 +105,8 @@ There are two types of writing assignments.
 
 ### April 13: The Question of Labour
 
-•	Chandavarkar, Rajnarayan. *The Origins of Industrial Capitalism: Business Strategies and the Working Classes in Bombay, 1900–1940*. Cambridge: Cambridge University Press, 1994 [chp 2-3-4-6]
-•	Sen, Samita. *Women and Labour in Late Colonial India. The Bengal Jute Industry*. Cambridge University Press, Cambridge, 1999. [chp 2-3-4]
+*	Chandavarkar, Rajnarayan. *The Origins of Industrial Capitalism: Business Strategies and the Working Classes in Bombay, 1900–1940*. Cambridge: Cambridge University Press, 1994 [chp 2-3-4-6]
+*	Sen, Samita. *Women and Labour in Late Colonial India. The Bengal Jute Industry*. Cambridge University Press, Cambridge, 1999. [chp 2-3-4]
 
 ### April 20: The Question of Partition
 *	Philips, Cyril Henry and Mary Doreen Wainwright (eds.). *The Partition of India: Policies and Perspectives 1935-1947* London: George Allen and Unwin Ltd., 1970. [Noorani, Nanda, Zaidi, Kabir, Venkatachar, Lambrick]
