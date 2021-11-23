@@ -40,7 +40,6 @@ There are two types of writing assignments.
 * Cohn, Bernard S. *Colonialism and Its Forms of Knowledge: The British in India Princeton Studies in Culture/Power/History*. Princeton, N.J.: Princeton University Press, 1996. [chp 2-3]
 *	Guha, Ranajit. “Not at Home in Empire.” *Critical Inquiry* 23, no. 3 (1997): 482–93.
 
-
 ### January 26: The Question of Collaboration
 *	Anil Seal. *The Emergence of Indian Nationalism: Competition and Collaboration in the Later Nineteenth Century*. Cambridge: Cambridge University Press, 1971. [chps 1, 4, 7, 8 & Appendices]
 *	Washbrook, David. “Country Politics: Madras 1880 to 1930.” *Modern Asian Studies* 7, no. 3 (1973): 475–531
@@ -90,8 +89,9 @@ There are two types of writing assignments.
 ### March 23: The Question of Caste
 *	Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications* (Oxford: Oxford University Press, 1970)[chp 2-3-4-5]
 *	O'Hanlon, Rosalind. *Caste, Conflict and Ideology: Mahatma Jotirao Phule and Low-Caste Protest in Western India*. Cambridge: Cambridge University Press, 1985. [chp 1-7-8-9-10]
+* Appadurai, Arjun. "Review of Is Homo Hierarchicus?, by E. Valentine Daniel, Ravindra S. Khare, and Ashis Nandy". *American Ethnologist* 13, no. 4 (1986): 745–61
+* Dirks, Nicholas B. “Castes of Mind.” *Representations*, no. 37 (1992): 56–78
 *	Omvedt, Gail. *Dalits and the Democratic Revolution: Dr. Ambedkar and the Dalit Movement in Colonial India*. Thousand Oaks: Sage, 1994.[chp 3-4-7-8-9]
-
 
 ### March 30: The Question of the Riot
 *	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” *Anthropology Today* 1, no. 3 (1985): 4–6.
