@@ -37,8 +37,9 @@ There are two types of writing assignments.
 ### January 19: The Question of Colonial Knowledge [first class is 4-7pm]
 *	Spivak, Gayatri Chakravorty. “Three Women’s Texts and a Critique of Imperialism.” *Critical Inquiry* 12, no. 1 (1985): 243–61
 *	Inden, Ronald. “Orientalist Constructions of India.” *Modern Asian Studies* 20, no. 3 (1986): 401–46.
-*	Guha, Ranajit. “Not at Home in Empire.” *Critical Inquiry* 23, no. 3 (1997): 482–93.
 * Chakrabarty, Dipesh. “Postcoloniality and the Artifice of History: Who Speaks for ‘Indian’ Pasts?” *Representations*, no. 37 (1992): 1–26.
+*	Guha, Ranajit. “Not at Home in Empire.” *Critical Inquiry* 23, no. 3 (1997): 482–93.
+
 
 ### January 26: The Question of Collaboration
 *	Anil Seal. *The Emergence of Indian Nationalism: Competition and Collaboration in the Later Nineteenth Century*. Cambridge: Cambridge University Press, 1971. [chps 1, 4, 7, 8 & Appendices]
