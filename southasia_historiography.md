@@ -6,14 +6,14 @@ date: Spring 2022
 
 ---
 
-![Syllabus subject to change](images/Ahmed_Spring2021.jpeg)
+[Syllabus subject to change]
 
 # South Asia: Historiography in Question I
 ## GR8946 section 001
 ## W 4:10pm-6:00pm
 
 ## Course Description
-This course is intended to provide a broad yet thorough grounding in the major themes in historical writings on South Asia ca. 1947-2000. Historians of/and about South Asia have participated in defining major debates across academies, especially in postcolonial studies and in the prominence of Subaltern Studies in the 80s and 90s. In 1947, the twinned “Republic of India” and “Islamic Republic of Pakistan,” gained independence from British colonial rule. With independence came the establishment of new universities and history departments but also the continuation of centuries old tradition of ‘studying’ the subcontinent at Oxford and Cambridge. After 1957’s launch of Sputnik, United States embarked on a massive investment in the study of the “Third World” to keep Communism at bay: giving rise to “Area Studies.” The longer “Indology” gave way to new anthropologies of “Village India” and the rise of “Development Studies.” Fulbright and Rhodes scholarships took students from Lahore and Delhi and Calcutta to US and UK to study. From such grounds would the study of colonial rule and governance, ideas of Kingship, Hinduism develop along both nationalist and Marxist lines to make the first major, international intervention globally: the School of Subaltern Studies in 1983. Since then, South Asian historiography has contributed importantly to postcolonial thought and to the study of Women, Gender and Sexuality. This course focuses on important themes—that cut across medieval to modern period—and highlight the key debates in the historiography as a series of “Questions” of Colonial Knowledge, of Governance, of the Origins, of the King, of the Peasant, of the Nation, of the Woman, of the Muslim, of Caste, of the Riot, of Language, of the City, of Borders, of the Citizen, and finally, of History itself.
+This course is intended to provide a broad yet thorough grounding in the major themes in historical writings on South Asia ca. 1947-2000. Historians of/and about South Asia have participated in defining major debates across academies, especially in postcolonial studies and in the prominence of Subaltern Studies in the 80s and 90s. In 1947, the twinned “Republic of India” and “Islamic Republic of Pakistan,” gained independence from British colonial rule. With independence came the establishment of new universities and history departments but also the continuation of centuries old tradition of ‘studying’ the subcontinent at Oxford and Cambridge. After 1957’s launch of Sputnik, United States embarked on a massive investment in the study of the “Third World” to keep Communism at bay: giving rise to “Area Studies.” The longer “Indology” gave way to new anthropologies of “Village India” and the rise of “Development Studies.” Fulbright and Rhodes scholarships took students from Lahore and Delhi and Calcutta to US and UK to study. From such grounds would the study of colonial rule and governance, ideas of Kingship, Hinduism develop along both nationalist and Marxist lines to make the first major, international intervention globally: the School of Subaltern Studies in 1983. Since then, South Asian historiography has contributed importantly to postcolonial thought and to the study of Women, Gender and Sexuality. This course takes a theme centered approach to the histories, in order to highlight the major intellectual ideas for the second half of twentieth century.
 
 To be clear, this is not a course on the history of South Asia, nor are we going to focus on the task of history-writing itself (albeit parenthetically). We will also not cover major historians of the anti-colonial period (1890-1950). Rather, the attempt throughout the course is to introduce students to the ‘canonical,’ field-defining texts which create the foundations from which South Asian studies--as a field--contributed to historiographies in North America, Latin American, Asia and Africa.
 
@@ -21,15 +21,15 @@ To be clear, this is not a course on the history of South Asia, nor are we going
 
 The class is designed as a graduate-level discussion seminar. Doing full and complete assigned readings, plus any further research to understand the historiography or theory, is necessary for full participation in the class. You are also expected to act respectfully and with an open disposition with your peers and colleagues. You should respect both the intellectual and social space of the seminar room.
 
-* March 1: Annotated bibliography (~15 entries): 25%
-* May 1: Final Essay (5000 words): 25%
+* March 1: Annotated Bibliography of an Event (~15 entries): 25%
+* May 1: Final Essay Intellectual Profile (5000 words): 25%
 * CW weekly discussion posts (each ~300-500 words): 25%
 * Class Participation: 25%
 
 There are two types of writing assignments.
 
 1. First, your weekly discussion posts which should be around 300-500 words. They should reflect thinking across all the assigned readings under the week's topic and aim to be substantively thematic and summary in nature.
-2. The final essay is an intellectual profile focused on a single historian. We will approach this project via history of an event. You can choose either 1971 (creation of Bangladesh) or 1992 (destruction of Babri Masjid) as the substantive events which create dense historiographies. The first step is to create an annotated bibliography (due March 1) on the event you choose, focusing on historical writing before or after the event. You will then choose one individual to focus on for t
+2. The final essay is an intellectual profile focused on a single historian. We will approach this project via history of an event. You can choose either 1971 (creation of Bangladesh) or 1992 (destruction of Babri Masjid) as the substantive events which create dense historiographies. The first step is to create an annotated bibliography (due March 1) on the event you choose, focusing on historical writing before or after the event. You will then choose an individual historian to focus on for the final essay where you will place their work on the event as well in their broader intellectual output and their peers.
 
 ## Course Readings & Timeline
 
