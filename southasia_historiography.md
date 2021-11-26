@@ -36,9 +36,11 @@ There are two types of writing assignments.
 
 ### January 19: The Question of Colonial Knowledge [first class is 4-7pm]
 *	Inden, Ronald. “Orientalist Constructions of India.” *Modern Asian Studies* 20, no. 3 (1986): 401–46.
+* K.N. Panikkar, "The Intellectual History of Colonial India: Some Historiographical and Conceptual Questions," in Sabyasachi Bhattacharya and Romila Thapar (eds.), *Situating Indian History for Sarvepalli GOpal*. Delhi: Oxford University Press, 1986
 * Chakrabarty, Dipesh. “Postcoloniality and the Artifice of History: Who Speaks for ‘Indian’ Pasts?” *Representations*, no. 37 (1992): 1–26.
 * Cohn, Bernard S. *Colonialism and Its Forms of Knowledge: The British in India Princeton Studies in Culture/Power/History*. Princeton, N.J.: Princeton University Press, 1996. [chp 2-3]
 *	Guha, Ranajit. “Not at Home in Empire.” *Critical Inquiry* 23, no. 3 (1997): 482–93.
+*
 
 ### January 26: The Question of Collaboration
 *	Anil Seal. *The Emergence of Indian Nationalism: Competition and Collaboration in the Later Nineteenth Century*. Cambridge: Cambridge University Press, 1971. [chp 1, 4, 7, 8 & Appendices]
