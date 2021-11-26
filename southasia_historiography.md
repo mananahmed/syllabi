@@ -55,7 +55,7 @@ There are two types of writing assignments.
 ### February 9: The Question of Kingship
 *	Richards, John F, "The Formulation of Imperial Authority under Akbar and Jahangir," in *Kingship and Authority in South Asia*. ed. John F. Richards. Madison: University of Wisconsin (South Asian Studies Pub. No. 3), 1978
 *	Chattopadhyaya, B. D. “Political Processes and Structure of Polity in Early Medieval India: Problems of Perspective.” *Social Scientist* 13, no. 6 (1985): 3–34
-*	Alam, Muzaffar. *The Crisis of Empire in Mughal North India, Awadh and the Punjab, 1707-1748*. Delhi: Oxford University Press, 1986. [chp Intro-1-7-Concl]
+*	O’Hanlon, Rosalind. “Issues of Masculinity in North Indian History: The Bangash Nawabs of Farrukhabad.” Indian Journal of Gender Studies 4, no. 1 (March 1997): 1–19.
 *	Inden, Ronald B. *Imagining India*. Indiana University Press, 1990. [chp 5]
 *	Subrahmanyam, Sanjay and David Shulman. "The Men Who Would Be King? The Politics of Expansion in Early Seventeenth-Century Northern Tamilnadu." *Modern Asian Studies* 24, no. (2) (1990): pp. 225-48
 
@@ -88,7 +88,6 @@ There are two types of writing assignments.
 
 ### March 23: The Question of Caste
 *	Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications* (Oxford: Oxford University Press, 1970)[chp 2-3-4-5]
-*	O'Hanlon, Rosalind. *Caste, Conflict and Ideology: Mahatma Jotirao Phule and Low-Caste Protest in Western India*. Cambridge: Cambridge University Press, 1985. [chp 1-7-8-9-10]
 * Appadurai, Arjun. "Review of Is Homo Hierarchicus?, by E. Valentine Daniel, Ravindra S. Khare, and Ashis Nandy". *American Ethnologist* 13, no. 4 (1986): 745–61
 * Dirks, Nicholas B. “Castes of Mind.” *Representations*, no. 37 (1992): 56–78
 *	Omvedt, Gail. *Dalits and the Democratic Revolution: Dr. Ambedkar and the Dalit Movement in Colonial India*. Thousand Oaks: Sage, 1994.[chp 3-4-7-8-9]
@@ -102,6 +101,7 @@ There are two types of writing assignments.
 
 ### April 6: The Question of Language
 *	Brass, Paul. *Language, Religion, and Politics in North India*. Cambridge: Cambridge University Press, 1974.
+* Alam, Muzaffar. “The Pursuit of Persian: Language in Mughal Politics.” Modern Asian Studies 32, no. 2 (1998): 317–49.
 *	King, Christopher. *One language, Two scripts: The Hindi movement in nineteenth century North India*. Oxford University Press, 1994 [chp 3-4-5]
 *	Ramaswamy, Sumathi. *Passions of the Tongue: Language Devotion in Tamil India, 1891-1970*. University of California Press, Berkeley, 1997. [chp 1-2-3]
 
