@@ -22,15 +22,15 @@ To be clear, this is not a course on the history of South Asia, nor are we going
 
 The class is designed as a graduate-level discussion seminar. Doing full and complete assigned readings, plus any further research to understand the historiography or theory, is necessary for full participation in the class. You are also expected to act respectfully and with an open disposition with your peers and colleagues. You should respect both the intellectual and social space of the seminar room.
 
-* March 1: Annotated Bibliography of an Event (~15 entries): 25%
-* May 1: Final Essay Intellectual Profile (5000 words): 25%
+* March 1: Annotated Bibliography of an Event (~15 entries): 20%
+* May 1: Final Essay (5000 words): 30%
 * CW weekly discussion posts (each ~300-500 words): 25%
 * Class Participation: 25%
 
 There are two types of writing assignments.
 
 1. First, your weekly discussion posts which should be around 300-500 words. They should reflect thinking across all the assigned readings under the week's topic and aim to be substantively thematic and summary in nature.
-2. The final essay is an intellectual profile focused on a single historian. We will approach this project via history of an event. You can choose either 1971 (creation of Bangladesh) or 1992 (destruction of Babri Masjid) as the substantive events which create dense historiographies. The first step is to create an annotated bibliography (due March 1) on the event you choose, focusing on historical writing before or after the event. You will then choose an individual historian to focus on for the final essay where you will place their work on the event as well in their broader intellectual output and their peers.
+2. The final essay covers the historiography of a singular event--built around a primary source(s). A number of substantive events have created dense historiographies: 16 December 1971 (the creation of Bangladesh) or 6 December 1992 (destruction of Babri Masjid) are such two major events. You can either choose one of these events or propose another event from from this period. The first step is to create an annotated bibliography (due March 1) on the event you choose, focusing on historical writing before or after the event, including at least 2 primary sources (can be legal, diplomatic, visual, media, oral histories, memoirs etc.). The final essay will be your reading of the event, through a particular slice of historiography of the event, incorporating your own reading of primary sources.
 
 ## Course Readings & Timeline
 
