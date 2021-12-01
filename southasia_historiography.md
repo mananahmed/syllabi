@@ -48,7 +48,7 @@ There are two types of writing assignments.
 *	Bayly, C. A. “Knowing the Country: Empire and Information in India.” *Modern Asian Studies* 27, no. 1 (1993): 3-43.
 
 ### February 2: The Question of the Origins
-*	Kosambi, D. D. “The Basis of Ancient Indian History (I).” *Journal of the American Oriental Society* 75, no. 1 (1955): 35–45.  
+*	Kosambi, D. D. “The Basis of Ancient Indian History (I).” *Journal of the American Oriental Society* 75, no. 1 (1955): 35–45.
 *	Kosambi, D. D. “The Basis of Ancient Indian History (II).” *Journal of the American Oriental Society* 75, no. 4 (1955): 226–37
 *	Thapar, Romila. “The Image of the Barbarian in Early India.” *Comparative Studies in Society and History* 13, no. 4 (1971): 408–36.
 *	Pollock, Sheldon. "Rāmāyaṇa and Political Imagination in India." *The Journal of Asian Studies* 52, no. 2 (1993): 261-297.
@@ -86,7 +86,7 @@ There are two types of writing assignments.
 *	Nizami, Khaliq Ahmad. “Some Aspects of Khānqah Life in Medieval India.” *Studia Islamica*, no. 8 (1957): 51–69.
 *	Hardy, Peter. *The Muslims of British India*. Cambridge: Cambridge University Press, 1972. [chp 1-3-4-9]
 *	Eaton, Richard. *The Sufis of Bijapur, 1300-1700: Social Role of Sufis in Medieval India*. Princeton U. Press, 1978 [chp 4-6, 8-10]
-*	Pandey, Gyanendra. *The Construction of Communalism in Colonial North India*. Delhi: Oxford University Press, 1990 [chp 4-5-6-7]
+*	Pandey, Gyanendra. "The Colonial Construction of 'Communalism': British Writings on Banaras in the Nineteenth Century," in *Mirrors of Violence: Communities, Riots and Survivors in South Asia*, Veena Das (ed.). Delhi: Oxford University Press, 1990: 94-135.
 
 ### March 23: The Question of Caste
 *	Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications* (Oxford: Oxford University Press, 1970)[chp 2-3-4-5]
@@ -96,7 +96,7 @@ There are two types of writing assignments.
 * Guru, Gopal, "The Politics of Naming," *Seminar* 471, ‘Dalit’, November 1998, pp. 14-18
 
 ### March 30: The Question of the Riot
-*	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” *Anthropology Today* 1, no. 3 (1985): 4–6.
+*	Das, Veena. “Introduction: Communities, Riots, Survivors--The South Asian Experience,” in *Mirrors of Violence: Communities, Riots and Survivors in South Asia*, Veena Das (ed.). Delhi: Oxford University Press, 1990: 1-37
 *	Das, Suranjan. Communal Riots in Bengal 1905-1947. Oxford University Press, Delhi 1991 [chp 2-4-5-6]
 *	Pandey, Gyanendra, 'In Defence of the Fragment: Writing about Hindu-Muslim Riots in India Today', *Representations*, 37 (Winter, 1992).
 * Amin, Shahid. *Event, Metaphor, Memory: Chauri Chaura 1922-1992* Delhi: Oxford University Press, 1995.[chp 4-5-6-7-8-9]
@@ -112,7 +112,7 @@ There are two types of writing assignments.
 *	Sen, Samita. *Women and Labour in Late Colonial India. The Bengal Jute Industry*. Cambridge University Press, Cambridge, 1999. [chp 2-3-4]
 
 ### April 20: The Question of Partition
-*	Philips, Cyril Henry and Mary Doreen Wainwright (eds.). *The Partition of India: Policies and Perspectives 1935-1947* London: George Allen and Unwin Ltd., 1970. [Noorani, Nanda, Zaidi, Kabir, Venkatachar, Lambrick]
+*	Philips, Cyril Henry and Mary Doreen Wainwright (eds.). *The Partition of India: Policies and Perspectives 1935-1947* London: George Allen and Unwin Ltd., 1970. [A.G. Noorani (104-17), B.R. Nanda (148-88), Z.H. Zaidi (245-76), Humayun Kabir (390-406), C.S. Venkatachar (468-90), H.T. Lambrick (504-17)]
 * Gough, Kathleen and Hari P. Sharma (eds.) *Imperialism and revolution in South Asia*. New York: Monthly Review Press, 1973. [Obeysekara, Mukherjee, Ahmed F.]
 *	Jalal, Ayesha, and Anil Seal. “Alternative to Partition: Muslim Politics between the Wars.” *Modern Asian Studies* 15, no. 3 (1981): 415–54
 *	Butalia, Urvashi. *The Other Side of Silence*. New Delhi: Penguin Books, 1998
