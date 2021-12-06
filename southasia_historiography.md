@@ -86,6 +86,7 @@ There are two types of writing assignments.
 *	Nizami, Khaliq Ahmad. “Some Aspects of Khānqah Life in Medieval India.” *Studia Islamica*, no. 8 (1957): 51–69.
 *	Hardy, Peter. *The Muslims of British India*. Cambridge: Cambridge University Press, 1972. [chp 1-3-4-9]
 *	Eaton, Richard. *The Sufis of Bijapur, 1300-1700: Social Role of Sufis in Medieval India*. Princeton U. Press, 1978 [chp 4-6, 8-10]
+* Metcalf, Barbara D. “Nationalist Muslims in British India: The Case of Hakim Ajmal Khan.” *Modern Asian Studies* 19, no. 1 (1985): 1–28
 *	Pandey, Gyanendra. "The Colonial Construction of 'Communalism': British Writings on Banaras in the Nineteenth Century," in *Mirrors of Violence: Communities, Riots and Survivors in South Asia*, Veena Das (ed.). Delhi: Oxford University Press, 1990: 94-135.
 
 ### March 23: The Question of Caste
