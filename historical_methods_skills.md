@@ -64,11 +64,11 @@ For instructions, please see Appendix I. Groups will participate in workshopping
 * 4. John B. Gilchrist’s “Advertisement and Introduction”, *A New Theory and Prospectus of the Persian Verbs*. (Calcutta: Thomas Hollingbery, Hircarrah Press, 1801)
 
 #### B: Anatomizing Susan Buck Morss’ “Hegel and Haiti”
-1.	Susan Buck Morss, “Hegel and Haiti,” Critical Inquiry 26:4 (Summer 2000)
-2.	Jean-Jacques Dessalines Declaration of Independence (1804)
-3.	Deborah Jensen, “Hegel and Dessalines: Philosophy and the African Diaspora,” New West Indian Guide vol. 84, n. 3-4 (2010).
-4.	Excerpt on the master-slave dialectic from Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit
-5.	Marcus Rainsford, An Historical Account of the Black Empire of Hayti (London: J. Cundee, 1805), Chapter 2 (pp. 95-108), and 361-364. Please also scan the Table of Contents and list Appendices (pp. xxi-xxii) to get a sense of the scope and aims of Rainsford's book.
+* 1. Susan Buck Morss, “Hegel and Haiti,” Critical Inquiry 26:4 (Summer 2000)
+* 2. Jean-Jacques Dessalines Declaration of Independence (1804)
+* 3. Deborah Jensen, “Hegel and Dessalines: Philosophy and the African Diaspora,” New West Indian Guide vol. 84, n. 3-4 (2010).
+* 4. Excerpt on the master-slave dialectic from Georg Wilhelm Friedrich Hegel, Phenomenology of Spirit
+* 5. Marcus Rainsford, An Historical Account of the Black Empire of Hayti (London: J. Cundee, 1805), Chapter 2 (pp. 95-108), and 361-364. Please also scan the Table of Contents and list Appendices (pp. xxi-xxii) to get a sense of the scope and aims of Rainsford's book.
 
 **Week 2, September 22: The Secondary Source in Historical Scholarship**
 
@@ -84,13 +84,13 @@ Methodology of Reading:
 For instructions, please see Appendix III.
 
 * 1. Amy Chazkel, “Research Notes from the Underworld: The Entry Logs of the Rio de Janeiro Casa de Detenção, 1860-1969” *Latin American Research Review* (2011)
-* 2.Manan Ahmed Asif, “Idols in the Archive,” *Journal of Asian Studies* (2014)
+* 2. Manan Ahmed Asif, “Idols in the Archive,” *Journal of Asian Studies* (2014)
 * 3. Michel Foucault, “Lives of Infamous Men,” in *Michel Foucault: Power, Truth, Strategy* (1977)
 * 4. Saidiya Hartman, “Venus in Two Acts,” *Small Axe* (2008)
 
 **Week 4, October 6: Data, Maps, Graphs**
 
-For instructions, please see Appendix IV. Groups will do either (Mapping Inequality: Redlining in New Deal America)[https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58] or (Tenement Housing in Rio de Janeiro, 1870s-1880s)[https://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=45&project_id=0].
+For instructions, please see Appendix IV. Groups will do either (https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58)[Mapping Inequality: Redlining in New Deal America] or (https://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=45&project_id=0)[Tenement Housing in Rio de Janeiro, 1870s-1880s].
 
 Readings (to be done by all):
 * 1. Mark Monmonier, *How to Lie with Maps* (1991): Introduction+Chp 3 “Map Generalization”+ Chp 9 “Data Maps”
@@ -103,8 +103,8 @@ Readings (to be done by all):
 Class Visit: Mary Marshall Clark
 Director, Columbia Center for Oral History Research
 
-* Readings on the practice and ethics of oral history, and selections from “Historicizing 9/11,” *Radical History Review* 111 (2011): Editors’ Introduction; O’Brien, “Contested Meaning of 9/11”; Mary Marshall Clark, “Heroditus Reconsidered”; Ann Cvetkovich, “Can the Diaspora Speak?”
-* In addition, please read this recent piece of journalism:
+* 1. Readings on the practice and ethics of oral history, and selections from “Historicizing 9/11,” *Radical History Review* 111 (2011): Editors’ Introduction; O’Brien, “Contested Meaning of 9/11”; Mary Marshall Clark, “Heroditus Reconsidered”; Ann Cvetkovich, “Can the Diaspora Speak?”
+* 2. In addition, please read this recent piece of journalism:
  https://www.middleeasteye.net/news/9-11-attacks-twenty-years-later-fear-still-lingers-brooklyn-little-pakistan
 
 
@@ -113,7 +113,7 @@ Director, Columbia Center for Oral History Research
 **Week 6, October 20**
 * Romila Thapar. *Sakuntala: Texts, Readings, Histories* (Columbia UP, 2011)
 
-** Week 7, October 27**
+**Week 7, October 27**
 * Shahid Amin. *Event, Metaphor, Memory: Chauri Chaura, 1922-1992* (UC Press, 1995)
 
 **Week 8, November 3**
@@ -199,7 +199,7 @@ Your essay should be an analytical piece of writing, rather than simply a descri
 
 ***
 
-### Final Assignment
+### APPENDIX V: Final Assignment
 
 For G1s: Submit an annotated bibliography for a MA seminar-level paper. This can be an early foray into what you expect will be your dissertation project; alternatively, it can be a parallel project that is not your dissertation, or a fictitious research project that you are interested in but have no concrete plans actually to bring to fruition.
 
