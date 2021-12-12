@@ -59,11 +59,12 @@ There are two types of writing assignments.
 ### February 9: The Question of Kingship
 *	Richards, John F, "The Formulation of Imperial Authority under Akbar and Jahangir," in *Kingship and Authority in South Asia*. ed. John F. Richards. Madison: University of Wisconsin (South Asian Studies Pub. No. 3), 1978
 *	Chattopadhyaya, B. D. “Political Processes and Structure of Polity in Early Medieval India: Problems of Perspective.” *Social Scientist* 13, no. 6 (1985): 3–34
-*	O’Hanlon, Rosalind. “Issues of Masculinity in North Indian History: The Bangash Nawabs of Farrukhabad.” Indian Journal of Gender Studies 4, no. 1 (March 1997): 1–19.
+*	O’Hanlon, Rosalind. “Issues of Masculinity in North Indian History: The Bangash Nawabs of Farrukhabad.” *Indian Journal of Gender Studies* 4, no. 1 (March 1997): 1–19.
 *	Inden, Ronald B. *Imagining India*. Indiana University Press, 1990. [chp 5]
 *	Subrahmanyam, Sanjay and David Shulman. "The Men Who Would Be King? The Politics of Expansion in Early Seventeenth-Century Northern Tamilnadu." *Modern Asian Studies* 24, no. (2) (1990): pp. 225-48
 
 ### February 16: The Question of the Peasant
+* Raychaudhuri, Tapan, "The Agrarian System of Mughal India, *Enquiry* vol 2, no. 1. Spring 1965, pp. 92-121.
 *	Habib, Irfan. *The Agrarian System of Mughal India*. Oxford: Oxford University Press, 1963. [chp 3-4]
 * Stein, Burton. *Peasant state and society in medieval South India* Delhi: Oxford University Press, 1980. [chp 2]
 *	Mukhia, Harbans. "Was There Feudalism in Indian History?" *Journal of Peasant Studies* 8, no. 3 (1981): 272-310.
@@ -73,7 +74,8 @@ There are two types of writing assignments.
 *	Habib, Mohammad. "Presidential Address," *Indian History Congress* December, 1947
 *	Chandra, Bipan, *The Rise and Growth of Economic Nationalism in India 1880-1905*. Delhi: Peoples Publishing House, 1966. [part 2 in *The Writings of Bipan Chandra*]
 *	Hasan, Mushirul. *Nationalism and Communal Politics in India 1885-1932*. New Delhi: Manohar, 1979. [chp 6-7]
-*	Chatterjee, Partha, *Nationalist Thought and The Colonial World: A Derivative Discourse*. Minneapolis: University of Minnesota Press, 1986.
+*	Chatterjee, Partha. *Nationalist Thought and The Colonial World: A Derivative Discourse*. Minneapolis: University of Minnesota Press, 1986.
+* Chatterjee, Partha, “History and the Nationalization Of Hinduism.” Social Research 59, no. 1 (1992): 111–49.
 *	Sarkar, Tanika, "Hindu Conjugality and Nationalism in Late Nineteenth Century Bengal." In *Indian Women: Myth and Reality*, Jasodhara Bagchi (ed.). Calcutta: Sangam Books Limited, 1995.
 *	Jalal, Ayesha. *Democracy and Authoritarianism in South Asia: A Comparative and Historical Perspective*. Cambridge: Cambridge University Press, 1995. [chp 2-3]
 
