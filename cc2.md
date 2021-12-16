@@ -23,7 +23,7 @@ This semester will focus on the emergence of disciplinary thought. The texts we 
 Please read these short essays over the break. Our first class will be a discussion of these essays. They are available in CW/Files&Resources.
 
 * Documentary (on Amazon Prime): Concerning Violence (2014) directed by Göran Olsson
-* Kristie Dotson "On the way to decolonization in a settler colony: Re-introducing Black feminist identity politics” (AlterNative, 2018) 
+* Kristie Dotson "On the way to decolonization in a settler colony: Re-introducing Black feminist identity politics” (AlterNative, 2018)
 * Achille Mbembe, "Decolonizing Knowledge and the Question of the Archive" (2015)
 
 #### Recommended ADDITIONAL Reading (Theoretical)
@@ -64,112 +64,117 @@ Columbia College is dedicated to the highest ideals of integrity in academia. Th
 John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790), Immanuel Kant (1724-1804), Edmund Burke (1729-1797), Olympe de Gouges (1748-1793), G. W. F. Hegel (1770-1831), Jeremy Bentham (1748-1832), Thomas Babington Macaulay (1800-1859), Alexis de Tocqueville (1805-1859), Charles Darwin (1809-1882), John Stewart Mill (1806-1873), Herbert Spencer (1820-1903),  Karl Marx (1818-1883), Friedrich Nietzsche (1844-1900), W. E. B. Du Bois (1868-1963), Mohandas K. Gandhi (1869-1948), Vladimir Lenin (1870-1924), Rosa Luxemburg (1871-1919), Sigmund Freud (1856-1939), Walter Benjamin (1892-1940), Simone de Beauvoir (1908-1986), Aimé Césaire (1913-2008), Frantz Fanon (1925-1961), Hannah Arendt (1906-1975), Michel Foucault (1926-1984), Sylvia Wynter (b. 1928), Hortense Spillers (b. 1942). The gender and racial disparity is reflective of the Core's set syllabus. However, we will approach the authors and their works from feminist, deconstructive, and subaltern perspectives.
 
 ### COURSE SCHEDULE
+* Wednesday, January 19
+  * Catching up
+  * Discussion of the Break Essays
 
-* Tuesday, January 21, 2020
-  - Introductions + Break Essay discussion
+* Monday, January 24
+  * David Hume, *Of National Characters* (1748)  
+  * Jean Jacques Rousseau, *Discourse on the Origin and Basis of Inequality Among Men,* 1755  
 
-* Thursday, January 23, 2020
-  - Francis Bacon, "A Specimen of the Persian Magick," 1606 (CW) 
-  - John Locke, "The Fundamental Constitutions of Carolina" (1669) (CW)
-  - Jean Jacques Rousseau, Essay on the Origins of Language (1762) (CW)
+* Wednesday, January 26
+  * Adam Smith, *Theory of Moral Sentiment* (1759): Part V  
+  * Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1 (Chp 1-4), Book 3 (Chp 1), Book 4 (Chp 6, 7)  
 
-* Tuesday, January 28, 2020
-  * David Hume, Of National Characters (1748) (CW)
-  * Adam Smith, Theory of Moral Sentiment (1759): Part V (CW)
-  * Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (1776): Book 1 (Chp 1-4), Book 3 (Chp 1), Book 4 (Chp 6, 7) (CW)
+* Monday, January 31
+  * Immanuel Kant, *Groundwork of the Metaphysics of Morals* (1785): Preface, First Section  
+  * Immanuel Kant, *"Of the Different Human Races"* (1777)
+  * Immanuel Kant, *Anthropology from a Pragmatic Point of View* (1798): 204-238  
 
-* Thursday, January 30, 2020
-  * Immanuel Kant, Groundwork of the Metaphysics of Morals (1785): Preface, First Section (CW)
-  * Immanuel Kant, Anthropology from a Pragmatic Point of View (1798): 149-224 (CW)
+* Wednesday, February 2
+  * Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne* (Declaration of Rights of Women and the Female Citizen), 1791  
+  * Mary Wollstonecraft, *Vindication of the Rights of Woman: with Strictures on Political and Moral Subjects*, (1792)
 
-* Tuesday, February 4, 2020
-  * Edmund Burke, Speech in the Impeachment of Warren Hastings (1788) (CW)
+* Monday, February 7
+  * Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation,* [chp 1] 1789  
+  * Jeremy Bentham, *Panopticon; Or, The Inspection House,* 1791
+  * https://www.youtube.com/watch?v=Myal-NSlIGA
 
-* Thursday, February 6, 2020
-  * Olympe de Gouges- Déclaration des droits de la femme et de la citoyenne (Declaration of Rights of Women and the Female Citizen), 1791 (CW)
-  * Haitian Declaration of Independence, 1804 (CW)
-  * The Constitution of Haiti, 1805 (CW)
+* Wednesday, February 9
+  * *Haitian Declaration of Independence*, 1804  
+  * *The Constitution of Haiti*, 1805  
 
-* Tuesday, February 11, 2020
-  * W. F. Hegel, Vorlesungen über die Philosophie der Weltgeschichte (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic Basis of History, Part I: The Oriental World (China, India, Persia), Part IV: The German World (Mohamatanism, Art and Science as Putting a Period to the Middle Ages, The Éclaircissement and Revolution) (CW)
+* Monday, February 14
+  * W. F. Hegel, *Vorlesungen über die Philosophie der Weltgeschichte* (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic Basis of History, Part I: The Oriental World (China, India, Persia), Part IV: The German World (Mohamatanism, Art and Science as Putting a Period to the Middle Ages, The Éclaircissement and Revolution)  
 
-* Thursday, February 13, 2020
-  * Thomas Babington Macaulay, Government of India, 1833 (CW)
-  * Jeremy Bentham, Panopticon; or the Inspection-House: containing the Idea of a New Principle of Construction applicable to any sort of Establishment, in which Persons of any Description are to be kept under Inspection, 1838 (CW)
+  * Wednesday, February 16
+  * Thomas Babington Macaulay, *Government of India*, 1833  
+  * Thomas Babington Macaulay, *Minutes on Education*, 1835
 
-* Tuesday, February 18, 2020
-  * Alexis de Tocqueville, De la démocratie en Amérique (Democracy in America), 1835-40: Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10; Vol 2: Part 1: Chp 1; Chp 3; Part 2, Chp 12; Part 4, Chp: 2, 3, 4 (CW)
-  * Beaumont & Tocqueville, On the Penitentiary System in the United States, 1833. Selections (CW)
+* Monday, February 21
+  * Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America), 1835-40: Vol 1: Part 1, Chp 3-4, Part 2, Chp 7,8,9,10; Vol 2: Part 1: Chp 1, 3; Part 2, Chp 12; Part 4, Chp: 3, 4  
+  * Beaumont & Tocqueville, *On the Penitentiary System in the United States*, 1833. Selections  
 
-* Thursday, February 20, 2020
-  * Charles Darwin, Origins of Species, 1859: Chapter IV (CW)
-  * Charles Darwin, Letter to Walter Elliot (23 Jan 1856) http://www.darwinproject.ac.uk/entry-1824 (CW)
-  * Charles Darwin, Selections from The Beagle Diary, 1839  (CW)
+* Wednesday, February 23
 
-* Tuesday, February 25, 2020
-  * John Stewart Mill, The Petition of the East India Company, 1858 (CW)
-  * John Stewart Mill, On Liberty, 1859 (CW)
+  * *Proclamation by Queen Victoria*, 1858
+  * *Proclamation by Queen of Awadh*, 1858
+  * Sojourner Truth, *“Ain’t I a Woman?"*, 1851 & 1863  
 
-* Thursday, February 27, 2020
-  * Herbert Spencer, Social Organism, 1860 (CW)
-  * Francis Galton, Hereditary Genius: An Inquiry into its Laws and Consequences, 1869 (CW)
+* Monday, February 28
+  * Charles Darwin, *Origins of Species*, 1859: Chapter IV  
+  * Charles Darwin, "Letter to Walter Elliot" (23 Jan 1856) http://www.darwinproject.ac.uk/entry-1824  
+  * Charles Darwin, Selections from *The Beagle Diary*, 1839   
 
-* Tuesday, March 3, 2020
-  * Karl Marx, Das Kapital: Kritik der politischen Ökonomie (Capital: Critique of Political Economy), 1867: Vol 1, Part 1: Chapter 1 and Part 2: Chapter 4 (CW)
-  * Karl Marx, "British Rule in India" and "Indian Question," 1857, (CW)
-  * Karl Marx, Thesis on Feuerbach, 1845 (CW)
+* Wednesday, March 2
+  * John Stewart Mill, *The Petition of the East India Company*, 1858  
+  * John Stewart Mill, *On Liberty*, 1859  
+  * Mill, “On the Negro Question,” 1849
 
-* Thursday, March 5, 2020
-  * Friedrich Nietzsche, Zur Genealogie der Moral (On the Genealogy of Morality), 1887: First Essay ('Good and Evil', 'Good and Bad') (CW)
-  * Friedrich Nietzsche, "On the Uses and Disadvantages of History for Life," 1874 (CW)
+* Monday, March 7
+  * Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy), 1867: Vol 1, Part 1: Chapter 1 and Part 2: Chapter 4  
+  * Karl Marx, "British Rule in India" and "Indian Question," 1857,   
 
-* Tuesday, March 10, 2020
-  * W. E. B. Du Bois, The Souls of Black Folk, 1903: Chapter 1, 2, 3, 9, 14
-  * W. E. B. Du Bois, "Of the Culture of White Folks", 1917. (CW)
-  * W. E. B. Du Bois, "The Disenfranchised Colonies," 1945 (CW)
+* Wednesday, March 9
+  * Herbert Spencer, *Social Organism*, 1860  
+  * Francis Galton, *Hereditary Genius: An Inquiry into its Laws and Consequences*, 1869  
 
-* Thursday, March 12, 2020
-  * Rosa Luxemburg, Massenstreik, Partei und Gewerkschaften (Mass Strike, The Party and the Trade Union), 1906 (CW)
-  * Rosa Luxemburg, Letters (Selections) (CW)
+* Monday, March 21
+  * W. E. B. Du Bois, *The Souls of Black Folk*, 1903: Chapter 1, 2, 3, 9, 14
+  * W. E. B. Du Bois, "Of the Culture of White Folks", 1917.  
+  * Berlin Conference 1885
+  * W. E. B. Du Bois, "The Disenfranchised Colonies," 1945  
 
-* Tuesday, March 24, 2020
-  * Mohandas K. Gandhi, Hind Swaraj, 1909: Section 4, 6, 8, 9, 11, 12, 13, 16, 17
+* Wednesday, March 23
+  * Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union), 1906  
+  * Rosa Luxemburg, *Letters* (1-27)  
 
-* Thursday, March 26, 2020
-  * Sigmund Freud, Totem and Taboo, 1913. (CW)
+* Monday, March 28
+  * Mohandas K. Gandhi, *Hind Swaraj*, 1909: FULL Section 4, 6, 8, 9, 11, 12, 13, 16, 17
 
-* Tuesday, March 31, 2020
-  * V. I. Lenin, Imperialism: The Highest Stage of Capitalism, 1916 (CW)
+* Wednesday, March 30
+  * Ambedkar, B. R. *Annihilation of Caste*, 1936
 
-* Thursday, April 2, 2020
-  * Walter Benjamin, Über den Begriff der Geschichte (Thesis on the Concept of History), 1940 (CW)
+* Monday, April 4
+  * Simone de Beauvoir, *Le Deuxième Sexe* (Second Sex), 1949: Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion  
 
-* Tuesday, April 7, 2020
-  * Simone de Beauvoir, Le Deuxième Sexe (Second Sex), 1949: Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (CW)
+* Wednesday, April 6
+  * Suzanne Césaire, "The Great Camouflage," 1943
+  * Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism), 1950.
 
-* Thursday, April 9, 2020
-  * Aimé Césaire, Poetry and Knowldege, 1944.
-  * Aimé Césaire, Discours sur le colonialisme (Discourse on Colonalism), 1950.
+* Monday, April 11
+  * Hannah Arendt, *Imperialism: The Origins of Totalitarianism*, 1958: Chapters, Race-Thinking Before Racism, Race and Bureaucracy and The Decline of the Nation-State and the End of the Rights of Man
 
-* Tuesday, April 14, 2020
-  * Hannah Arendt, Imperialism: The Origins of Totalitarianism, 1958: Chapters, Race-Thinking Before Racism, Race and Bureaucracy and The Decline of the Nation-State and the End of the Rights of Man
+* Wednesday, April 13
+  * Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth), 1961: chapter 1 and Conclusion.
+  * Declaration on the Right to Insubordination in the War in Algeria (The Manifesto of the 121), 1960  
 
-* Thursday, April 16, 2020
-  * Franz Fanon, Les Damnés de la Terre (The Wretched of the Earth), 1961: chapter 1 and Conclusion.
-  * Declaration on the Right to Insubordination in the War in Algeria (The Manifesto of the 121), 1960 (CW)
+* Monday, April 18
+  * https://soundcloud.com/patty-wbk/the-structure-of-racism (Links to an external site.) Kim TallBear Podcast
+  * Michel Foucault, *Surveiller et Punir: Naissance de la prison* (Discipline and Punish), 1975: Part 1, chp 1; Part 3, chp 3; part 4, chp 3  
 
-* Tuesday, April 21, 2020
-  * Michel Foucault, Surveiller et Punir: Naissance de la prison (Discipline and Punish), 1975: Part 1; Part 3, chp 3; part 4, chp 3 (CW)
-
-* Thursday, April 23, 2020
+* Wednesday, April 20
   * The Combahee River Collective Statement (1974)
-  * Hortense Spillers, Mama's Baby, Papa's Maybe: An American Grammar Book (1987)
+  * Hortense Spillers, "Mama's Baby, Papa's Maybe: An American Grammar Book" (1987)
   * Sylvia Wynter, "‘No Humans Involved’: An open letter to my colleagues" (1992).
 
-* Tuesday, April 28, 2020
-  * Jean-Baptiste Joseph Fourier. “On the Temperatures of the Terrestrial Sphere and Interplanetary Space, 1824.
-  * S. Callendar, “The Artificial Production of Carbon Dioxide and its Influence on Temperature,”1938.
-  * Syukuro Manabe and Richard T. Wetherald, “The Effects of Doubling the CO2Concentration on the Climate of a General Circulation Model,” 1975
+* Monday, April 25
+  * Charles Mills, *Racial Contract* (1997)
+  * Saadiya Hartman “Venus in Two Acts” (2008)
 
-* Thursday, April 30, 2020
+* Wednesday, April 27
+  * Dipesh Chakrabarty, “The Climate of History: Four Theses” (2009)
+  * Kyle Powys Whyte, “Is it Colonial Déjà Vu? Indigenous Peoples and Climate Injustice” In *Humanities for the Environment: Integrating Knowledges, Forging New Constellations of Practice*. Edited by J. Adamson, M. Davis, and H. Huang, pgs. 88-104 (2017)
+
+* Monday, May 2
   * Conclusions
