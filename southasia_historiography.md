@@ -64,8 +64,9 @@ There are two types of writing assignments.
 *	Subrahmanyam, Sanjay and David Shulman. "The Men Who Would Be King? The Politics of Expansion in Early Seventeenth-Century Northern Tamilnadu." *Modern Asian Studies* 24, no. (2) (1990): pp. 225-48
 
 ### February 16: The Question of the Peasant
+*	Habib, Irfan. *The Agrarian System of Mughal India*. Oxford: Oxford University Press, 1963. [chp 9]
 * Raychaudhuri, Tapan, "The Agrarian System of Mughal India, *Enquiry* vol 2, no. 1. Spring 1965, pp. 92-121.
-*	Habib, Irfan. *The Agrarian System of Mughal India*. Oxford: Oxford University Press, 1963. [chp 3-4]
+* Hasan, Nurul. "Zamindars under the Mughals," *Land Control and Social Structure in Indian History*, R.E. Frykenberg (ed.). Madison: University of Wisconsin Press, 1969.
 * Stein, Burton. *Peasant state and society in medieval South India* Delhi: Oxford University Press, 1980. [chp 2]
 *	Mukhia, Harbans. "Was There Feudalism in Indian History?" *Journal of Peasant Studies* 8, no. 3 (1981): 272-310.
 *	Guha, Ranajit, "The Prose of Counter-Insurgency" in Ranajit Guha, *Subaltern Studies II*, Oxford: Oxford University Press, 1983 pp. 45-86
