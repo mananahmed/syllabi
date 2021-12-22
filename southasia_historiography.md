@@ -75,7 +75,7 @@ There are two types of writing assignments.
 *	Habib, Mohammad. "Presidential Address," *Indian History Congress* December, 1947
 *	Chandra, Bipan, *The Rise and Growth of Economic Nationalism in India 1880-1905*. Delhi: Peoples Publishing House, 1966. [part 2 in *The Writings of Bipan Chandra*]
 *	Hasan, Mushirul. *Nationalism and Communal Politics in India 1885-1932*. New Delhi: Manohar, 1979. [chp 6-7]
-*	Chatterjee, Partha. *Nationalist Thought and The Colonial World: A Derivative Discourse*. Minneapolis: University of Minnesota Press, 1986.
+*	Chatterjee, Partha. *Nationalist Thought and The Colonial World: A Derivative Discourse*. Minneapolis: University of Minnesota Press, 1986. [chp 1-2]
 * Chatterjee, Partha, “History and the Nationalization Of Hinduism.” Social Research 59, no. 1 (1992): 111–49.
 *	Sarkar, Tanika, "Hindu Conjugality and Nationalism in Late Nineteenth Century Bengal." In *Indian Women: Myth and Reality*, Jasodhara Bagchi (ed.). Calcutta: Sangam Books Limited, 1995.
 *	Jalal, Ayesha. *Democracy and Authoritarianism in South Asia: A Comparative and Historical Perspective*. Cambridge: Cambridge University Press, 1995. [chp 2-3]
