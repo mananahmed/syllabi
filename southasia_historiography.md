@@ -70,6 +70,7 @@ There are two types of writing assignments.
 * Stein, Burton. *Peasant state and society in medieval South India* Delhi: Oxford University Press, 1980. [chp 2]
 *	Mukhia, Harbans. "Was There Feudalism in Indian History?" *Journal of Peasant Studies* 8, no. 3 (1981): 272-310.
 *	Guha, Ranajit, "The Prose of Counter-Insurgency" in Ranajit Guha, *Subaltern Studies II*, Oxford: Oxford University Press, 1983 pp. 45-86
+* Spivak, Gayatri, "Subaltern Studies: Deconstructing Historiography,” *Subaltern Studies IV*, Oxford: Oxford University Press, 1986, pp. 3-32.
 
 ### February 23: The Question of the Nation
 *	Habib, Mohammad. "Presidential Address," *Indian History Congress* December, 1947
@@ -92,7 +93,7 @@ There are two types of writing assignments.
 *	Hardy, Peter. *The Muslims of British India*. Cambridge: Cambridge University Press, 1972. [chp 1-3-4-9]
 *	Eaton, Richard. *The Sufis of Bijapur, 1300-1700: Social Role of Sufis in Medieval India*. Princeton U. Press, 1978 [chp 4-6, 8-10]
 * Metcalf, Barbara D. “Nationalist Muslims in British India: The Case of Hakim Ajmal Khan.” *Modern Asian Studies* 19, no. 1 (1985): 1–28
-*	Pandey, Gyanendra. "The Colonial Construction of 'Communalism': British Writings on Banaras in the Nineteenth Century," in *Mirrors of Violence: Communities, Riots and Survivors in South Asia*, Veena Das (ed.). Delhi: Oxford University Press, 1990: 94-135.
+*	Pandey, Gyanendra. "The Colonial Construction of 'Communalism'" *The Construction of Communalism in North India*. Delhi: Oxford University Press, 1990.
 
 ### March 23: The Question of Caste
 *	Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications* (Oxford: Oxford University Press, 1970)[chp 2-3-4-5]
