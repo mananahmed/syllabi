@@ -76,7 +76,7 @@ There are two types of writing assignments.
 *	Habib, Mohammad. "Presidential Address," *Indian History Congress* December, 1947
 *	Chandra, Bipan, *The Rise and Growth of Economic Nationalism in India 1880-1905*. Delhi: Peoples Publishing House, 1966. [part 2 in *The Writings of Bipan Chandra*]
 *	Hasan, Mushirul. *Nationalism and Communal Politics in India 1885-1932*. New Delhi: Manohar, 1979. [chp 6-7]
-*	Chatterjee, Partha. *Nationalist Thought and The Colonial World: A Derivative Discourse*. Minneapolis: University of Minnesota Press, 1986. [chp 1-2]
+*	Amin, Shahid. "Gandhi as Mahatma: Gorakhpur District, Eastern UP, 1921-2" *Subaltern Studies* no. 3, Ranajit Guha (ed.) Delhi: Oxford University Press, 1984
 * Chatterjee, Partha, “History and the Nationalization Of Hinduism.” Social Research 59, no. 1 (1992): 111–49.
 *	Sarkar, Tanika, "Hindu Conjugality and Nationalism in Late Nineteenth Century Bengal." In *Indian Women: Myth and Reality*, Jasodhara Bagchi (ed.). Calcutta: Sangam Books Limited, 1995.
 *	Jalal, Ayesha. *Democracy and Authoritarianism in South Asia: A Comparative and Historical Perspective*. Cambridge: Cambridge University Press, 1995. [chp 2-3]
@@ -103,16 +103,19 @@ There are two types of writing assignments.
 * Guru, Gopal, "The Politics of Naming," *Seminar* 471, ‘Dalit’, November 1998, pp. 14-18
 
 ### March 30: The Question of the Riot
-*	Das, Veena. “Introduction: Communities, Riots, Survivors--The South Asian Experience,” in *Mirrors of Violence: Communities, Riots and Survivors in South Asia*, Veena Das (ed.). Delhi: Oxford University Press, 1990: 1-37
-*	Das, Suranjan. Communal Riots in Bengal 1905-1947. Oxford University Press, Delhi 1991 [chp 2-4-5-6]
+*	Yang, Anand A. “Sacred Symbol and Sacred Space in Rural India: Community Mobilization in the ‘Anti-Cow Killing’ Riot of 1893.” *Comparative Studies in Society and History* 22, no. 4 (1980): 576–96.
+* Tanika Sarkar, "Communal Riots in Bengal," *Communal and Pan-Islamic Trends in Colonial India*, Mushirul Hasan (ed.). New Delhi, 1985
+*	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” *Anthropology Today* 1, no. 3 (1985): 4–6.
 *	Pandey, Gyanendra, 'In Defence of the Fragment: Writing about Hindu-Muslim Riots in India Today', *Representations*, 37 (Winter, 1992).
-* Amin, Shahid. *Event, Metaphor, Memory: Chauri Chaura 1922-1992* Delhi: Oxford University Press, 1995.[chp 4-5-6-7-8-9]
+
 
 ### April 6: The Question of Language
-*	Brass, Paul. *Language, Religion, and Politics in North India*. Cambridge: Cambridge University Press, 1974.
-* Alam, Muzaffar. “The Pursuit of Persian: Language in Mughal Politics.” Modern Asian Studies 32, no. 2 (1998): 317–49.
+*	Brass, Paul R. “Muslim Separatism in United Provinces: Social Context and Political Strategy before Partition.” *Economic and Political Weekly* 5, no. 3/5 (1970): 167–86.
 *	King, Christopher. *One language, Two scripts: The Hindi movement in nineteenth century North India*. Oxford University Press, 1994 [chp 3-4-5]
 *	Ramaswamy, Sumathi. *Passions of the Tongue: Language Devotion in Tamil India, 1891-1970*. University of California Press, Berkeley, 1997. [chp 1-2-3]
+* Chatterjee, Kumkum. “History as Self-Representation: The Recasting of a Political Tradition in Late Eighteenth-Century Eastern India.” *Modern Asian Studies* 32, no. 4 (1998): 913–48.
+* Alam, Muzaffar. “The Pursuit of Persian: Language in Mughal Politics.” *Modern Asian Studies* 32, no. 2 (1998): 317–49.
+* Orsini, Francesca. “What Did They Mean by ‘Public’? Language, Literature and the Politics of Nationalism.” *Economic and Political Weekly* 34, no. 7 (1999): 409–16.
 
 ### April 13: The Question of Labour
 *	Chandavarkar, Rajnarayan. *The Origins of Industrial Capitalism: Business Strategies and the Working Classes in Bombay, 1900–1940*. Cambridge: Cambridge University Press, 1994 [chp 2-3-4-6]
