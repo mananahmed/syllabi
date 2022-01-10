@@ -25,9 +25,9 @@ To be clear, this is not a course on the history of South Asia, nor are we going
 The class is designed as a graduate-level discussion seminar. Doing full and complete assigned readings, plus any further research to understand the historiography or theory, is necessary for full participation in the class. You are also expected to act respectfully and with an open disposition with your peers and colleagues. You should respect both the intellectual and social space of the seminar room.
 
 * March 1: Annotated Bibliography of an Event (~15 entries): 20%
-* May 1: Final Essay (5000 words): 30%
-* CW weekly discussion posts (each ~300-500 words): 25%
-* Class Participation: 25%
+* May 1: Final Essay (5000 words): 40%
+* CW weekly discussion posts (each ~300-500 words): 30%
+* Class Participation: 10%
 
 There are two types of writing assignments.
 
