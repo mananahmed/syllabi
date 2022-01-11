@@ -70,6 +70,7 @@ There are two types of writing assignments.
 * Raychaudhuri, Tapan, "The Agrarian System of Mughal India, *Enquiry* vol 2, no. 1. Spring 1965, pp. 92-121.
 * Hasan, Nurul. "Zamindars under the Mughals," *Land Control and Social Structure in Indian History*, R.E. Frykenberg (ed.). Madison: University of Wisconsin Press, 1969.
 * Stein, Burton. *Peasant state and society in medieval South India* Delhi: Oxford University Press, 1980. [chp 2]
+* Sharma, R. S. “How Feudal Was Indian Feudalism?” *Social Scientist* 12, no. 2 (1984): 16–41. 
 *	Mukhia, Harbans. "Was There Feudalism in Indian History?" *Journal of Peasant Studies* 8, no. 3 (1981): 272-310.
 *	Guha, Ranajit, "The Prose of Counter-Insurgency" in Ranajit Guha, *Subaltern Studies II*, Oxford: Oxford University Press, 1983 pp. 45-86
 * Spivak, Gayatri, "Subaltern Studies: Deconstructing Historiography,” *Subaltern Studies IV*, Oxford: Oxford University Press, 1986, pp. 3-32.
