@@ -25,16 +25,16 @@ To be clear, this is not a course on the history of South Asia, nor are we going
 The class is designed as a graduate-level discussion seminar. Doing full and complete assigned readings, plus any further research to understand the historiography or theory, is necessary for full participation in the class. You are also expected to act respectfully and with an open disposition with your peers and colleagues. You should respect both the intellectual and social space of the seminar room.
 
 * March 1: Annotated Bibliography of an Event (~15 entries): 20%
-* May 1: Final Essay (5000 words): 40%
+* May 1: Final Essay (min. 5000 words): 40%
 * CW weekly discussion posts (each ~300-500 words): 30%
 * Class Participation: 10%
 
 There are two types of writing assignments.
 
-1. First, your weekly discussion posts which should be around 500 words. They should reflect thinking across all the assigned readings under the week's topic and aim to be substantively thematic and summary in nature. A typical assignment would try and answer how the theme for the week (the question of ...) is answered by the collected readings but focusing on the chronology, academic locality, and intellectual arguments across the readings.
-2. The final essay covers the historiography of a singular event–built around a primary source or sources. Certain events have created enormous historiographies: 16 December 1971 (the creation of Bangladesh) or 6 December 1992 (destruction of Babri Masjid) are such two major events*. You can either choose one of these events or propose another event from from this period. The first step is to create an annotated bibliography (due March 1) on the event you choose, focusing on historical writing before or after the event, including at least 2 primary sources: these can can be legal, diplomatic, visual, media, oral histories, memoirs etc. The final essay will be your reading of the event, through a particular slice of historiography of the event, incorporating your own reading of primary sources.
+1. First, your weekly discussion posts which should be around 500 words. They should reflect thinking across all the assigned readings under the week's topic and aim to be substantively thematic and summary in nature. A typical assignment would try and answer how the theme for the week (the question of ...) is answered by the collected readings but focusing on the chronology, academic locality, and intellectual arguments across the readings. All students (auditors included) are expected to do this weekly assignment on Ed Discussion (CW).
+2. The final essay covers the historiography of a singular event–built around a primary source or sources. Certain events have created enormous historiographies: 16 December 1971 (the creation of Bangladesh) or 6 December 1992 (destruction of Babri Masjid) are such two major events (see below). You can either choose one of these events or propose another event from from this period. The first step is to create an annotated bibliography (due March 1) on the event you choose, focusing on historical writing before or after the event, including at least 2 primary sources: these can can be legal, diplomatic, visual, media, oral histories, memoirs etc. The final essay will be your reading of the event, through a particular slice of historiography of the event, incorporating your own reading of primary sources.
 
->[* On thinking about the "Event" see Shahid Amin. *Event, Metaphor, Memory: Chauri Chaura, 1922-1992* (William Sewell. *Logics of History: Social Theory and Social Transformation* (Univ. of Chicago Press, 2005), Michel-Rolph Trouillot. *Silencing the Past: Power and the Production of History* (Boston: Beacon Press, 1995) and Shahid Amin. *Event, Metaphor, Memory: Chauri Chaura 1922–1992*. Berkeley and Los Angeles: University of California Press. 1995.]
+>EVENT: On thinking about the "Event" see William Sewell. *Logics of History: Social Theory and Social Transformation* (Univ. of Chicago Press, 2005), Michel-Rolph Trouillot. *Silencing the Past: Power and the Production of History* (Boston: Beacon Press, 1995) and Shahid Amin. *Event, Metaphor, Memory: Chauri Chaura 1922–1992*. Berkeley and Los Angeles: University of California Press. 1995.
 
 ## Course Readings & Timeline
 
@@ -71,7 +71,7 @@ There are two types of writing assignments.
 * Hasan, Nurul. "Zamindars under the Mughals," *Land Control and Social Structure in Indian History*, R.E. Frykenberg (ed.). Madison: University of Wisconsin Press, 1969.
 * Stein, Burton. *Peasant state and society in medieval South India* Delhi: Oxford University Press, 1980. [chp 2]
 *	Mukhia, Harbans. "Was There Feudalism in Indian History?" *Journal of Peasant Studies* 8, no. 3 (1981): 272-310.
-* Sharma, R. S. “How Feudal Was Indian Feudalism?” *Social Scientist* 12, no. 2 (1984): 16–41. 
+* Sharma, R. S. “How Feudal Was Indian Feudalism?” *Social Scientist* 12, no. 2 (1984): 16–41.
 *	Guha, Ranajit, "The Prose of Counter-Insurgency" in Ranajit Guha, *Subaltern Studies II*, Oxford: Oxford University Press, 1983 pp. 45-86
 * Spivak, Gayatri, "Subaltern Studies: Deconstructing Historiography,” *Subaltern Studies IV*, Oxford: Oxford University Press, 1986, pp. 3-32.
 
