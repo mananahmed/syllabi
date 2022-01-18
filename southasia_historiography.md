@@ -121,6 +121,7 @@ There are two types of writing assignments.
 * Orsini, Francesca. “What Did They Mean by ‘Public’? Language, Literature and the Politics of Nationalism.” *Economic and Political Weekly* 34, no. 7 (1999): 409–16.
 
 ### April 13: The Question of Labour
+* Arnold, David, "The Colonial Prison: Power, Knowledge and Penology in Ninteenth-Century India," *Subaltern Studies VIII: Essays in honour of Ranajit Guha* David Arnold, David Hardiman (eds.) New Delhi: Oxford University Press, 1994: 148-184.
 *	Chandavarkar, Rajnarayan. *The Origins of Industrial Capitalism: Business Strategies and the Working Classes in Bombay, 1900–1940*. Cambridge: Cambridge University Press, 1994 [chp 2-3-4-6]
 *	Sen, Samita. *Women and Labour in Late Colonial India. The Bengal Jute Industry*. Cambridge University Press, Cambridge, 1999. [chp 2-3-4]
 
