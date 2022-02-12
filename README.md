@@ -2,7 +2,7 @@ syllabi
 =======
 
 This is the repository for my course syllabi-- 2013-onwards
-* [History of South Asia I](/syllabi/historical_methods_skills.md)--undergraduate)-- SAsyll.md
+* [History of South Asia I](syllabi/SAsyll.md)--undergraduate)-- SAsyll.md
 * Worlds of Mughal India (undergraduate)-- mughalworld.md
 * Walking and Colonialism (undergraduate)-- wandc.md
 * Borderlands (graduate)-- borderlands.md & borderlands2017.md & borderlands2019.md
