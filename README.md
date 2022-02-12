@@ -1,4 +1,4 @@
-syllabi
+Repository of course syllabi for Manan Ahmed
 =======
 
 This is the repository for my course syllabi-- 2013-onwards
