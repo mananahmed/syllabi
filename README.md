@@ -10,3 +10,4 @@ This is the repository for my course syllabi-- 2013-onwards
 * Comparative Civilizations II (undergraduate)-- cc2.md
 * Agent, Subject, Objecty: Early Modern South Asia (graduate)-- agentsubjectobject.md
 * Colonization/Decolonization (undergraduate)--Col_Decol.md
+* South Asia: Historiography in Question (graduate)--southasia_historiography.md
