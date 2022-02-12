@@ -3,7 +3,7 @@ syllabi
 
 This is the repository for my course syllabi-- 2013-onwards
 * [History of South Asia I](SAsyll.md)--undergraduate lecture (taught every Fall)
-* [Worlds of Mughal India] (mughalworld.md)--undergraduate seminar
+* [Worlds of Mughal India](mughalworld.md)--undergraduate seminar
 * [Walking and Colonialism](wandc.md)--undergraduate seminar
 * [Borderlands 2015](borderlands.md), [Borderlands 2017](borderlands2017.md), [Borderlands 2019](borderlands2019.md)--graduate seminar often co-taught with Karl Jacoby
 * [Comparative Civilizations I](cc1.md)--undergraduate seminar on political philosophy
