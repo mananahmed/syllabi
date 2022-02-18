@@ -77,7 +77,7 @@ There are two types of writing assignments.
 
 ### February 23: The Question of the Nation
 *	Habib, Mohammad. "Presidential Address," *Indian History Congress* December, 1947
-*	Chandra, Bipan, *The Rise and Growth of Economic Nationalism in India 1880-1905*. Delhi: Peoples Publishing House, 1966. [chapter 9, part 2 in *The Writings of Bipan Chandra*]
+*	Chandra, Bipan, "Economic Nationalism," *The Rise and Growth of Economic Nationalism in India 1880-1905*. Delhi: Peoples Publishing House, 1966. [chapter 9, part 2 in *The Writings of Bipan Chandra*]
 *	Hasan, Mushirul. *Nationalism and Communal Politics in India 1885-1932*. New Delhi: Manohar, 1979. [chp 6-7]
 *	Amin, Shahid. "Gandhi as Mahatma: Gorakhpur District, Eastern UP, 1921-2" *Subaltern Studies* no. 3, Ranajit Guha (ed.) Delhi: Oxford University Press, 1984
 * Chatterjee, Partha, “History and the Nationalization Of Hinduism.” Social Research 59, no. 1 (1992): 111–49.
