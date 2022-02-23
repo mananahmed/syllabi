@@ -82,7 +82,8 @@ There are two types of writing assignments.
 *	Amin, Shahid. "Gandhi as Mahatma: Gorakhpur District, Eastern UP, 1921-2" *Subaltern Studies* no. 3, Ranajit Guha (ed.) Delhi: Oxford University Press, 1984
 * Chatterjee, Partha, “History and the Nationalization Of Hinduism.” Social Research 59, no. 1 (1992): 111–49.
 *	Sarkar, Tanika, "Hindu Conjugality and Nationalism in Late Nineteenth Century Bengal." In *Indian Women: Myth and Reality*, Jasodhara Bagchi (ed.). Calcutta: Sangam Books Limited, 1995.
-*	Jalal, Ayesha. *Democracy and Authoritarianism in South Asia: A Comparative and Historical Perspective*. Cambridge: Cambridge University Press, 1995. [chp 2-3]
+*	Jalal, Ayesha. *Democracy and Authoritarianism in South Asia: A Comparative and Historical Perspective*. Cambridge: Cambridge University Press, 1995. [chp 2]
+* Jalal, Ayesha. “Conjuring Pakistan: History as Official Imagining.” *International Journal of Middle East Studies* 27, no. 1 (1995): 73–89.
 
 ### March 2: The Question of the Woman
 *	Minault, Gail. “Begamati Zuban: Women’s Language and Culture in Nineteenth-Century Delhi.” *India International Centre Quarterly* 11, no. 2 (1984): 155–70.
