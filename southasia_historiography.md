@@ -99,27 +99,26 @@ There are two types of writing assignments.
 * Metcalf, Barbara D. “Nationalist Muslims in British India: The Case of Hakim Ajmal Khan.” *Modern Asian Studies* 19, no. 1 (1985): 1–28
 *	Pandey, Gyanendra. "The Colonial Construction of 'Communalism'" *The Construction of Communalism in North India*. Delhi: Oxford University Press, 1990.
 
-### March 23: The Question of Caste
-*	Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications* (Oxford: Oxford University Press, 1970)[chp 2-3-4-5]
-* Appadurai, Arjun. "Review of Is Homo Hierarchicus?, by E. Valentine Daniel, Ravindra S. Khare, and Ashis Nandy". *American Ethnologist* 13, no. 4 (1986): 745–61
-* Dirks, Nicholas B. “Castes of Mind.” *Representations*, no. 37 (1992): 56–78
-*	Omvedt, Gail. *Dalits and the Democratic Revolution: Dr. Ambedkar and the Dalit Movement in Colonial India*. Thousand Oaks: Sage, 1994.[chp 3-4-7-8-9]
-* Guru, Gopal, "The Politics of Naming," *Seminar* 471, ‘Dalit’, November 1998, pp. 14-18
-
-### March 30: The Question of the Riot
+### March 23: The Question of the Riot
 *	Yang, Anand A. “Sacred Symbol and Sacred Space in Rural India: Community Mobilization in the ‘Anti-Cow Killing’ Riot of 1893.” *Comparative Studies in Society and History* 22, no. 4 (1980): 576–96.
 * Tanika Sarkar, "Communal Riots in Bengal," *Communal and Pan-Islamic Trends in Colonial India*, Mushirul Hasan (ed.). New Delhi, 1985
 *	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” *Anthropology Today* 1, no. 3 (1985): 4–6.
 *	Pandey, Gyanendra, 'In Defence of the Fragment: Writing about Hindu-Muslim Riots in India Today', *Representations*, 37 (Winter, 1992).
 
-
-### April 6: The Question of Language
+### MArch 30: The Question of Language
 *	Brass, Paul R. “Muslim Separatism in United Provinces: Social Context and Political Strategy before Partition.” *Economic and Political Weekly* 5, no. 3/5 (1970): 167–86.
 *	King, Christopher. *One language, Two scripts: The Hindi movement in nineteenth century North India*. Oxford University Press, 1994 [chp 3-4-5]
 *	Ramaswamy, Sumathi. *Passions of the Tongue: Language Devotion in Tamil India, 1891-1970*. University of California Press, Berkeley, 1997. [chp 1-2-3]
 * Chatterjee, Kumkum. “History as Self-Representation: The Recasting of a Political Tradition in Late Eighteenth-Century Eastern India.” *Modern Asian Studies* 32, no. 4 (1998): 913–48.
 * Alam, Muzaffar. “The Pursuit of Persian: Language in Mughal Politics.” *Modern Asian Studies* 32, no. 2 (1998): 317–49.
 * Orsini, Francesca. “What Did They Mean by ‘Public’? Language, Literature and the Politics of Nationalism.” *Economic and Political Weekly* 34, no. 7 (1999): 409–16.
+
+### April 6: The Question of Caste [Guest lecture: Dr. Chinnaiah Jangam]
+*	Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications* (Oxford: Oxford University Press, 1970)[chp 2-3-4-5]
+* Appadurai, Arjun. "Review of Is Homo Hierarchicus?, by E. Valentine Daniel, Ravindra S. Khare, and Ashis Nandy". *American Ethnologist* 13, no. 4 (1986): 745–61
+* Dirks, Nicholas B. “Castes of Mind.” *Representations*, no. 37 (1992): 56–78
+*	Omvedt, Gail. *Dalits and the Democratic Revolution: Dr. Ambedkar and the Dalit Movement in Colonial India*. Thousand Oaks: Sage, 1994.[chp 3-4-7-8-9]
+* Guru, Gopal, "The Politics of Naming," *Seminar* 471, ‘Dalit’, November 1998, pp. 14-18
 
 ### April 13: The Question of Labour
 * Arnold, David, "The Colonial Prison: Power, Knowledge and Penology in Ninteenth-Century India," *Subaltern Studies VIII: Essays in honour of Ranajit Guha* David Arnold, David Hardiman (eds.) New Delhi: Oxford University Press, 1994: 148-184.
