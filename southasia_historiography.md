@@ -85,7 +85,7 @@ There are two types of writing assignments.
 *	Jalal, Ayesha. *Democracy and Authoritarianism in South Asia: A Comparative and Historical Perspective*. Cambridge: Cambridge University Press, 1995. [chp 2]
 * Jalal, Ayesha. “Conjuring Pakistan: History as Official Imagining.” *International Journal of Middle East Studies* 27, no. 1 (1995): 73–89.
 
-### March 2: The Question of the Woman
+### March 2: The Question of the Woman [Guest lecture: Dr. Durba Mitra]
 *	Minault, Gail. “Begamati Zuban: Women’s Language and Culture in Nineteenth-Century Delhi.” *India International Centre Quarterly* 11, no. 2 (1984): 155–70.
 *	Guha, Ranajit. “Chandra's Death” in David Arnold and David Hardiman (ed.) *Subaltern Studies* Vol. V. New Delhi: Oxford University Press, 1987.
 *	Spivak, Gayatri.  “Can the Subaltern Speak?” in Cary Nelson and Lawrence Grossberg (eds), *Marxism and the Interpretation of Culture* Urbana, IL: University of Illinois Press, 1988, 271-313.
