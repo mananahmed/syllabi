@@ -105,7 +105,7 @@ There are two types of writing assignments.
 *	Das, Veena. “Anthropological Knowledge and Collective Violence: The Riots in Delhi, November 1984.” *Anthropology Today* 1, no. 3 (1985): 4–6.
 *	Pandey, Gyanendra, 'In Defence of the Fragment: Writing about Hindu-Muslim Riots in India Today', *Representations*, 37 (Winter, 1992).
 
-### MArch 30: The Question of Language
+### March 30: The Question of Language
 *	Brass, Paul R. “Muslim Separatism in United Provinces: Social Context and Political Strategy before Partition.” *Economic and Political Weekly* 5, no. 3/5 (1970): 167–86.
 *	King, Christopher. *One language, Two scripts: The Hindi movement in nineteenth century North India*. Oxford University Press, 1994 [chp 3-4-5]
 *	Ramaswamy, Sumathi. *Passions of the Tongue: Language Devotion in Tamil India, 1891-1970*. University of California Press, Berkeley, 1997. [chp 1-2-3]
