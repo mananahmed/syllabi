@@ -120,7 +120,7 @@ There are two types of writing assignments.
 *	Omvedt, Gail. *Dalits and the Democratic Revolution: Dr. Ambedkar and the Dalit Movement in Colonial India*. Thousand Oaks: Sage, 1994.[chp 3-4-7-8-9]
 * Guru, Gopal, "The Politics of Naming," *Seminar* 471, ‘Dalit’, November 1998, pp. 14-18
 
-### April 13: The Question of Labour
+### April 13: The Question of Labour [Held on Zoom]
 * Arnold, David, "The Colonial Prison: Power, Knowledge and Penology in Ninteenth-Century India," *Subaltern Studies VIII: Essays in honour of Ranajit Guha* David Arnold, David Hardiman (eds.) New Delhi: Oxford University Press, 1994: 148-184.
 *	Chandavarkar, Rajnarayan. *The Origins of Industrial Capitalism: Business Strategies and the Working Classes in Bombay, 1900–1940*. Cambridge: Cambridge University Press, 1994 [chp 2-3-4-6]
 *	Sen, Samita. *Women and Labour in Late Colonial India. The Bengal Jute Industry*. Cambridge University Press, Cambridge, 1999. [chp 2-3-4]
