@@ -125,7 +125,7 @@ There are two types of writing assignments.
 *	Chandavarkar, Rajnarayan. *The Origins of Industrial Capitalism: Business Strategies and the Working Classes in Bombay, 1900–1940*. Cambridge: Cambridge University Press, 1994 [chp 2-3-4-6]
 *	Sen, Samita. *Women and Labour in Late Colonial India. The Bengal Jute Industry*. Cambridge University Press, Cambridge, 1999. [chp 2-3-4]
 
-### April 20: The Question of Partition
+### April 20: The Question of Partition [Guest Lecture: Dr. Pallavi Raghavan]
 *	Philips, Cyril Henry and Mary Doreen Wainwright (eds.). *The Partition of India: Policies and Perspectives 1935-1947* London: George Allen and Unwin Ltd., 1970. [A.G. Noorani (104-17), B.R. Nanda (148-88), Z.H. Zaidi (245-76), Humayun Kabir (390-406), C.S. Venkatachar (468-90), H.T. Lambrick (504-17)]
 * Gough, Kathleen and Hari P. Sharma (eds.) *Imperialism and revolution in South Asia*. New York: Monthly Review Press, 1973. [Obeysekara, Mukherjee, Ahmed F.]
 *	Jalal, Ayesha, and Anil Seal. “Alternative to Partition: Muslim Politics between the Wars.” *Modern Asian Studies* 15, no. 3 (1981): 415–54
