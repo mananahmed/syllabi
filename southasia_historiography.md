@@ -129,7 +129,7 @@ There are two types of writing assignments.
 *	Philips, Cyril Henry and Mary Doreen Wainwright (eds.). *The Partition of India: Policies and Perspectives 1935-1947* London: George Allen and Unwin Ltd., 1970. [A.G. Noorani (104-17), B.R. Nanda (148-88), Z.H. Zaidi (245-76), Humayun Kabir (390-406), C.S. Venkatachar (468-90), H.T. Lambrick (504-17)]
 * Gough, Kathleen and Hari P. Sharma (eds.) *Imperialism and revolution in South Asia*. New York: Monthly Review Press, 1973. [Obeysekara, Mukherjee, Ahmed F.]
 *	Jalal, Ayesha, and Anil Seal. “Alternative to Partition: Muslim Politics between the Wars.” *Modern Asian Studies* 15, no. 3 (1981): 415–54
-*	Butalia, Urvashi. *The Other Side of Silence*. New Delhi: Penguin Books, 1998
+*	Butalia, Urvashi. *The Other Side of Silence*. New Delhi: Penguin Books, 1998 [chp 1, 3, 8]
 
 
 ### April 27: Conclusions
