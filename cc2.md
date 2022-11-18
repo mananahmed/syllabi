@@ -69,7 +69,7 @@ John Locke (1632-1704), Jean-Jacques Rousseau (1712-1778), Adam Smith (1723-1790
   * Discussion of the Break Essays
 
 * Monday, January 24
-  * David Hume, *Of National Characters* (1748)  
+  * David Hume, *Of National Characters* (1748) and *Of the Rise and Progress of the Arts and Sciences* (1742)
   * Jean Jacques Rousseau, *Discourse on the Origin and Basis of Inequality Among Men,* 1755  
 
 * Wednesday, January 26
