@@ -84,6 +84,7 @@ There are two types of writing assignments.
 *	Sarkar, Tanika, "Hindu Conjugality and Nationalism in Late Nineteenth Century Bengal." In *Indian Women: Myth and Reality*, Jasodhara Bagchi (ed.). Calcutta: Sangam Books Limited, 1995.
 *	Jalal, Ayesha. *Democracy and Authoritarianism in South Asia: A Comparative and Historical Perspective*. Cambridge: Cambridge University Press, 1995. [chp 2]
 * Jalal, Ayesha. “Conjuring Pakistan: History as Official Imagining.” *International Journal of Middle East Studies* 27, no. 1 (1995): 73–89.
+* Shahla Hussain, “Mapping Kashmiri Visions of Freedom: The Past and the Present” in Chitralekha Zutshi (ed.), *New Perspectives on Kashmir: History, Representation, and Politics*, Cambridge University Press, 2017: 89-110.
 
 ### March 2: The Question of the Woman [Guest lecture: Dr. Durba Mitra]
 *	Minault, Gail. “Begamati Zuban: Women’s Language and Culture in Nineteenth-Century Delhi.” *India International Centre Quarterly* 11, no. 2 (1984): 155–70.
