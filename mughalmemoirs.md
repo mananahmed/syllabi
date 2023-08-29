@@ -26,8 +26,9 @@ Michael Fisher, *The Short History of the Mughal Empire* (Bloomsbury Academic 20
 ### Additional Texts:
 
 * *Three Memoirs of Humayun* William Thackston (Bibliotheca Iranica, 2009)
-https://archive.org/details/historyofhumayun00gulbrich/page/n7/mode/2up
+http://www.mazdapublishers.com/book/three-memoirs-of-homayun
 * *The Jahangirnama: Memoirs of Jahangir, Emperor of India*, trans. William Thackston. Washington, D.C.: Smithsonian Institute, 1999.
+https://library.si.edu/digital-library/book/jahangirnamamemo00jaha
 
 ### Course Policies:
 
