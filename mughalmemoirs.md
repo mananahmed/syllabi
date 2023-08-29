@@ -23,6 +23,12 @@ This focus on memoir and autobiographical writing would allow us to delve far de
 * *The History of Akbar: vol 3* (Harvard University Press 2017) (ISBN 978-0674545595)
 Michael Fisher, *The Short History of the Mughal Empire* (Bloomsbury Academic 2019) (ISBN 978-1350127531
 
+### Additional Texts:
+
+* *Three Memoirs of Humayun* William Thackston (Bibliotheca Iranica, 2009)
+https://archive.org/details/historyofhumayun00gulbrich/page/n7/mode/2up
+* *The Jahangirnama: Memoirs of Jahangir, Emperor of India*, trans. William Thackston. Washington, D.C.: Smithsonian Institute, 1999.
+
 ### Course Policies:
 
 **Land Acknowledgment:** At Columbia's Morningside campus, we acknowledge that we are on the territory of the Lenape and Wappinger peoples. Many indigenous communities have lived in and moved through this place over time. Indigenous people from many nations live and work in this region today.  We acknowledge their communities by paying respect to their elders past and present, and recognizing their active presence and their futurity, reposed in the generations present and those to come.
