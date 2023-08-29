@@ -1,5 +1,5 @@
 
-##The Mughal Memoirs, or, The Timurid Ego-Documents
+## The Mughal Memoirs, or, The Timurid Ego-Documents
 HIST 3803 W
 Manan Ahmed
 Tu 10:10-12:00
