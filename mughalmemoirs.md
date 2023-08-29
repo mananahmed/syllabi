@@ -42,7 +42,7 @@ Michael Fisher, *The Short History of the Mughal Empire* (Bloomsbury Academic 20
 
 * Tue, Sep. 5
 Introductions
-Peter Burke, "Historicizing the Self 1770-1830"
+Peter Burke, "Historicizing the Self 1770-1830" (in CW)
 * Tue., Sep. 12
 Fisher, A Short Introduction, 1-166 [Response 1 due]
 * Tue., Sep. 19
