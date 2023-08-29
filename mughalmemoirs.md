@@ -4,7 +4,7 @@ HIST 3803 W
 Manan Ahmed
 Tu 10:10-12:00
 Office Hours Mondays 1-3pm by signup ONLY
-https://pad.riseup.net/p/OfficeHours_AY23-24-keep
+https://pad.riseup.net/p/OfficeHours_AY23-24-keep 
 
 
 ### Course Description
