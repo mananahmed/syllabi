@@ -49,7 +49,7 @@ RESPONSE 1 DUE BEFORE CLASS
 ### September 19, 2023 Colonizing Native Knowledges
 1. Christopher Columbus,  “Letter of Columbus to Luis de Santangel” (1493)
 2. Letter of the King of Portugal Sent to the King of Castile Concerning the Voyage and Success of India (1505)
-3. Chimalpahin Quauhtlehuanitzin, *Annals of His Time*--1608(pgs. 106-154)
+3. Chimalpahin Quauhtlehuanitzin, *Annals of His Time*--1608(pgs. 106-154). Also see [3D rendering of Tenochtitlan](https://tenochtitlan.thomaskole.nl/)
 
 ### September 19, 2023: SPECIAL LECTURE AMITAV GHOSH ON LOW FAMILY+COLUMBIA UNIVERSITY
 
