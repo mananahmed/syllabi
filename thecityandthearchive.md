@@ -5,6 +5,8 @@ instructor: Manan Ahmed
 office: Fayerweather Hall 502
 
 ---
+ ![The City & the Archive](https://github.com/mananahmed/syllabi/blob/master/images/Ahmed_SpringClass2024.jpg "poster")
+
 
 ### Course Overview:
 How to write the city? What is an archive for writing the city? What liminal and marginal perspectives are available for thinking about writing the city? What is the place of the city in the global south in our historical imagination? Our attempt in this seminar is to look at the global south city from the historical and analytical perspectives of those dispossessed and marginal. Instead of ‘grand’ summations about “the Islamic City” or “Global City,” we will work meticulously to observe annotations on power that constructs cities, archives and their afterlives. The emphasis is on the city in South Asia as a particular referent though we will learn to see Cairo, New York, and Istanbul. We will also ‘write’ the city, with particular attention to the archives of Sister Aisha al-Adawiya < https://crcc.usc.edu/aisha-al-adawiya-making-space-for-women-in-mosques/> available at Union Theological Seminary and of Muslim Sufi and Jazz musician Ibrahim González < https://current.org/2013/06/ibrahim-gonzalez-wbai-personality-and-producer-dies-at-57/> at Centro de Estudios Puertorriqueños (CUNY). These archives of individual lives and their relationship to New York City’s Black and Latinx populations will be the base from which we will attempt to parse out our individual relationship to writing New York.
