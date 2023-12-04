@@ -14,7 +14,7 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 1. Presentation on Class Readings: 10%
 2. Response Papers: 30 %
 3. Keyword Paper Abstract and Bibliography (5 pgs): 20%
-4. Keyword Final Paper (4000 words max): 40%
+4. Keyword Final Paper or Approved Research Paper: 40%
 
 ### Course Texts:
 
