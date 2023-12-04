@@ -77,7 +77,7 @@ Additional Readings
 #### 03/19
 * W. H. McLeod. The Chaupa Singh Rahit-nama (Dunedin: University of Otago Press, 1987)
 
-From here on we will work with consensus and choose readings from the "Additional Readings" to discuss. 
+From here on we will work with consensus and choose readings from the "Additional Readings" to discuss. We will also work and present on Keyword papers or Research papers in a "workshop" model for the following dates:
 03/26
 04/02
 04/09
