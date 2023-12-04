@@ -11,9 +11,9 @@ This graduate seminar focuses on agents, subjects and objects that catalyzed the
 
 ### Requirements:
 
-1. Presentation on Class Readings: 10%
-2. Response Papers: 30 %
-3. Keyword Paper Abstract and Bibliography (5 pgs): 20%
+1. Group Presentation on Class Readings: 20%
+2. Weekly Discussion Posts & Response to Readings: 20 %
+3. Keyword Paper Abstract or Reseach Bibliography: 20%
 4. Keyword Final Paper or Approved Research Paper: 40%
 
 ### Course Texts:
