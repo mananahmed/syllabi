@@ -1,7 +1,7 @@
 # History 8495: Borderlands History
 
 ### Professors Manan Ahmed
-### Spring 2024
+### Spring 2025
 
 ![Anduril’s Extended Range Sentry Tower (XRST) autonomous system at the U.S.-Mexico border.](images/sentry.jpg)
 
