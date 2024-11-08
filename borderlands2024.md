@@ -3,7 +3,7 @@
 ### Professors Manan Ahmed
 ### Spring 2024
 
-![Syllabus subject to change](images/borderlands2022.jpg)
+![Anduril’s Extended Range Sentry Tower (XRST) autonomous system at the U.S.-Mexico border.](images/sentry.jpg)
 
 ### Course Description:
 
