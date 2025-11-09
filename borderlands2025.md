@@ -4,7 +4,7 @@
 # M 10:10am-12:00pm
 
 
-<Anduril’s Extended Range Sentry Tower (XRST) autonomous system at the U.S.-Mexico border.>
+![Syllabus subject to change](images/anduril.jpg)<Anduril’s Extended Range Sentry Tower (XRST) autonomous system at the U.S.-Mexico border.>
 
 **Course Description**: Although questions of national expansion and boundary creation were fundamental to the work of such leading nineteenth-century historians as Francis Parkman and Frederick Jackson Turner, only in recent years have these topics recaptured the historical imagination.  Scholars operating under the rubric of “borderlands history” have found the complex racial composition, forbidding yet fragile environment, wars of conquest, boom and bust development, and rapid urbanization of border regions around the world to be fertile terrain for a wide range of fresh approaches to the past.  No longer marginal regions relegated the periphery of historical analysis, the borderlands have instead emerged in this new literature as central to any effort to grapple with notions of empire and imperialism, the contingent nature of state building and of race, gender, and sexuality, and with transnational and comparative units of historical analysis.  
 
