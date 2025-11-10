@@ -1,7 +1,7 @@
 # History 8495: Borderlands History
-# Professor Manan Ahmed
-# Spring 2025
-# M 10:10am-12:00pm
+## Professor Manan Ahmed
+## Spring 2025
+## M 10:10am-12:00pm
 
 
 ![Syllabus subject to change](images/andruil.jpg)<Anduril’s Extended Range Sentry Tower (XRST) autonomous system at the U.S.-Mexico border.>
@@ -100,13 +100,13 @@ Raffaella A. Del Sarto. *Borderlands: Europe and the Mediterranean Middle East* 
 * OCHA, *Movement and Access in the West Bank* | September 2024
 
 **April 14, 2025**
-Nosheen Ali. *Delusional States: Feeling Rule and Development in Pakistan’s Northern Frontier.* (Cambridge: Cambridge University Press, 2019)
+* Nosheen Ali. *Delusional States: Feeling Rule and Development in Pakistan’s Northern Frontier.* (Cambridge: Cambridge University Press, 2019)
 
 **April 21, 2025**
-Sahana Ghosh. *A thousand tiny cuts : mobility and security across the Bangladesh-India borderlands* (University of California Press, 2023)
+* Sahana Ghosh. *A thousand tiny cuts : mobility and security across the Bangladesh-India borderlands* (University of California Press, 2023)
 
 **April 28, 2025**
-Suchitra Vajayan. *Midnight’s Borders: A People's History of Modern India*
+* Suchitra Vajayan. *Midnight’s Borders: A People's History of Modern India*
 
 **May 5, 2025**
 Conclusions
